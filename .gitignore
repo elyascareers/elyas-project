@@ -1,0 +1,5 @@
+# Ignore large data files (kept locally, exceed GitHub limits)
+Data_Raw/
+*.csv
+!Data_Processed/Summary_Tables/*.csv
+
