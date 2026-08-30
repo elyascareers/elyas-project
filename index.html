@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Elyas — Data Analytics Portfolio</title>
+<title>Elyas Zulqarnain &mdash; Data Analytics Portfolio</title>
 <style>
   :root{ --bg:#0f1720; --card:#182430; --ink:#e8eef4; --muted:#9fb0c0; --accent:#e1812c; --blue:#3274a1; --line:#26333f; }
   *{box-sizing:border-box}
@@ -33,6 +33,7 @@
   .btn:hover{text-decoration:none;opacity:.92}
   .soon{opacity:.6}
   .soon .pill{font-size:.75rem;border:1px dashed var(--muted);padding:2px 8px;border-radius:12px;color:var(--muted)}
+  .about p{margin:0 0 14px}
   footer{padding:34px 0 60px;color:var(--muted);font-size:.9rem}
   @media(max-width:640px){.charts{grid-template-columns:1fr}}
 </style>
@@ -41,8 +42,8 @@
 <header>
   <div class="wrap">
     <h1>Elyas Zulqarnain</h1>
-    <p>Aspiring Data Analyst — turning raw data into clear, useful answers.</p>
-    <span class="tag">Power BI · SQL · Data storytelling</span>
+    <p>From operations to analytics &mdash; turning real-world data into clear, useful answers.</p>
+    <span class="tag">Power BI &middot; Excel &middot; SQL &middot; Data storytelling</span>
   </div>
 </header>
 
@@ -51,12 +52,12 @@
     <h2>Projects</h2>
 
     <div class="card">
-      <h3>1 · Cyclistic Bike-Share Analysis</h3>
-      <div class="sub">Google Data Analytics capstone · built end-to-end in Power BI</div>
+      <h3>1 &middot; Cyclistic Bike-Share Analysis</h3>
+      <div class="sub">Google Data Analytics capstone &middot; built end-to-end in Power BI</div>
       <p><strong>Question:</strong> How do annual members and casual riders use the bikes differently?</p>
       <ul>
-        <li><strong>Members</strong> = 91.4% of rides, but short (~13 min) weekday trips → commuters.</li>
-        <li><strong>Casual</strong> riders = 8.6%, but far longer (~23 min median) trips, mostly weekends → leisure/tourists.</li>
+        <li><strong>Members</strong> = 91.4% of rides, but short (~13 min) weekday trips &rarr; commuters.</li>
+        <li><strong>Casual</strong> riders = 8.6%, but far longer (~23 min median) trips, mostly weekends &rarr; leisure/tourists.</li>
         <li>Casual riding peaks at lakefront/tourist stations and grows into spring.</li>
       </ul>
       <div class="charts">
@@ -64,20 +65,32 @@
         <img src="Final_Output/Charts/02_ridelength_by_type.png" alt="Ride length by user type">
       </div>
       <div class="btns">
-        <a class="btn primary" href="https://github.com/datatitbit/elyas-project/blob/main/Final_Output/Cyclistic_Report.md">Read the full report</a>
-        <a class="btn" href="https://github.com/datatitbit/elyas-project/blob/main/Documentation/Process_Documentation.md">Process documentation</a>
-        <a class="btn" href="https://github.com/datatitbit/elyas-project">GitHub repo</a>
+        <a class="btn primary" href="https://github.com/elyascareers/elyas-project/blob/main/Final_Output/Cyclistic_Report.md">Read the full report</a>
+        <a class="btn" href="https://github.com/elyascareers/elyas-project/blob/main/Documentation/Process_Documentation.md">Process documentation</a>
+      </div>
+    </div>
+
+    <div class="card">
+      <h3>2 &middot; Customer Segmentation (RFM)</h3>
+      <div class="sub">Digital marketing / e-commerce &middot; built end-to-end in Power BI</div>
+      <p><strong>Question:</strong> How do we segment customers so marketing can target the right people?</p>
+      <ul>
+        <li><strong>Champions</strong> (24% of customers) respond to campaigns at <strong>30%</strong>; Hibernating (6%) at 1%.</li>
+        <li>Response rate tracks customer value almost perfectly &mdash; a small group drives most responses.</li>
+        <li>Wine &amp; meat dominate spend; the physical store is the top channel.</li>
+      </ul>
+      <div class="charts">
+        <img src="digital-marketing/Final_Output/Charts/02_response_by_segment.png" alt="Response rate by segment">
+        <img src="digital-marketing/Final_Output/Charts/01_segment_sizes.png" alt="Customers per segment">
+      </div>
+      <div class="btns">
+        <a class="btn primary" href="https://github.com/elyascareers/elyas-project/blob/main/digital-marketing/Final_Output/Marketing_Report.md">Read the full report</a>
+        <a class="btn" href="https://github.com/elyascareers/elyas-project/blob/main/digital-marketing/Documentation/Process_Documentation.md">Process documentation</a>
       </div>
     </div>
 
     <div class="card soon">
-      <h3>2 · Digital Marketing Analytics <span class="pill">Coming soon</span></h3>
-      <div class="sub">In progress</div>
-      <p>A digital marketing data project — campaign and channel performance analysis.</p>
-    </div>
-
-    <div class="card soon">
-      <h3>3 · AI Project <span class="pill">Coming soon</span></h3>
+      <h3>3 &middot; AI Project <span class="pill">Coming soon</span></h3>
       <div class="sub">In progress</div>
       <p>An applied AI project. Details to follow.</p>
     </div>
@@ -85,18 +98,25 @@
 </section>
 
 <section>
-  <div class="wrap">
+  <div class="wrap about">
     <h2>About</h2>
-    <p>I'm a beginner data analyst building a portfolio of hands-on projects. Each one takes a
-       real question, works through messy data, and ends with clear findings and recommendations.
-       This site grows as I add projects.</p>
+    <p>I'm Elyas Zulqarnain &mdash; an administrative and operations professional with over 10 years of
+       experience across education, real estate, and public-sector organizations, in roles from
+       branch manager to school administrator. I hold a B.Sc. in Marketing from the University of
+       Cape Coast, and I've recently completed Google's <strong>Data Analytics</strong> and
+       <strong>Digital Marketing &amp; E-commerce</strong> Professional Certificates.</p>
+    <p>Years of running teams, workflows, and reporting taught me that good decisions start with
+       clear information. I'm now bringing that operations mindset to data &mdash; building hands-on
+       projects that turn messy, real-world data into findings people can actually act on. This
+       portfolio is where I share that work as I grow into a data career. Based in Abu Dhabi, UAE,
+       and open to data analytics and related roles.</p>
   </div>
 </section>
 
 <footer>
   <div class="wrap">
-    GitHub: <a href="https://github.com/datatitbit">github.com/datatitbit</a>
-    &nbsp;·&nbsp; Email: <a href="mailto:simpletitbit@gmail.com">simpletitbit@gmail.com</a>
+    GitHub: <a href="https://github.com/elyascareers/elyas-project">github.com/elyascareers</a>
+    &nbsp;&middot;&nbsp; Email: <a href="mailto:elyas.careers@gmail.com">elyas.careers@gmail.com</a>
   </div>
 </footer>
 </body>

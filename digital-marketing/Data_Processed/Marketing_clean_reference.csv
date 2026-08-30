@@ -1,0 +1,2208 @@
+ID,Age,Education,Marital_Status,Income,Children,Recency,Frequency,Monetary,R_score,F_score,M_score,RFM,Segment,TotalAcceptedCmp,Response
+5524,57,Graduation,Single,58138.0,0,58,22,1617,2,4,4,10,Champions,0,1
+2174,60,Graduation,Single,46344.0,2,38,4,27,3,1,1,5,At Risk,0,0
+4141,49,Graduation,Partner,71613.0,0,26,20,776,3,4,3,10,Champions,0,0
+6182,30,Graduation,Partner,26646.0,1,26,6,53,3,1,1,5,At Risk,0,0
+5324,33,PhD,Partner,58293.0,1,94,14,422,1,3,3,7,Potential Loyalists,0,0
+7446,47,Master,Partner,62513.0,1,16,20,716,4,4,3,11,Champions,0,0
+965,43,Graduation,Single,55635.0,1,34,17,590,3,3,3,9,Loyal Customers,0,0
+6177,29,PhD,Partner,33454.0,1,32,8,169,3,2,2,7,Potential Loyalists,0,0
+4855,40,PhD,Partner,30351.0,1,19,5,46,4,1,1,6,Potential Loyalists,0,1
+5899,64,PhD,Partner,5648.0,2,68,1,49,2,1,1,4,At Risk,1,0
+387,38,Basic,Partner,7500.0,0,59,5,61,2,1,1,4,At Risk,0,0
+2125,55,Graduation,Single,63033.0,0,82,15,1102,1,3,4,8,Loyal Customers,0,0
+8180,62,Master,Single,59354.0,2,53,12,310,2,2,2,6,Potential Loyalists,0,0
+2569,27,Graduation,Partner,17323.0,0,38,4,46,3,1,1,5,At Risk,0,0
+2114,68,PhD,Single,82800.0,0,23,25,1315,4,4,4,12,Champions,2,1
+9736,34,Graduation,Partner,41850.0,2,51,6,96,2,1,2,5,At Risk,0,0
+4939,68,Graduation,Partner,37760.0,0,20,11,317,4,2,2,8,Loyal Customers,0,0
+6565,65,Master,Partner,76995.0,1,91,24,1782,1,4,4,9,Loyal Customers,1,0
+2278,29,2n Cycle,Single,33812.0,1,86,6,133,1,1,2,4,At Risk,0,0
+9360,32,Graduation,Partner,37040.0,0,41,11,316,3,2,2,7,Potential Loyalists,0,0
+5376,35,Graduation,Partner,2447.0,1,42,28,1730,3,4,4,11,Champions,0,0
+1993,65,PhD,Partner,58607.0,1,63,14,972,2,3,3,8,Loyal Customers,1,0
+4047,60,PhD,Partner,65324.0,1,0,17,544,4,3,3,10,Champions,0,0
+1409,63,Graduation,Partner,40689.0,1,69,13,444,2,3,3,8,Loyal Customers,0,0
+7892,45,Graduation,Single,18589.0,0,89,6,75,1,1,2,4,At Risk,0,0
+2404,38,Graduation,Partner,53359.0,2,4,10,257,4,2,2,8,Loyal Customers,0,0
+9422,25,Graduation,Partner,38360.0,1,26,7,131,3,2,2,7,Potential Loyalists,0,0
+1966,49,PhD,Partner,84618.0,0,96,25,1672,1,4,4,9,Loyal Customers,1,0
+6864,25,Master,Single,10979.0,0,34,6,30,3,1,1,5,At Risk,0,0
+3033,51,Master,Partner,38620.0,0,56,10,318,2,2,2,6,Potential Loyalists,0,0
+5710,44,Graduation,Partner,40548.0,1,31,7,120,3,2,2,7,Potential Loyalists,1,0
+7373,62,PhD,Single,46610.0,2,8,11,302,4,2,2,8,Loyal Customers,0,1
+8755,68,Master,Partner,68657.0,0,4,17,1196,4,3,4,11,Champions,0,0
+10738,63,Master,Single,49389.0,2,55,5,65,2,1,1,4,At Risk,0,0
+4339,44,PhD,Partner,67353.0,1,37,23,913,3,4,3,10,Champions,0,0
+10755,38,2n Cycle,Partner,23718.0,1,76,6,81,1,1,2,4,At Risk,0,0
+8595,41,Graduation,Single,42429.0,1,99,5,67,1,1,1,3,Hibernating,0,0
+2968,71,PhD,Single,48948.0,0,53,22,902,2,4,3,9,Loyal Customers,1,1
+8601,34,Graduation,Partner,80011.0,1,3,19,1395,4,3,4,11,Champions,0,0
+503,29,Master,Partner,20559.0,1,88,5,53,1,1,1,3,Hibernating,0,0
+8430,57,Graduation,Partner,21994.0,1,4,3,22,4,1,1,6,Potential Loyalists,0,0
+2139,39,Master,Partner,7500.0,1,19,5,31,4,1,1,6,Potential Loyalists,0,0
+1371,38,Graduation,Single,79941.0,0,72,15,984,2,3,3,8,Loyal Customers,0,0
+9909,18,2n Cycle,Partner,7500.0,0,24,7,122,4,2,2,8,Loyal Customers,0,1
+7286,46,Graduation,Partner,41728.0,1,92,4,55,1,1,1,3,Hibernating,0,0
+6566,60,PhD,Partner,72550.0,2,39,19,1319,3,4,4,11,Champions,0,0
+8614,57,Graduation,Single,65486.0,1,29,16,507,3,3,3,9,Loyal Customers,0,0
+4114,50,Master,Partner,79143.0,0,2,28,1693,4,4,4,12,Champions,0,0
+1331,37,Graduation,Single,35790.0,1,54,5,72,2,1,2,5,At Risk,0,0
+2225,37,Graduation,Single,82582.0,0,54,20,1617,2,4,4,10,Champions,2,1
+9381,36,Graduation,Partner,66373.0,2,57,16,606,2,3,3,8,Loyal Customers,0,0
+6260,59,Master,Partner,82384.0,0,55,26,1957,2,4,4,10,Champions,1,1
+10383,48,Graduation,Single,70287.0,0,30,20,1093,3,4,4,11,Champions,0,1
+7437,26,Graduation,Single,27938.0,1,31,5,29,3,1,1,5,At Risk,0,0
+8375,46,PhD,Partner,55954.0,1,63,16,518,2,3,3,8,Loyal Customers,0,0
+6853,32,Master,Single,75777.0,0,12,20,1438,4,4,4,12,Champions,2,1
+3076,39,Graduation,Partner,66653.0,2,18,18,612,4,3,3,10,Champions,0,0
+1012,62,Graduation,Single,61823.0,1,26,20,884,3,4,3,10,Champions,0,0
+6518,63,PhD,Single,67680.0,1,8,18,606,4,3,3,10,Champions,0,0
+4137,66,Graduation,Partner,70666.0,0,29,15,1076,3,3,4,10,Champions,0,0
+8082,43,Graduation,Partner,25721.0,1,75,4,34,1,1,1,3,Hibernating,0,1
+1386,47,Graduation,Partner,32474.0,2,0,3,11,4,1,1,6,Potential Loyalists,0,0
+9369,35,2n Cycle,Single,88194.0,1,19,31,1274,4,4,4,12,Champions,2,1
+4477,56,Graduation,Partner,69096.0,1,4,17,653,4,3,3,10,Champions,0,0
+1357,44,Graduation,Partner,74854.0,3,90,12,1562,1,2,4,7,Potential Loyalists,0,0
+1402,60,Master,Partner,66991.0,0,1,18,1253,4,3,4,11,Champions,0,0
+6312,55,Graduation,Partner,65031.0,1,29,26,863,3,4,3,10,Champions,0,0
+8132,39,PhD,Partner,60631.0,2,88,19,661,1,4,3,8,Loyal Customers,1,0
+1050,62,Graduation,Partner,28332.0,0,58,7,65,2,2,1,5,At Risk,0,0
+5846,37,Graduation,Single,40246.0,1,68,3,13,2,1,1,4,At Risk,0,0
+1859,42,Master,Partner,75251.0,0,34,18,1890,3,3,4,10,Champions,0,1
+7503,38,Graduation,Single,75825.0,0,40,22,2209,3,4,4,11,Champions,1,1
+10401,38,2n Cycle,Partner,26326.0,0,12,3,18,4,1,1,6,Potential Loyalists,0,0
+1618,49,Graduation,Partner,56046.0,0,9,19,692,4,4,3,11,Champions,1,1
+3332,29,Graduation,Single,29760.0,1,87,8,165,1,2,2,5,At Risk,0,0
+2261,45,Graduation,Partner,26304.0,1,5,3,16,4,1,1,6,Potential Loyalists,0,0
+5346,41,2n Cycle,Partner,23559.0,1,87,6,79,1,1,2,4,At Risk,0,0
+4119,51,Master,Partner,38620.0,0,56,10,318,2,2,2,6,Potential Loyalists,0,0
+535,27,Graduation,Single,81361.0,0,18,26,778,4,4,3,11,Champions,0,0
+5268,54,Graduation,Partner,29440.0,2,95,5,56,1,1,1,3,Hibernating,0,0
+273,44,Master,Partner,36138.0,2,48,8,151,3,2,2,7,Potential Loyalists,1,0
+4452,57,Graduation,Single,50388.0,1,3,13,372,4,3,2,9,Loyal Customers,2,1
+8504,41,Graduation,Partner,79593.0,0,70,18,1366,2,3,4,9,Loyal Customers,1,0
+771,47,Graduation,Partner,54178.0,1,79,9,194,1,2,2,5,At Risk,0,0
+11178,42,Master,Single,42394.0,1,69,4,32,2,1,1,4,At Risk,0,0
+2230,44,PhD,Partner,23626.0,1,84,7,43,1,2,1,4,At Risk,0,0
+7516,31,Graduation,Partner,30096.0,1,30,5,45,3,1,1,5,At Risk,0,0
+7247,54,Graduation,Single,47916.0,1,72,17,606,2,3,3,8,Loyal Customers,1,0
+11100,42,Graduation,Single,51813.0,2,37,5,63,3,1,1,5,At Risk,0,0
+4646,63,2n Cycle,Partner,78497.0,0,44,24,978,3,4,3,10,Champions,1,0
+3037,31,PhD,Partner,50150.0,0,32,14,410,3,3,3,9,Loyal Customers,0,0
+1473,54,2n Cycle,Single,47823.0,1,0,5,72,4,1,2,7,Potential Loyalists,0,0
+1016,55,PhD,Single,34554.0,1,43,5,55,3,1,1,5,At Risk,0,0
+4518,35,Graduation,Partner,85693.0,1,59,25,1169,2,4,4,10,Champions,0,0
+9370,69,PhD,Partner,65846.0,0,68,15,1120,2,3,4,9,Loyal Customers,0,0
+8908,55,Graduation,Partner,87195.0,0,35,19,1097,3,4,4,11,Champions,0,1
+8373,35,Basic,Partner,24594.0,1,94,4,29,1,1,1,3,Hibernating,0,0
+7533,50,Graduation,Partner,49096.0,2,15,9,187,4,2,2,8,Loyal Customers,0,0
+2683,45,Graduation,Partner,52413.0,2,56,22,910,2,4,3,9,Loyal Customers,0,0
+3629,36,Graduation,Single,38557.0,1,17,7,145,4,2,2,8,Loyal Customers,0,0
+10991,54,Master,Partner,89058.0,0,18,13,850,4,3,3,10,Champions,0,0
+5077,35,Graduation,Partner,77298.0,1,46,23,969,3,4,3,10,Champions,0,0
+7431,23,PhD,Single,68126.0,0,40,16,1820,3,3,4,10,Champions,1,1
+3267,51,Master,Partner,57288.0,1,27,17,608,3,3,3,9,Loyal Customers,1,0
+999,23,Graduation,Single,86037.0,0,95,24,730,1,4,3,8,Loyal Customers,2,1
+9215,34,PhD,Partner,43974.0,1,19,16,551,4,3,3,10,Champions,0,0
+2286,52,Graduation,Single,50785.0,2,27,6,114,3,1,2,6,Potential Loyalists,0,0
+1592,44,Graduation,Partner,90765.0,0,25,15,1724,3,3,4,10,Champions,2,0
+367,36,2n Cycle,Partner,36550.0,1,74,15,577,2,3,3,8,Loyal Customers,0,0
+5234,47,2n Cycle,Partner,30753.0,2,85,5,81,1,1,2,4,At Risk,0,0
+9862,45,Graduation,Partner,21918.0,1,37,5,33,3,1,1,5,At Risk,0,0
+9805,61,Master,Partner,56129.0,1,65,18,660,2,3,3,8,Loyal Customers,0,0
+6205,47,Master,Single,32557.0,1,13,6,80,4,1,2,7,Potential Loyalists,0,1
+8442,29,Master,Partner,19510.0,2,63,4,30,2,1,1,4,At Risk,0,0
+7386,38,Graduation,Single,30992.0,1,83,4,43,1,1,1,3,Hibernating,0,0
+7215,31,Graduation,Single,101970.0,0,69,27,1135,2,4,4,10,Champions,3,1
+1491,49,2n Cycle,Partner,71488.0,0,87,14,559,1,3,3,7,Potential Loyalists,0,0
+11071,30,Graduation,Single,79607.0,0,37,15,1923,3,3,4,10,Champions,0,1
+3381,61,Master,Partner,54348.0,2,51,6,90,2,1,2,5,At Risk,0,0
+11051,58,PhD,Partner,77376.0,2,72,19,661,2,4,3,9,Loyal Customers,0,0
+8026,62,Graduation,Partner,62998.0,1,10,14,463,4,3,3,10,Champions,0,0
+433,56,Master,Single,61331.0,2,42,18,632,3,3,3,9,Loyal Customers,0,0
+9597,45,Graduation,Partner,73448.0,0,10,18,725,4,3,3,10,Champions,0,0
+5290,50,PhD,Partner,41551.0,2,51,11,279,2,2,2,6,Potential Loyalists,0,0
+1685,47,PhD,Partner,62981.0,0,21,22,1482,4,4,4,12,Champions,1,0
+5342,38,Basic,Single,9548.0,1,31,4,29,3,1,1,5,At Risk,0,0
+9579,55,PhD,Partner,33762.0,3,61,6,106,2,1,2,5,At Risk,0,0
+7660,41,PhD,Single,35860.0,2,37,4,49,3,1,1,5,At Risk,1,1
+1461,49,PhD,Single,36921.0,2,74,5,38,2,1,1,4,At Risk,0,0
+821,22,Master,Single,92859.0,0,46,21,2077,3,4,4,11,Champions,0,0
+11084,38,Master,Partner,65104.0,1,4,15,1053,4,3,4,11,Champions,0,1
+8690,52,Graduation,Partner,86111.0,0,73,22,1385,2,4,4,10,Champions,0,0
+2937,40,PhD,Single,68352.0,1,47,22,871,3,4,3,10,Champions,0,0
+9701,26,Graduation,Partner,41883.0,1,13,9,312,4,2,2,8,Loyal Customers,0,0
+9949,38,Graduation,Partner,59809.0,2,36,12,877,3,2,3,8,Loyal Customers,0,0
+10837,39,Graduation,Partner,23957.0,1,47,5,68,3,1,1,5,At Risk,0,1
+3120,33,Graduation,Partner,38547.0,1,49,3,22,3,1,1,5,At Risk,0,0
+5885,41,2n Cycle,Partner,35688.0,3,94,9,211,1,2,2,5,At Risk,0,0
+4050,48,Master,Partner,49605.0,0,65,7,127,2,2,2,6,Potential Loyalists,0,0
+3830,61,Master,Partner,59354.0,2,59,15,459,2,3,3,8,Loyal Customers,0,0
+7987,45,Graduation,Partner,65747.0,1,96,15,460,1,3,3,7,Potential Loyalists,1,0
+7798,42,2n Cycle,Partner,46344.0,1,28,13,429,3,3,3,9,Loyal Customers,0,0
+92,26,Graduation,Single,34176.0,1,12,7,89,4,2,2,8,Loyal Customers,0,0
+7055,62,PhD,Partner,61010.0,1,57,24,1021,2,4,3,9,Loyal Customers,0,0
+10240,65,Graduation,Partner,69372.0,0,10,20,1381,4,4,4,12,Champions,2,1
+3025,56,Graduation,Single,49967.0,1,4,12,306,4,2,2,8,Loyal Customers,0,0
+9283,36,Graduation,Single,60199.0,3,49,3,18,3,1,1,5,At Risk,0,0
+9970,37,Graduation,Partner,55375.0,1,3,8,162,4,2,2,8,Loyal Customers,0,0
+2730,59,Graduation,Single,80317.0,0,64,17,1231,2,3,4,9,Loyal Customers,0,0
+2795,56,Master,Single,30523.0,3,0,3,13,4,1,1,6,Potential Loyalists,0,0
+9260,69,PhD,Partner,70356.0,0,20,25,1706,4,4,4,12,Champions,0,0
+8182,30,Graduation,Partner,23228.0,1,91,7,121,1,2,2,5,At Risk,0,0
+10095,39,PhD,Single,74165.0,0,9,19,1293,4,4,4,12,Champions,0,0
+8475,41,PhD,Partner,157243.0,1,98,22,1608,1,4,4,9,Loyal Customers,0,0
+4370,48,Graduation,Partner,43482.0,3,83,6,88,1,1,2,4,At Risk,0,0
+10573,61,Graduation,Single,62551.0,0,27,17,421,3,3,3,9,Loyal Customers,1,0
+3712,55,Graduation,Single,52332.0,0,63,11,259,2,2,2,6,Potential Loyalists,1,0
+6637,26,Graduation,Single,66951.0,0,46,14,1117,3,3,4,10,Champions,0,0
+3152,57,Graduation,Partner,26091.0,2,84,6,89,1,1,2,4,At Risk,0,0
+5610,49,Graduation,Partner,33456.0,2,58,4,36,2,1,1,4,At Risk,0,0
+6460,32,Graduation,Partner,28718.0,1,78,5,57,1,1,1,3,Hibernating,0,0
+1349,44,Graduation,Partner,50447.0,2,4,7,148,4,2,2,8,Loyal Customers,0,0
+1880,55,PhD,Partner,53537.0,2,17,6,93,4,1,2,7,Potential Loyalists,0,0
+641,47,Graduation,Single,52074.0,1,77,6,119,1,1,2,4,At Risk,1,0
+8717,39,PhD,Partner,80427.0,1,56,27,1835,2,4,4,10,Champions,0,0
+10314,66,PhD,Partner,83837.0,0,79,24,1318,1,4,4,9,Loyal Customers,2,1
+10854,44,PhD,Partner,38853.0,2,90,5,45,1,1,1,3,Hibernating,0,0
+10492,55,Graduation,Partner,38285.0,3,96,3,10,1,1,1,3,Hibernating,0,0
+6935,63,2n Cycle,Partner,78497.0,0,44,24,978,3,4,3,10,Champions,1,0
+7698,38,PhD,Partner,51650.0,1,81,9,191,1,2,2,5,At Risk,0,0
+3559,26,2n Cycle,Partner,16248.0,1,77,6,57,1,1,1,3,Hibernating,0,0
+10562,68,Master,Partner,66835.0,0,21,23,1033,4,4,3,11,Champions,0,0
+10796,30,Master,Partner,30477.0,1,16,5,66,4,1,1,6,Potential Loyalists,0,0
+2563,53,Basic,Partner,28249.0,0,80,5,43,1,1,1,3,Hibernating,0,0
+3518,31,Graduation,Partner,25271.0,1,45,4,50,3,1,1,5,At Risk,0,0
+5823,44,PhD,Single,32303.0,1,63,5,39,2,1,1,4,At Risk,0,0
+3934,48,Graduation,Partner,61286.0,1,34,16,608,3,3,3,9,Loyal Customers,0,0
+6982,38,Graduation,Partner,74068.0,0,14,23,1581,4,4,4,12,Champions,0,0
+6431,50,PhD,Partner,45759.0,2,13,5,68,4,1,1,6,Potential Loyalists,0,0
+9733,36,Basic,Partner,24882.0,1,52,4,80,2,1,2,5,At Risk,1,0
+5602,25,PhD,Partner,66973.0,0,98,27,1282,1,4,4,9,Loyal Customers,0,0
+7829,114,2n Cycle,Single,36640.0,1,99,5,65,1,1,1,3,Hibernating,0,0
+1324,26,Graduation,Partner,38872.0,1,93,6,91,1,1,2,4,At Risk,0,0
+326,41,Graduation,Partner,51148.0,2,38,12,315,3,2,2,7,Potential Loyalists,0,0
+7224,37,Graduation,Partner,31353.0,2,24,4,31,4,1,1,6,Potential Loyalists,0,0
+6999,34,Master,Partner,69661.0,0,80,22,834,1,4,3,8,Loyal Customers,0,0
+9938,60,Graduation,Partner,80067.0,0,82,16,1600,1,3,4,8,Loyal Customers,1,0
+6422,60,Graduation,Partner,86718.0,0,20,16,1270,4,3,4,11,Champions,0,0
+3182,41,PhD,Single,46854.0,2,81,9,263,1,2,2,5,At Risk,1,1
+7300,62,Graduation,Single,69142.0,1,50,16,535,2,3,3,8,Loyal Customers,1,0
+10424,46,Graduation,Single,75922.0,0,60,17,1295,2,3,4,9,Loyal Customers,0,0
+8727,36,Graduation,Single,63693.0,1,63,26,1150,2,4,4,10,Champions,0,0
+2798,37,PhD,Partner,102160.0,0,54,26,1240,2,4,4,10,Champions,3,1
+1030,49,PhD,Single,40637.0,2,72,4,38,2,1,1,4,At Risk,0,0
+624,30,Master,Single,18890.0,0,5,3,35,4,1,1,6,Potential Loyalists,1,1
+5176,26,Graduation,Partner,29604.0,1,88,4,53,1,1,1,3,Hibernating,1,0
+5552,51,Master,Single,48721.0,2,50,11,293,2,2,2,6,Potential Loyalists,0,0
+868,48,Graduation,Partner,44794.0,1,99,5,65,1,1,1,3,Hibernating,0,0
+380,60,Graduation,Single,64497.0,1,17,24,1804,4,4,4,12,Champions,1,1
+2677,58,Graduation,Partner,46097.0,1,11,10,241,4,2,2,8,Loyal Customers,0,0
+6521,60,Graduation,Partner,77972.0,0,18,19,1101,4,4,4,12,Champions,0,0
+6927,46,PhD,Partner,44377.0,2,70,11,264,2,2,2,6,Potential Loyalists,0,0
+2877,40,Master,Partner,46014.0,2,21,16,541,4,3,3,10,Champions,0,0
+0,29,Graduation,Partner,70951.0,0,66,16,1198,2,3,4,9,Loyal Customers,0,0
+1584,37,Graduation,Partner,41443.0,1,79,14,482,1,3,3,7,Potential Loyalists,0,0
+7264,36,2n Cycle,Single,52195.0,3,2,3,17,4,1,1,6,Potential Loyalists,0,0
+6274,66,Master,Partner,83790.0,0,81,24,1615,1,4,4,9,Loyal Customers,2,0
+1377,60,Master,Single,44551.0,1,24,10,285,4,2,2,8,Loyal Customers,0,0
+454,34,Graduation,Partner,69508.0,1,48,26,1135,3,4,4,11,Champions,0,0
+1755,26,2n Cycle,Partner,45204.0,1,93,6,114,1,1,2,4,At Risk,0,0
+2075,45,Graduation,Partner,72460.0,0,56,15,1047,2,3,3,8,Loyal Customers,0,0
+4785,44,PhD,Partner,77622.0,2,3,20,714,4,4,3,11,Champions,0,0
+9076,34,PhD,Partner,30732.0,1,44,9,185,3,2,2,7,Potential Loyalists,0,0
+7079,52,Graduation,Single,63887.0,1,38,27,1245,3,4,4,11,Champions,0,0
+4653,36,Graduation,Partner,42011.0,1,46,8,189,3,2,2,7,Potential Loyalists,0,0
+7375,38,Graduation,Partner,51369.0,1,84,14,576,1,3,3,7,Potential Loyalists,0,0
+709,62,Graduation,Single,51537.0,1,27,15,1103,3,3,4,10,Champions,0,0
+460,42,PhD,Partner,79930.0,0,72,16,1753,2,3,4,9,Loyal Customers,0,0
+3726,28,PhD,Partner,34320.0,1,66,3,17,2,1,1,4,At Risk,0,0
+6798,48,Graduation,Single,37070.0,2,30,14,433,3,3,3,9,Loyal Customers,0,1
+5341,52,2n Cycle,Single,81975.0,1,2,13,1588,4,3,4,11,Champions,1,0
+1606,43,Graduation,Partner,38590.0,1,65,3,22,2,1,1,4,At Risk,0,0
+9617,63,Graduation,Single,15033.0,0,37,4,19,3,1,1,5,At Risk,0,0
+3233,49,PhD,Partner,62745.0,1,89,26,1117,1,4,4,9,Loyal Customers,0,0
+89,39,2n Cycle,Partner,22212.0,1,49,6,69,3,1,1,5,At Risk,0,0
+2936,32,Master,Partner,23661.0,1,46,4,23,3,1,1,5,At Risk,0,0
+9449,56,PhD,Single,79761.0,1,32,18,605,3,3,3,9,Loyal Customers,0,0
+7297,41,Graduation,Single,7500.0,1,54,7,57,2,2,1,5,At Risk,0,0
+313,46,Graduation,Single,73455.0,0,98,21,2088,1,4,4,9,Loyal Customers,1,0
+9940,56,Graduation,Partner,64961.0,1,97,14,1009,1,3,3,7,Potential Loyalists,0,0
+10735,43,Graduation,Single,22804.0,1,75,4,26,1,1,1,3,Hibernating,0,0
+9529,24,Graduation,Partner,73687.0,0,8,21,1627,4,4,4,12,Champions,1,1
+6439,56,Graduation,Partner,61074.0,1,37,24,1102,3,4,4,11,Champions,0,0
+7411,50,PhD,Partner,31686.0,2,31,4,17,3,1,1,5,At Risk,0,0
+2176,42,Graduation,Partner,80134.0,1,40,14,1690,3,3,4,10,Champions,3,1
+9265,61,Graduation,Partner,75027.0,1,74,19,1390,2,4,4,10,Champions,0,0
+8867,26,PhD,Partner,67546.0,0,90,19,2126,1,4,4,9,Loyal Customers,0,0
+8932,45,Master,Partner,65176.0,1,57,21,1531,2,4,4,10,Champions,0,0
+10236,39,Master,Single,31160.0,1,59,5,64,2,1,1,4,At Risk,0,0
+6340,29,Graduation,Single,29938.0,1,52,4,26,2,1,1,4,At Risk,0,0
+10089,40,Graduation,Single,102692.0,0,5,28,1112,4,4,4,12,Champions,4,1
+2227,56,2n Cycle,Partner,26490.0,0,92,9,210,1,2,2,5,At Risk,0,0
+10992,47,Graduation,Partner,75702.0,2,77,21,1148,1,4,4,9,Loyal Customers,0,0
+5304,40,PhD,Single,30899.0,1,35,4,33,3,1,1,5,At Risk,0,0
+309,53,PhD,Partner,63342.0,1,48,16,1101,3,3,4,10,Champions,1,0
+3406,50,Graduation,Single,45989.0,1,97,12,322,1,2,2,5,At Risk,0,0
+2661,50,Graduation,Single,18701.0,2,95,6,44,1,1,1,3,Hibernating,0,0
+3153,57,PhD,Single,40737.0,3,24,3,17,4,1,1,6,Potential Loyalists,0,0
+10264,35,Graduation,Single,15287.0,1,60,4,31,2,1,1,4,At Risk,1,1
+1184,46,PhD,Single,69674.0,2,46,22,845,3,4,3,10,Champions,0,0
+4200,44,Master,Partner,44159.0,1,85,11,275,1,2,2,5,At Risk,0,0
+9396,36,PhD,Partner,37717.0,1,31,3,25,3,1,1,5,At Risk,0,0
+2387,62,Master,Partner,43776.0,2,9,11,275,4,2,2,8,Loyal Customers,0,1
+6690,48,Master,Partner,38179.0,2,30,7,90,3,2,2,7,Potential Loyalists,0,0
+1225,51,Graduation,Partner,80124.0,0,47,18,1495,3,3,4,10,Champions,1,0
+9703,44,PhD,Partner,38097.0,2,70,7,184,2,2,2,6,Potential Loyalists,1,1
+291,44,Graduation,Partner,72940.0,0,13,12,981,4,2,3,9,Loyal Customers,0,0
+4557,44,Graduation,Partner,22070.0,1,11,6,67,4,1,1,6,Potential Loyalists,0,0
+2379,61,Graduation,Single,69267.0,0,31,12,1635,3,2,4,9,Loyal Customers,0,1
+5726,31,Master,Single,31788.0,1,15,7,60,4,2,1,7,Potential Loyalists,0,0
+3066,39,PhD,Partner,61905.0,1,2,10,231,4,2,2,8,Loyal Customers,0,0
+6336,54,Graduation,Partner,29315.0,2,55,6,48,2,1,1,4,At Risk,0,0
+10967,51,Graduation,Single,33378.0,2,38,6,99,3,1,2,6,Potential Loyalists,0,0
+2304,51,PhD,Partner,66313.0,1,86,21,770,1,4,3,8,Loyal Customers,0,0
+3445,58,Graduation,Single,60714.0,0,56,21,957,2,4,3,9,Loyal Customers,0,1
+7828,33,Master,Partner,77882.0,0,29,11,818,3,2,3,8,Loyal Customers,0,0
+3762,28,PhD,Single,69867.0,0,30,16,925,3,3,3,9,Loyal Customers,1,1
+4391,46,Master,Single,63841.0,1,64,21,908,2,4,3,9,Loyal Customers,0,0
+4669,33,Basic,Partner,24480.0,1,46,7,102,3,2,2,7,Potential Loyalists,0,0
+10144,38,Graduation,Partner,51369.0,1,84,14,576,1,3,3,7,Potential Loyalists,0,0
+8652,68,Graduation,Partner,37760.0,0,20,11,317,4,2,2,8,Loyal Customers,0,0
+1672,40,PhD,Partner,65640.0,1,74,14,461,2,3,3,8,Loyal Customers,0,0
+8962,39,Master,Partner,44319.0,2,18,5,37,4,1,1,6,Potential Loyalists,0,0
+9974,40,Graduation,Partner,30631.0,1,75,6,70,1,1,2,4,At Risk,0,0
+10983,62,Graduation,Partner,75278.0,0,17,22,930,4,4,3,11,Champions,0,0
+8148,58,Master,Partner,50898.0,2,88,20,859,1,4,3,8,Loyal Customers,0,0
+10102,48,Graduation,Single,79946.0,0,19,21,1478,4,4,4,12,Champions,0,0
+4697,65,Master,Single,35416.0,0,62,13,390,2,3,2,7,Potential Loyalists,0,0
+9262,30,2n Cycle,Partner,32414.0,0,11,4,52,4,1,1,6,Potential Loyalists,1,0
+7254,45,Graduation,Partner,38361.0,1,74,7,137,2,2,2,6,Potential Loyalists,0,0
+4543,34,Graduation,Partner,82497.0,0,32,18,1919,3,3,4,10,Champions,1,0
+4927,43,Graduation,Partner,16626.0,2,76,6,68,1,1,1,3,Hibernating,0,0
+10451,49,Graduation,Partner,29672.0,2,6,3,25,4,1,1,6,Potential Loyalists,0,0
+2926,62,Master,Partner,55951.0,1,62,20,1374,2,4,4,10,Champions,2,0
+2874,26,2n Cycle,Single,35388.0,1,20,4,32,4,1,1,6,Potential Loyalists,0,0
+9738,28,Master,Partner,42386.0,1,43,6,100,3,1,2,6,Potential Loyalists,0,0
+7119,32,Graduation,Single,68627.0,0,45,11,825,3,2,3,8,Loyal Customers,0,0
+3924,49,PhD,Single,57912.0,1,34,23,916,3,4,3,10,Champions,1,0
+5827,56,Graduation,Single,35246.0,2,53,7,62,2,2,1,5,At Risk,0,0
+5596,58,2n Cycle,Partner,58821.0,1,44,20,728,3,4,3,10,Champions,0,0
+10812,36,PhD,Partner,46377.0,1,89,6,90,1,1,2,4,At Risk,0,0
+1717,26,Graduation,Single,39747.0,1,43,10,273,3,2,2,7,Potential Loyalists,0,0
+9491,30,Graduation,Partner,23976.0,1,68,7,66,2,2,1,5,At Risk,0,0
+9274,53,Master,Partner,80950.0,0,44,22,1213,3,4,4,11,Champions,1,0
+6609,48,Graduation,Single,27038.0,0,64,6,107,2,1,2,5,At Risk,0,1
+6963,67,Graduation,Single,77457.0,0,85,17,1157,1,3,4,8,Loyal Customers,1,0
+4440,50,Master,Partner,64100.0,1,93,17,546,1,3,3,7,Potential Loyalists,1,0
+1379,22,Master,Partner,42670.0,0,12,10,241,4,2,2,8,Loyal Customers,0,0
+10032,38,Graduation,Single,12571.0,1,86,7,53,1,2,1,4,At Risk,0,0
+2826,47,Graduation,Partner,22574.0,3,28,5,37,3,1,1,5,At Risk,0,0
+6320,38,Master,Single,70893.0,0,42,22,1508,3,4,4,11,Champions,0,0
+3050,48,Graduation,Partner,54198.0,2,13,10,235,4,2,2,8,Loyal Customers,0,0
+231,58,Master,Partner,28839.0,2,86,5,32,1,1,1,3,Hibernating,0,0
+2392,42,Graduation,Partner,40321.0,2,59,6,102,2,1,2,5,At Risk,0,0
+9478,29,Graduation,Single,66503.0,1,30,13,401,3,3,3,9,Loyal Customers,0,0
+113,63,Graduation,Partner,30833.0,2,33,4,28,3,1,1,5,At Risk,0,0
+1802,43,Graduation,Partner,64795.0,1,23,18,680,4,3,3,10,Champions,0,0
+520,40,Graduation,Partner,34421.0,1,81,3,30,1,1,1,3,Hibernating,0,0
+8275,49,PhD,Single,47025.0,2,6,3,20,4,1,1,6,Potential Loyalists,0,0
+9750,53,PhD,Single,64325.0,1,41,18,1307,3,3,4,10,Champions,0,0
+2607,61,Graduation,Single,40464.0,1,78,18,630,1,3,3,7,Potential Loyalists,0,0
+7214,57,Graduation,Partner,62187.0,0,49,17,1283,3,3,4,10,Champions,0,0
+5835,38,PhD,Single,14849.0,1,39,6,65,3,1,1,5,At Risk,0,0
+3896,30,Graduation,Partner,27255.0,1,3,4,37,4,1,1,6,Potential Loyalists,0,0
+10350,64,PhD,Partner,54432.0,3,37,4,38,3,1,1,5,At Risk,0,0
+7786,28,PhD,Single,29999.0,1,22,8,160,4,2,2,8,Loyal Customers,0,0
+2861,31,Graduation,Single,24072.0,1,79,3,23,1,1,1,3,Hibernating,0,0
+663,25,PhD,Single,33996.0,0,46,5,71,3,1,2,6,Potential Loyalists,0,0
+10675,58,PhD,Partner,66334.0,1,82,17,1161,1,3,4,8,Loyal Customers,0,1
+2521,43,Master,Partner,35178.0,1,10,4,59,4,1,1,6,Potential Loyalists,1,1
+9592,31,Graduation,Partner,22010.0,1,51,5,33,2,1,1,4,At Risk,0,0
+10151,54,Graduation,Single,62204.0,2,38,21,946,3,4,3,10,Champions,0,0
+7381,46,Graduation,Single,75693.0,0,10,21,1442,4,4,4,12,Champions,3,1
+4099,42,Graduation,Partner,30675.0,1,14,4,62,4,1,1,6,Potential Loyalists,0,0
+9560,49,Graduation,Partner,83003.0,0,18,21,1674,4,4,4,12,Champions,1,1
+10172,26,Graduation,Single,68655.0,0,95,20,1538,1,4,4,9,Loyal Customers,0,0
+11191,28,Graduation,Single,41411.0,0,11,7,139,4,2,2,8,Loyal Customers,0,0
+9707,45,PhD,Partner,55212.0,1,65,17,1182,2,3,4,9,Loyal Customers,2,0
+6245,64,PhD,Partner,59292.0,1,71,16,507,2,3,3,8,Loyal Customers,0,0
+8234,41,Basic,Partner,27190.0,1,13,3,18,4,1,1,6,Potential Loyalists,1,1
+1411,62,Graduation,Single,82623.0,0,58,15,940,2,3,3,8,Loyal Customers,0,0
+8553,49,Graduation,Partner,44300.0,2,65,4,42,2,1,1,4,At Risk,0,0
+1826,44,Graduation,Single,84835.0,0,0,14,1190,4,3,4,11,Champions,0,1
+8842,43,Graduation,Single,30372.0,2,33,5,44,3,1,1,5,At Risk,0,0
+11030,38,Master,Partner,33181.0,1,90,3,16,1,1,1,3,Hibernating,1,0
+2579,57,Graduation,Partner,71113.0,1,95,22,835,1,4,3,8,Loyal Customers,0,0
+175,28,Graduation,Partner,71952.0,1,93,20,1443,1,4,4,9,Loyal Customers,2,0
+9185,48,PhD,Single,69759.0,0,38,15,1029,3,3,3,9,Loyal Customers,0,1
+11056,40,Graduation,Partner,72099.0,0,18,17,1188,4,3,4,11,Champions,0,0
+9365,38,PhD,Single,60000.0,1,57,19,1277,2,4,4,10,Champions,0,0
+6201,36,Graduation,Single,38643.0,2,45,5,49,3,1,1,5,At Risk,0,0
+2061,59,Graduation,Partner,50737.0,1,61,6,99,2,1,2,5,At Risk,1,0
+6184,45,PhD,Partner,68462.0,0,6,14,1670,4,3,4,11,Champions,0,0
+6142,71,Master,Partner,65073.0,0,65,13,900,2,3,3,8,Loyal Customers,0,0
+4107,66,PhD,Partner,46681.0,2,52,14,425,2,3,3,8,Loyal Customers,0,0
+7274,57,Graduation,Partner,78618.0,0,87,21,2153,1,4,4,9,Loyal Customers,1,0
+9336,45,PhD,Single,62187.0,1,38,18,636,3,3,3,9,Loyal Customers,0,0
+2958,36,Graduation,Partner,28442.0,2,53,7,57,2,2,1,5,At Risk,0,0
+933,36,PhD,Partner,37717.0,1,31,3,25,3,1,1,5,At Risk,0,0
+5837,47,Graduation,Partner,51479.0,2,67,15,494,2,3,3,8,Loyal Customers,0,0
+10704,45,Graduation,Single,54803.0,1,65,17,693,2,3,3,8,Loyal Customers,0,0
+5125,54,Graduation,Partner,79530.0,0,64,25,1348,2,4,4,10,Champions,0,0
+4432,38,Graduation,Single,31615.0,1,82,5,51,1,1,1,3,Hibernating,0,0
+5955,52,Graduation,Partner,72025.0,0,27,15,1932,3,3,4,10,Champions,0,0
+2928,39,PhD,Single,52614.0,1,63,14,990,2,3,3,8,Loyal Customers,0,0
+5680,30,2n Cycle,Partner,35684.0,1,66,4,30,2,1,1,4,At Risk,0,0
+10313,39,Graduation,Partner,48178.0,2,69,10,254,2,2,2,6,Potential Loyalists,0,0
+2557,44,Master,Single,29548.0,1,52,4,29,2,1,1,4,At Risk,1,0
+1245,48,Graduation,Single,63810.0,1,45,19,1371,3,4,4,11,Champions,1,0
+1519,42,PhD,Single,38578.0,2,2,6,73,4,1,2,7,Potential Loyalists,0,1
+10703,39,Master,Single,46098.0,2,86,7,120,1,2,2,5,At Risk,0,0
+1726,44,Graduation,Single,22585.0,0,23,4,81,4,1,2,7,Potential Loyalists,1,1
+4459,25,Graduation,Single,30279.0,1,13,4,37,4,1,1,6,Potential Loyalists,0,0
+1729,53,PhD,Partner,66426.0,1,14,18,1377,4,3,4,11,Champions,0,0
+1517,45,Graduation,Single,30822.0,1,92,4,51,1,1,1,3,Hibernating,0,0
+2098,45,PhD,Partner,33581.0,2,38,3,17,3,1,1,5,At Risk,0,0
+9543,29,Graduation,Partner,19986.0,1,74,3,22,2,1,1,4,At Risk,0,0
+6878,60,Graduation,Single,27421.0,0,14,11,324,4,2,2,8,Loyal Customers,0,0
+3310,41,2n Cycle,Partner,35688.0,3,94,9,211,1,2,2,5,At Risk,0,0
+2724,33,Master,Single,36143.0,1,33,3,19,3,1,1,5,At Risk,0,0
+948,43,Graduation,Single,10245.0,1,32,5,41,3,1,1,5,At Risk,0,0
+6720,46,Master,Partner,43795.0,1,11,14,492,4,3,3,10,Champions,1,1
+6202,54,Graduation,Partner,63381.0,1,78,22,1005,1,4,3,8,Loyal Customers,0,0
+2066,65,Graduation,Partner,38823.0,1,56,6,114,2,1,2,5,At Risk,0,0
+9799,46,PhD,Single,83664.0,2,57,16,1173,2,3,4,9,Loyal Customers,0,0
+8318,35,Graduation,Partner,90300.0,0,7,19,1738,4,4,4,12,Champions,1,0
+5642,35,Master,Partner,62499.0,1,0,10,222,4,2,2,8,Loyal Customers,0,0
+2669,21,Graduation,Single,74293.0,0,66,15,1127,2,3,4,9,Loyal Customers,0,0
+455,68,PhD,Partner,51012.0,0,86,9,209,1,2,2,5,At Risk,0,0
+7683,46,Master,Partner,70777.0,1,80,20,787,1,4,3,8,Loyal Customers,0,0
+3428,23,PhD,Partner,68682.0,0,56,23,1598,2,4,4,10,Champions,0,0
+7414,43,Graduation,Partner,43824.0,2,18,8,186,4,2,2,8,Loyal Customers,0,0
+6354,30,Graduation,Partner,15345.0,1,51,4,47,2,1,1,4,At Risk,0,1
+798,27,Graduation,Single,23442.0,1,71,4,27,2,1,1,4,At Risk,0,0
+8213,34,2n Cycle,Partner,14515.0,1,71,7,96,2,2,2,6,Potential Loyalists,0,1
+2488,58,2n Cycle,Single,31395.0,2,80,6,64,1,1,1,3,Hibernating,0,0
+9999,49,Graduation,Partner,75276.0,0,2,22,1040,4,4,3,11,Champions,0,0
+7617,40,Graduation,Single,42373.0,2,83,8,163,1,2,2,5,At Risk,0,0
+615,54,Graduation,Partner,30507.0,0,29,10,343,3,2,2,7,Potential Loyalists,0,0
+2552,59,PhD,Single,55521.0,3,11,15,446,4,3,3,10,Champions,1,1
+194,49,Graduation,Partner,48006.0,2,55,4,41,2,1,1,4,At Risk,0,0
+3645,42,PhD,Single,27213.0,1,19,6,70,4,1,2,7,Potential Loyalists,0,1
+8890,43,PhD,Single,65808.0,2,1,11,272,4,2,2,8,Loyal Customers,0,0
+5049,40,PhD,Partner,30351.0,1,19,5,46,4,1,1,6,Potential Loyalists,0,0
+9973,51,Graduation,Partner,50437.0,2,28,16,490,3,3,3,9,Loyal Customers,0,0
+7301,32,2n Cycle,Single,23616.0,1,76,6,79,1,1,2,4,At Risk,0,1
+10882,38,Graduation,Partner,53858.0,1,50,13,915,2,3,3,8,Loyal Customers,0,0
+7030,59,PhD,Partner,66465.0,1,1,32,1485,4,4,4,12,Champions,1,0
+7422,27,Graduation,Single,46923.0,1,90,13,369,1,3,2,6,Potential Loyalists,0,0
+3523,52,Graduation,Partner,75072.0,1,83,17,1073,1,3,4,8,Loyal Customers,0,0
+7106,71,PhD,Partner,75865.0,0,73,18,1242,2,3,4,9,Loyal Customers,0,0
+6504,39,2n Cycle,Partner,19789.0,1,24,6,78,4,1,2,7,Potential Loyalists,1,0
+5067,20,Graduation,Partner,80134.0,0,11,20,1378,4,4,4,12,Champions,4,0
+4216,33,Graduation,Single,91065.0,0,33,25,1474,3,4,4,11,Champions,2,1
+8581,43,Master,Partner,49505.0,2,4,20,751,4,4,3,11,Champions,0,0
+5929,41,PhD,Partner,37401.0,1,14,5,48,4,1,1,6,Potential Loyalists,0,0
+3129,31,Graduation,Partner,30096.0,1,30,5,45,3,1,1,5,At Risk,0,0
+6528,32,Master,Partner,18492.0,1,75,3,10,1,1,1,3,Hibernating,0,0
+1361,40,Master,Partner,82584.0,0,26,15,1435,3,3,4,10,Champions,2,1
+6932,73,PhD,Partner,93027.0,0,77,22,2119,1,4,4,9,Loyal Customers,1,0
+7284,61,Graduation,Partner,48686.0,3,8,3,20,4,1,1,6,Potential Loyalists,0,0
+1340,28,Graduation,Partner,92910.0,0,42,26,1795,3,4,4,11,Champions,3,0
+8746,25,Graduation,Partner,75433.0,1,28,17,1188,3,3,4,10,Champions,2,0
+5987,25,2n Cycle,Partner,10404.0,1,52,5,43,2,1,1,4,At Risk,0,0
+3767,46,Graduation,Partner,61314.0,1,1,22,1008,4,4,3,11,Champions,0,0
+3725,53,PhD,Single,84865.0,0,1,15,1688,4,3,4,11,Champions,4,1
+4324,25,Graduation,Partner,42387.0,1,42,16,684,3,3,3,9,Loyal Customers,0,0
+238,47,2n Cycle,Partner,67309.0,2,76,24,1082,1,4,4,9,Loyal Customers,0,0
+6694,50,Graduation,Partner,75236.0,1,27,24,1068,3,4,4,11,Champions,0,0
+498,44,Graduation,Single,30015.0,1,28,5,57,3,1,1,5,At Risk,0,0
+9347,58,Master,Partner,50943.0,1,49,4,46,3,1,1,5,At Risk,0,0
+9699,48,Graduation,Single,67272.0,1,12,20,733,4,4,3,11,Champions,0,0
+10664,65,Master,Single,51529.0,1,14,15,467,4,3,3,10,Champions,0,0
+5455,43,PhD,Partner,32011.0,1,89,7,122,1,2,2,5,At Risk,0,0
+456,28,2n Cycle,Partner,7500.0,1,96,5,36,1,1,1,3,Hibernating,0,0
+5012,25,Graduation,Partner,28691.0,1,56,4,34,2,1,1,4,At Risk,0,0
+7495,66,PhD,Partner,56223.0,1,72,8,156,2,2,2,6,Potential Loyalists,0,0
+5029,68,Graduation,Partner,18100.0,0,14,3,14,4,1,1,6,Potential Loyalists,0,0
+10642,25,Graduation,Single,30279.0,1,13,4,37,4,1,1,6,Potential Loyalists,0,0
+2106,40,2n Cycle,Partner,20130.0,0,99,4,34,1,1,1,3,Hibernating,0,0
+10364,55,Graduation,Single,23295.0,0,72,3,20,2,1,1,4,At Risk,0,0
+5954,42,Master,Single,42618.0,1,92,9,192,1,2,2,5,At Risk,0,0
+1137,50,Graduation,Single,81246.0,0,87,16,1379,1,3,4,8,Loyal Customers,2,0
+2541,38,Graduation,Partner,24027.0,1,7,5,48,4,1,1,6,Potential Loyalists,0,0
+1142,61,PhD,Partner,55707.0,1,91,14,428,1,3,3,7,Potential Loyalists,0,0
+2276,59,Graduation,Single,57959.0,1,71,22,868,2,4,3,9,Loyal Customers,0,0
+2807,45,Graduation,Partner,56796.0,1,24,24,1001,4,4,3,11,Champions,0,0
+6471,43,Master,Single,36230.0,1,17,6,59,4,1,1,6,Potential Loyalists,0,0
+6131,34,2n Cycle,Partner,70829.0,2,87,14,431,1,3,3,7,Potential Loyalists,0,0
+6233,38,Graduation,Partner,65991.0,1,21,24,971,4,4,3,11,Champions,0,0
+4148,42,Graduation,Partner,38988.0,3,90,12,348,1,2,2,5,At Risk,0,0
+4947,48,2n Cycle,Single,89572.0,0,44,23,2059,3,4,4,11,Champions,2,1
+3225,30,Master,Partner,42207.0,1,71,10,265,2,2,2,6,Potential Loyalists,1,1
+7540,62,Graduation,Partner,50300.0,1,52,11,270,2,2,2,6,Potential Loyalists,0,0
+10648,32,2n Cycle,Partner,66664.0,0,78,18,1289,1,3,4,8,Loyal Customers,0,0
+1992,50,Graduation,Partner,60597.0,1,2,12,893,4,2,3,9,Loyal Customers,1,1
+7851,65,Graduation,Single,70165.0,0,60,21,926,2,4,3,9,Loyal Customers,0,0
+8594,56,PhD,Single,50520.0,1,25,7,135,3,2,2,7,Potential Loyalists,0,0
+7059,51,Graduation,Partner,80124.0,0,47,18,1495,3,3,4,10,Champions,1,0
+2815,39,Graduation,Partner,33183.0,1,46,7,120,3,2,2,7,Potential Loyalists,0,0
+2416,45,PhD,Single,66582.0,0,83,19,1288,1,4,4,9,Loyal Customers,0,0
+7999,59,PhD,Partner,75261.0,0,17,16,1743,4,3,4,11,Champions,2,1
+9213,44,Graduation,Single,31880.0,1,13,3,15,4,1,1,6,Potential Loyalists,0,0
+9697,63,Graduation,Partner,53790.0,2,86,17,542,1,3,3,7,Potential Loyalists,0,0
+3916,43,PhD,Partner,49269.0,1,92,22,890,1,4,3,8,Loyal Customers,0,0
+2021,39,Graduation,Partner,61456.0,1,47,29,1388,3,4,4,11,Champions,0,0
+1581,34,Graduation,Partner,37406.0,1,18,3,17,4,1,1,6,Potential Loyalists,0,1
+564,33,PhD,Partner,56937.0,1,81,23,906,1,4,3,8,Loyal Customers,1,1
+6619,36,Graduation,Partner,38415.0,2,91,4,44,1,1,1,3,Hibernating,0,0
+9081,26,Graduation,Single,20518.0,1,58,4,25,2,1,1,4,At Risk,0,0
+178,58,Graduation,Partner,62503.0,1,40,22,973,3,4,3,10,Champions,0,0
+916,42,PhD,Single,41644.0,2,67,4,31,2,1,1,4,At Risk,0,0
+5512,37,Master,Partner,55842.0,1,19,16,518,4,3,3,10,Champions,0,0
+8970,42,PhD,Partner,62010.0,1,93,15,530,1,3,3,7,Potential Loyalists,0,0
+10581,37,Graduation,Partner,41124.0,1,41,14,506,3,3,3,9,Loyal Customers,0,0
+5300,41,Master,Partner,38961.0,1,60,5,70,2,1,2,5,At Risk,0,0
+5154,42,Master,Single,37760.0,1,54,5,54,2,1,1,4,At Risk,0,0
+8346,40,Graduation,Single,32233.0,1,26,10,296,3,2,2,7,Potential Loyalists,1,1
+1676,39,Graduation,Partner,43057.0,1,30,11,266,3,2,2,7,Potential Loyalists,0,0
+9286,54,Master,Partner,83151.0,0,93,18,747,1,3,3,7,Potential Loyalists,0,0
+2426,50,PhD,Single,78825.0,0,35,28,895,3,4,3,10,Champions,0,1
+5172,38,Master,Partner,65104.0,1,4,15,1053,4,3,4,11,Champions,0,0
+5562,40,Graduation,Partner,60093.0,1,92,19,735,1,4,3,8,Loyal Customers,0,0
+3436,45,Graduation,Partner,14045.0,1,24,4,20,4,1,1,6,Potential Loyalists,0,0
+3921,62,2n Cycle,Single,28457.0,0,96,9,205,1,2,2,5,At Risk,0,0
+3403,56,PhD,Partner,78952.0,1,11,19,2092,4,4,4,12,Champions,0,0
+22,38,Graduation,Single,46310.0,1,99,12,309,1,2,2,5,At Risk,0,0
+10965,59,Graduation,Partner,76005.0,0,72,21,1722,2,4,4,10,Champions,1,0
+9426,50,Master,Single,58308.0,1,77,11,900,1,2,3,6,Potential Loyalists,0,0
+6605,70,PhD,Single,55614.0,0,85,19,682,1,4,3,8,Loyal Customers,1,0
+3136,52,Master,Single,59432.0,1,88,19,663,1,4,3,8,Loyal Customers,0,0
+8737,36,Graduation,Single,55563.0,1,22,5,43,4,1,1,6,Potential Loyalists,0,0
+11088,43,PhD,Partner,78642.0,1,83,17,1816,1,3,4,8,Loyal Customers,0,0
+716,65,PhD,Partner,67911.0,1,63,24,976,2,4,3,9,Loyal Customers,0,0
+466,70,Graduation,Partner,65275.0,0,9,20,746,4,4,3,11,Champions,0,0
+9135,64,Graduation,Partner,27203.0,2,92,4,64,1,1,1,3,Hibernating,0,0
+10623,53,Master,Partner,48330.0,1,2,4,32,4,1,1,6,Potential Loyalists,0,0
+8151,24,Basic,Partner,24279.0,0,6,8,263,4,2,2,8,Loyal Customers,0,0
+5140,29,PhD,Partner,64355.0,1,66,19,1445,2,4,4,10,Champions,0,0
+10160,58,Master,Partner,50943.0,1,49,4,46,3,1,1,5,At Risk,0,0
+4945,61,Graduation,Single,53653.0,0,29,26,1210,3,4,4,11,Champions,0,0
+10584,38,Graduation,Partner,65665.0,1,77,23,945,1,4,3,8,Loyal Customers,0,0
+6071,25,Graduation,Single,81217.0,0,77,21,1157,1,4,4,9,Loyal Customers,0,0
+3386,22,Graduation,Partner,34935.0,0,71,7,137,2,2,2,6,Potential Loyalists,0,0
+8939,55,Graduation,Single,61250.0,1,49,19,730,3,4,3,10,Champions,0,0
+9925,33,PhD,Partner,39665.0,1,97,9,216,1,2,2,5,At Risk,1,0
+4320,35,Graduation,Single,60152.0,1,6,22,943,4,4,3,11,Champions,0,0
+5389,50,Graduation,Partner,48920.0,2,93,13,347,1,3,2,6,Potential Loyalists,1,0
+6036,55,Master,Partner,89120.0,0,78,18,1924,1,3,4,8,Loyal Customers,1,0
+182,68,PhD,Partner,44124.0,1,62,13,397,2,3,2,7,Potential Loyalists,0,0
+203,39,Master,Single,81169.0,0,47,21,2089,3,4,4,11,Champions,0,0
+11025,53,Graduation,Partner,36443.0,2,9,7,138,4,2,2,8,Loyal Customers,0,0
+10203,24,Graduation,Single,26095.0,1,77,4,42,1,1,1,3,Hibernating,0,0
+4607,55,Graduation,Partner,71367.0,0,24,16,777,4,3,3,10,Champions,0,0
+3711,70,Master,Partner,80184.0,0,19,19,1902,4,4,4,12,Champions,2,0
+3696,49,Graduation,Single,30630.0,2,67,5,52,2,1,1,4,At Risk,0,0
+2532,27,Master,Single,73454.0,0,95,12,1651,1,2,4,7,Potential Loyalists,1,0
+9214,23,Graduation,Partner,42691.0,0,48,12,358,3,2,2,7,Potential Loyalists,0,0
+4943,61,Graduation,Partner,70503.0,0,73,15,1727,2,3,4,9,Loyal Customers,2,0
+35,27,Graduation,Partner,25545.0,1,35,7,210,3,2,2,7,Potential Loyalists,0,1
+2258,28,Graduation,Partner,32880.0,1,76,4,42,1,1,1,3,Hibernating,0,0
+4322,56,PhD,Partner,77863.0,0,20,19,1291,4,4,4,12,Champions,0,0
+713,37,Master,Partner,50353.0,0,72,14,442,2,3,3,8,Loyal Customers,0,0
+4702,50,Graduation,Single,61839.0,0,20,16,1895,4,3,4,11,Champions,0,0
+3281,54,PhD,Partner,49154.0,2,69,13,411,2,3,3,8,Loyal Customers,0,0
+702,39,2n Cycle,Single,47682.0,1,80,15,521,1,3,3,7,Potential Loyalists,0,0
+2004,45,Graduation,Single,72679.0,1,65,16,1168,2,3,4,9,Loyal Customers,0,0
+4769,37,Master,Partner,57954.0,2,52,16,493,2,3,3,8,Loyal Customers,1,0
+4437,52,Graduation,Partner,65316.0,2,65,10,260,2,2,2,6,Potential Loyalists,0,0
+8724,32,Graduation,Single,28567.0,1,57,5,46,2,1,1,4,At Risk,0,0
+10741,63,Master,Partner,47352.0,1,70,12,319,2,2,2,6,Potential Loyalists,0,0
+1991,47,Graduation,Partner,44931.0,1,0,6,96,4,1,2,7,Potential Loyalists,0,0
+6931,47,Graduation,Single,76982.0,0,19,15,1062,4,3,4,11,Champions,1,1
+11096,62,2n Cycle,Partner,57247.0,1,50,10,232,2,2,2,6,Potential Loyalists,0,0
+304,33,Master,Single,22944.0,1,67,6,76,2,1,2,5,At Risk,0,0
+3665,37,2n Cycle,Partner,25315.0,1,46,6,54,3,1,1,5,At Risk,0,0
+10591,45,Graduation,Single,43638.0,1,37,9,201,3,2,2,7,Potential Loyalists,0,0
+5036,30,PhD,Single,42710.0,1,38,12,406,3,2,3,8,Loyal Customers,0,0
+5547,32,PhD,Partner,84169.0,0,9,19,1919,4,4,4,12,Champions,2,1
+7822,38,Graduation,Partner,54058.0,1,56,18,662,2,3,3,8,Loyal Customers,0,0
+8541,24,2n Cycle,Partner,24683.0,1,98,6,41,1,1,1,3,Hibernating,0,0
+10955,50,Graduation,Single,85620.0,0,68,13,1600,2,3,4,9,Loyal Customers,0,1
+4368,34,Graduation,Partner,47850.0,1,72,7,134,2,2,2,6,Potential Loyalists,0,0
+9671,46,Graduation,Partner,19514.0,2,47,6,69,3,2,1,6,Potential Loyalists,1,1
+2256,41,Master,Partner,27159.0,2,33,4,21,3,1,1,5,At Risk,0,0
+4279,51,2n Cycle,Single,39548.0,2,87,5,54,1,1,1,3,Hibernating,0,0
+5371,25,Graduation,Single,21474.0,1,0,6,91,4,2,2,8,Loyal Customers,1,1
+9240,43,PhD,Single,60504.0,1,73,16,526,2,3,3,8,Loyal Customers,0,0
+9460,51,Graduation,Partner,22419.0,0,74,7,162,2,2,2,6,Potential Loyalists,0,0
+9504,65,Master,Partner,81698.0,0,4,24,1008,4,4,3,11,Champions,0,1
+8692,62,Graduation,Partner,43462.0,2,50,10,240,2,2,2,6,Potential Loyalists,0,0
+448,36,PhD,Single,54880.0,1,57,19,795,2,4,3,9,Loyal Customers,0,0
+8314,32,Graduation,Partner,79908.0,0,30,18,1772,3,3,4,10,Champions,1,0
+8420,44,2n Cycle,Partner,15315.0,0,27,6,64,3,2,1,6,Potential Loyalists,0,0
+3174,55,Graduation,Partner,87771.0,1,61,19,1957,2,4,4,10,Champions,4,1
+7685,36,Graduation,Partner,33039.0,1,4,6,78,4,2,2,8,Loyal Customers,0,0
+3179,34,Graduation,Single,81741.0,0,75,19,1572,1,4,4,9,Loyal Customers,0,0
+9780,43,Master,Partner,71499.0,1,12,24,795,4,4,3,11,Champions,0,0
+10681,44,2n Cycle,Partner,62466.0,1,13,21,889,4,4,3,11,Champions,0,0
+10232,51,PhD,Single,48799.0,1,9,12,331,4,2,2,8,Loyal Customers,0,0
+4184,64,PhD,Partner,52157.0,1,48,10,265,3,2,2,7,Potential Loyalists,0,0
+9120,52,Graduation,Single,66565.0,1,80,15,1065,1,3,4,8,Loyal Customers,0,0
+891,63,Master,Partner,29298.0,2,60,3,11,2,1,1,4,At Risk,0,0
+10381,35,Graduation,Single,47691.0,1,43,3,21,3,1,1,5,At Risk,0,0
+3525,44,Graduation,Partner,38200.0,2,19,3,17,4,1,1,6,Potential Loyalists,0,0
+6818,40,Graduation,Partner,44989.0,1,26,11,369,3,2,2,7,Potential Loyalists,0,0
+3526,46,PhD,Partner,38443.0,2,58,4,38,2,1,1,4,At Risk,0,0
+8181,36,2n Cycle,Single,38593.0,1,42,8,177,3,2,2,7,Potential Loyalists,0,0
+1029,44,PhD,Partner,64413.0,1,27,11,279,3,2,2,7,Potential Loyalists,0,0
+7369,33,Master,Partner,36959.0,1,56,5,62,2,1,1,4,At Risk,0,0
+2574,37,PhD,Partner,61996.0,1,27,18,1230,3,3,4,10,Champions,3,1
+8159,46,Graduation,Partner,51287.0,2,10,8,182,4,2,2,8,Loyal Customers,0,0
+1160,44,Graduation,Partner,13260.0,2,48,6,49,3,2,1,6,Potential Loyalists,0,0
+10242,48,PhD,Partner,47472.0,2,39,6,75,3,2,2,7,Potential Loyalists,0,0
+5253,58,Master,Partner,54603.0,2,85,10,227,1,2,2,5,At Risk,0,0
+5966,40,PhD,Partner,45207.0,2,64,10,215,2,2,2,6,Potential Loyalists,1,0
+5314,63,Graduation,Partner,40689.0,1,69,13,444,2,3,3,8,Loyal Customers,0,0
+5081,47,2n Cycle,Partner,47821.0,2,54,4,47,2,1,1,4,At Risk,0,0
+5123,63,Master,Partner,27450.0,0,57,6,143,2,2,2,6,Potential Loyalists,0,0
+5756,31,Graduation,Partner,39453.0,1,64,5,55,2,1,1,4,At Risk,0,0
+8036,43,2n Cycle,Partner,26850.0,2,10,7,63,4,2,1,7,Potential Loyalists,0,0
+9058,59,Graduation,Single,79800.0,0,65,21,1867,2,4,4,10,Champions,3,1
+5057,53,Master,Partner,61794.0,1,74,18,611,2,3,3,8,Loyal Customers,0,0
+254,59,Graduation,Partner,53863.0,1,4,15,473,4,3,3,10,Champions,1,0
+4179,55,Graduation,Partner,24221.0,0,94,5,55,1,1,1,3,Hibernating,0,0
+3710,30,PhD,Single,39684.0,1,41,5,81,3,1,2,6,Potential Loyalists,0,1
+7627,39,Master,Partner,92163.0,0,25,21,2086,3,4,4,11,Champions,2,1
+4501,49,Master,Single,69882.0,0,94,19,1478,1,4,4,9,Loyal Customers,0,0
+6424,37,Graduation,Partner,33178.0,1,9,4,49,4,1,1,6,Potential Loyalists,0,0
+3075,42,PhD,Partner,59973.0,0,47,14,382,3,3,2,8,Loyal Customers,0,0
+4992,39,Master,Partner,17459.0,1,12,6,69,4,2,1,7,Potential Loyalists,0,1
+5252,45,Graduation,Single,23910.0,1,80,5,67,1,1,1,3,Hibernating,0,0
+7444,45,Master,Partner,42169.0,2,20,4,30,4,1,1,6,Potential Loyalists,0,0
+6919,36,2n Cycle,Partner,26224.0,1,39,6,63,3,2,1,6,Potential Loyalists,0,0
+3537,33,Graduation,Partner,31089.0,1,57,7,79,2,2,2,6,Potential Loyalists,0,0
+10277,53,Graduation,Single,30081.0,1,27,4,42,3,1,1,5,At Risk,0,0
+2453,54,Graduation,Partner,62807.0,1,83,20,819,1,4,3,8,Loyal Customers,0,0
+7972,59,Graduation,Single,72906.0,0,79,16,1151,1,3,4,8,Loyal Customers,0,0
+895,66,PhD,Partner,61467.0,2,69,17,594,2,3,3,8,Loyal Customers,0,0
+1177,48,Master,Partner,49618.0,2,77,7,129,1,2,2,5,At Risk,0,0
+7141,28,Master,Single,21888.0,1,15,8,213,4,2,2,8,Loyal Customers,0,1
+7232,41,Graduation,Single,42429.0,1,99,5,67,1,1,1,3,Hibernating,0,0
+8477,58,Graduation,Single,26150.0,3,61,4,28,2,1,1,4,At Risk,0,0
+2457,39,Basic,Partner,30801.0,1,23,4,45,4,1,1,6,Potential Loyalists,0,0
+988,49,Graduation,Partner,81168.0,0,84,17,1193,1,3,4,8,Loyal Customers,1,0
+7930,45,Master,Single,26877.0,0,74,10,268,2,2,2,6,Potential Loyalists,0,0
+4587,70,Master,Single,45006.0,0,90,11,266,1,2,2,5,At Risk,0,0
+6682,41,Basic,Partner,18978.0,1,41,4,37,3,1,1,5,At Risk,0,0
+6222,47,Graduation,Partner,22574.0,3,28,5,37,3,1,1,5,At Risk,0,0
+10299,45,PhD,Single,48240.0,0,73,22,882,2,4,3,9,Loyal Customers,0,1
+3083,40,Graduation,Partner,45837.0,2,88,13,373,1,3,2,6,Potential Loyalists,0,0
+8953,49,Master,Single,35791.0,3,94,4,35,1,1,1,3,Hibernating,0,0
+1503,38,PhD,Partner,162397.0,2,31,1,107,3,1,2,6,Potential Loyalists,0,0
+8650,36,Graduation,Single,54162.0,2,31,4,42,3,1,1,5,At Risk,0,0
+10862,54,Master,Partner,30522.0,1,6,12,326,4,2,2,8,Loyal Customers,0,0
+2782,53,PhD,Partner,54456.0,1,23,14,404,4,3,3,10,Champions,0,0
+6941,43,Graduation,Single,31632.0,0,92,5,95,1,1,2,4,At Risk,0,0
+10972,65,Graduation,Single,72298.0,0,52,13,939,2,3,3,8,Loyal Customers,2,0
+10708,36,2n Cycle,Single,36975.0,1,50,4,33,2,1,1,4,At Risk,0,0
+6583,59,2n Cycle,Partner,72635.0,0,54,20,981,2,4,3,9,Loyal Customers,1,0
+3641,38,Graduation,Partner,13624.0,1,93,5,36,1,1,1,3,Hibernating,0,0
+10156,39,Graduation,Single,84196.0,1,56,19,1237,2,4,4,10,Champions,0,0
+4299,54,Graduation,Partner,70971.0,1,28,27,1825,3,4,4,11,Champions,0,1
+3469,37,PhD,Single,34487.0,2,94,6,103,1,2,2,5,At Risk,0,0
+5063,37,Graduation,Single,28769.0,1,76,9,191,1,2,2,5,At Risk,0,0
+10727,44,PhD,Partner,69084.0,1,43,23,1586,3,4,4,11,Champions,0,0
+9624,56,PhD,Partner,65488.0,0,46,13,963,3,3,3,9,Loyal Customers,0,0
+5156,44,2n Cycle,Partner,62466.0,1,13,21,889,4,4,3,11,Champions,0,0
+4376,54,2n Cycle,Single,32218.0,0,27,6,93,3,2,2,7,Potential Loyalists,1,1
+8923,41,Graduation,Single,83917.0,0,12,20,1587,4,4,4,12,Champions,0,1
+8461,52,Graduation,Single,46102.0,3,3,3,16,4,1,1,6,Potential Loyalists,0,0
+6945,62,Graduation,Single,84574.0,0,72,31,1375,2,4,4,10,Champions,0,0
+944,52,Graduation,Partner,56181.0,1,6,13,393,4,3,2,9,Loyal Customers,0,0
+1907,64,Master,Single,63120.0,1,53,21,1477,2,4,4,10,Champions,0,1
+701,43,Graduation,Partner,73691.0,1,58,16,1179,2,3,4,9,Loyal Customers,1,0
+3856,54,Graduation,Partner,63381.0,1,78,22,1005,1,4,3,8,Loyal Customers,0,0
+4149,66,PhD,Partner,76140.0,0,57,20,1348,2,4,4,10,Champions,0,0
+2131,55,PhD,Single,62859.0,1,37,19,1307,3,4,4,11,Champions,0,0
+2942,50,Graduation,Single,45906.0,1,20,13,486,4,3,3,10,Champions,1,0
+1173,67,Master,Partner,77632.0,0,73,12,2252,2,2,4,8,Loyal Customers,2,1
+4381,43,PhD,Partner,46463.0,2,56,10,235,2,2,2,6,Potential Loyalists,0,0
+4611,44,Graduation,Partner,105471.0,0,36,30,1724,3,4,4,11,Champions,2,1
+3376,44,Master,Single,55282.0,1,9,10,235,4,2,2,8,Loyal Customers,0,0
+4679,37,Master,Partner,78710.0,1,42,25,1092,3,4,4,11,Champions,0,0
+10928,56,Graduation,Partner,66886.0,1,28,15,599,3,3,3,9,Loyal Customers,0,0
+4248,54,Master,Single,98777.0,0,23,19,2008,4,4,4,12,Champions,1,0
+6728,29,Graduation,Partner,29103.0,1,38,4,48,3,1,1,5,At Risk,0,0
+6661,40,Graduation,Partner,67445.0,1,63,27,1174,2,4,4,10,Champions,0,0
+4725,64,PhD,Partner,50616.0,1,71,6,67,2,2,1,5,At Risk,0,0
+3277,59,Graduation,Single,49431.0,1,9,13,365,4,3,2,9,Loyal Customers,0,0
+2564,61,Graduation,Partner,61278.0,1,87,8,165,1,2,2,5,At Risk,0,0
+946,56,2n Cycle,Partner,26490.0,0,92,9,210,1,2,2,5,At Risk,0,0
+3867,67,PhD,Partner,73059.0,1,36,25,1095,3,4,4,11,Champions,0,0
+6940,48,PhD,Single,46734.0,3,86,8,223,1,2,2,5,At Risk,1,0
+55,51,Graduation,Partner,56253.0,1,83,18,597,1,3,3,7,Potential Loyalists,0,0
+7093,29,Graduation,Partner,19986.0,1,74,3,22,2,1,1,4,At Risk,0,0
+5084,39,Graduation,Single,58330.0,1,87,23,1064,1,4,4,9,Loyal Customers,0,0
+1777,34,Basic,Partner,25965.0,0,29,5,74,3,1,2,6,Potential Loyalists,0,0
+8162,58,Master,Partner,14661.0,0,88,4,26,1,1,1,3,Hibernating,0,0
+10826,55,Graduation,Partner,18690.0,0,77,4,60,1,1,1,3,Hibernating,0,0
+8754,40,PhD,Partner,45068.0,1,25,3,20,3,1,1,5,At Risk,0,0
+1987,27,Basic,Single,21063.0,1,34,5,59,3,1,1,5,At Risk,0,0
+11007,46,PhD,Partner,29187.0,1,43,4,34,3,1,1,5,At Risk,0,0
+7426,43,2n Cycle,Partner,54690.0,2,76,9,198,1,2,2,5,At Risk,0,0
+9153,50,PhD,Partner,59304.0,1,81,25,1048,1,4,3,8,Loyal Customers,0,0
+10379,52,Master,Single,59247.0,2,87,16,574,1,3,3,7,Potential Loyalists,0,0
+9204,44,Graduation,Single,66731.0,1,33,13,1029,3,3,3,9,Loyal Customers,0,0
+3197,34,Graduation,Partner,77353.0,1,38,18,670,3,3,3,9,Loyal Customers,0,0
+2920,39,PhD,Single,52614.0,1,63,14,990,2,3,3,8,Loyal Customers,0,0
+6961,40,Graduation,Partner,26751.0,2,26,3,11,3,1,1,5,At Risk,0,0
+4673,51,PhD,Partner,81300.0,1,17,18,1241,4,3,4,11,Champions,1,1
+9937,35,Graduation,Single,70337.0,0,75,16,576,1,3,3,7,Potential Loyalists,0,0
+8779,29,2n Cycle,Partner,36145.0,1,13,8,172,4,2,2,8,Loyal Customers,1,1
+9596,34,PhD,Single,65295.0,0,19,19,664,4,4,3,11,Champions,0,0
+2891,51,Graduation,Single,68118.0,1,51,21,928,2,4,3,9,Loyal Customers,0,0
+4910,47,Graduation,Single,68743.0,0,81,29,2074,1,4,4,9,Loyal Customers,0,0
+75,32,2n Cycle,Partner,41039.0,0,32,14,467,3,3,3,9,Loyal Customers,0,0
+10120,59,Graduation,Partner,38946.0,1,84,10,257,1,2,2,5,At Risk,0,0
+6327,47,Graduation,Partner,65777.0,0,87,16,1146,1,3,4,8,Loyal Customers,0,0
+10142,38,PhD,Single,66476.0,1,99,18,689,1,3,3,7,Potential Loyalists,0,0
+9826,42,PhD,Single,86857.0,0,96,21,2114,1,4,4,9,Loyal Customers,0,1
+1501,32,PhD,Partner,160803.0,0,21,29,1717,4,4,4,12,Champions,0,0
+10767,25,PhD,Partner,77845.0,0,40,20,1346,3,4,4,11,Champions,2,0
+7279,45,PhD,Partner,69476.0,0,3,14,1044,4,3,3,10,Champions,0,0
+7230,54,PhD,Single,50611.0,1,98,16,493,1,3,3,7,Potential Loyalists,1,1
+143,44,Graduation,Single,61209.0,0,73,12,957,2,2,3,7,Potential Loyalists,0,0
+450,56,Master,Partner,42315.0,1,90,9,270,1,2,2,5,At Risk,0,0
+9316,62,Basic,Partner,13084.0,0,29,4,29,3,1,1,5,At Risk,0,0
+6379,65,Master,Single,47570.0,2,3,6,121,4,2,2,8,Loyal Customers,0,1
+9239,53,Master,Partner,61923.0,2,94,7,126,1,2,2,5,At Risk,0,0
+8315,19,Graduation,Single,34824.0,0,65,3,23,2,1,1,4,At Risk,0,0
+2868,65,PhD,Single,26518.0,2,33,5,57,3,1,1,5,At Risk,0,1
+10888,53,Graduation,Single,45938.0,0,46,18,636,3,3,3,9,Loyal Customers,0,0
+1277,54,Graduation,Partner,78468.0,0,29,27,1004,3,4,3,10,Champions,1,0
+9977,41,Graduation,Single,78901.0,1,99,17,734,1,3,3,7,Potential Loyalists,0,0
+10196,36,Graduation,Partner,71427.0,2,26,18,614,3,3,3,9,Loyal Customers,0,0
+6384,36,Graduation,Single,71022.0,1,30,18,1453,3,3,4,10,Champions,1,0
+8029,26,Master,Single,90247.0,0,27,14,1621,3,3,4,10,Champions,3,1
+968,46,Master,Single,41335.0,1,24,9,187,4,2,2,8,Loyal Customers,0,0
+6988,28,Graduation,Partner,71952.0,1,93,20,1443,1,4,4,9,Loyal Customers,2,0
+4472,44,PhD,Single,35682.0,1,34,5,57,3,1,1,5,At Risk,0,0
+6991,63,Graduation,Single,43185.0,1,88,18,637,1,3,3,7,Potential Loyalists,0,0
+3336,66,PhD,Partner,66375.0,1,96,11,948,1,2,3,6,Potential Loyalists,1,0
+4301,43,Master,Partner,35178.0,1,10,4,59,4,1,1,6,Potential Loyalists,1,1
+1940,28,Graduation,Partner,25252.0,1,26,3,18,3,1,1,5,At Risk,0,0
+1272,49,Master,Single,55250.0,1,49,22,903,3,4,3,10,Champions,0,0
+1388,39,Graduation,Single,33249.0,1,11,6,112,4,2,2,8,Loyal Customers,0,0
+1044,61,Graduation,Partner,58398.0,0,44,17,596,3,3,3,9,Loyal Customers,0,0
+6969,32,Graduation,Partner,50272.0,1,75,10,233,1,2,2,5,At Risk,0,0
+10479,39,PhD,Partner,76618.0,0,64,10,1511,2,2,4,8,Loyal Customers,0,0
+3619,54,2n Cycle,Single,87305.0,0,19,16,1152,4,3,4,11,Champions,1,1
+1715,36,Graduation,Partner,25851.0,1,45,5,48,3,1,1,5,At Risk,0,0
+10159,44,Graduation,Single,58710.0,1,77,25,1185,1,4,4,9,Loyal Customers,0,0
+1463,56,Graduation,Single,45160.0,2,9,3,21,4,1,1,6,Potential Loyalists,0,0
+5114,49,Master,Partner,74806.0,1,1,14,965,4,3,3,10,Champions,0,0
+4990,60,Graduation,Partner,59111.0,0,90,20,869,1,4,3,8,Loyal Customers,0,0
+4329,30,PhD,Partner,18988.0,1,43,4,16,3,1,1,5,At Risk,0,0
+10936,49,Graduation,Partner,72190.0,0,79,15,1947,1,3,4,8,Loyal Customers,0,0
+4692,38,Graduation,Partner,7500.0,1,19,7,71,4,2,2,8,Loyal Customers,1,1
+7212,48,Graduation,Partner,44794.0,1,99,5,65,1,1,1,3,Hibernating,0,0
+6086,59,Graduation,Partner,80395.0,0,62,23,1380,2,4,4,10,Champions,1,0
+437,38,Master,Single,75012.0,0,41,22,1027,3,4,3,10,Champions,0,0
+11171,49,Master,Partner,56962.0,3,60,14,411,2,3,3,8,Loyal Customers,0,0
+11101,23,Graduation,Partner,89891.0,0,17,25,836,4,4,3,11,Champions,1,0
+5329,65,PhD,Single,35946.0,2,24,3,11,4,1,1,6,Potential Loyalists,0,0
+610,61,PhD,Partner,53593.0,2,60,15,480,2,3,3,8,Loyal Customers,0,0
+9384,36,Graduation,Partner,66373.0,2,57,16,606,2,3,3,8,Loyal Customers,0,0
+5956,66,PhD,Single,45072.0,3,74,11,284,2,2,2,6,Potential Loyalists,0,0
+10430,41,Graduation,Single,89694.0,2,22,11,1472,4,2,4,10,Champions,3,0
+7875,65,Graduation,Partner,72025.0,0,46,25,1677,3,4,4,11,Champions,3,1
+7072,41,Graduation,Partner,67432.0,1,69,17,1335,2,3,4,9,Loyal Customers,0,0
+6255,62,Master,Partner,70545.0,1,29,12,334,3,2,2,7,Potential Loyalists,0,0
+6516,25,Basic,Partner,17487.0,1,37,3,18,3,1,1,5,At Risk,0,0
+5564,45,Graduation,Partner,62882.0,1,26,18,1338,3,3,4,10,Champions,0,0
+5682,61,PhD,Single,64108.0,1,8,26,1099,4,4,4,12,Champions,0,0
+7458,58,Master,Partner,34941.0,2,26,6,97,3,2,2,7,Potential Loyalists,0,0
+5237,64,PhD,Single,48767.0,3,79,6,63,1,2,1,4,At Risk,0,0
+7761,36,2n Cycle,Partner,38702.0,1,71,7,109,2,2,2,6,Potential Loyalists,0,0
+5278,50,Graduation,Partner,82224.0,0,83,20,902,1,4,3,8,Loyal Customers,1,0
+3560,62,Graduation,Partner,83844.0,0,57,19,1574,2,4,4,10,Champions,1,0
+7235,39,2n Cycle,Partner,17003.0,1,37,6,38,3,2,1,6,Potential Loyalists,0,0
+10548,19,Graduation,Single,71163.0,0,30,23,960,3,4,3,10,Champions,0,0
+2281,44,Graduation,Single,33697.0,1,34,3,28,3,1,1,5,At Risk,1,0
+4073,60,2n Cycle,Partner,63564.0,0,0,27,1215,4,4,4,12,Champions,1,1
+6974,42,PhD,Partner,83443.0,0,89,21,1497,1,4,4,9,Loyal Customers,0,0
+7938,56,PhD,Partner,51518.0,1,92,15,449,1,3,3,7,Potential Loyalists,0,0
+7094,39,Graduation,Single,58330.0,1,87,23,1064,1,4,4,9,Loyal Customers,0,0
+3667,45,Graduation,Partner,80952.0,0,20,24,1757,4,4,4,12,Champions,3,1
+7723,35,Graduation,Partner,75507.0,0,56,20,1440,2,4,4,10,Champions,0,0
+3870,36,2n Cycle,Partner,63855.0,0,28,23,1006,3,4,3,10,Champions,0,0
+4012,42,PhD,Partner,62220.0,1,55,18,1226,2,3,4,9,Loyal Customers,0,1
+5909,50,Graduation,Partner,58512.0,1,25,15,1171,3,3,4,10,Champions,0,0
+10470,35,Master,Partner,40662.0,1,0,6,92,4,2,2,8,Loyal Customers,0,0
+6488,55,PhD,Partner,38829.0,1,86,7,99,1,2,2,5,At Risk,0,0
+10270,33,2n Cycle,Partner,35523.0,1,8,6,66,4,2,1,7,Potential Loyalists,0,0
+6887,47,Graduation,Single,79146.0,2,33,17,564,3,3,3,9,Loyal Customers,0,0
+6406,26,Master,Partner,78285.0,0,13,20,1427,4,4,4,12,Champions,0,0
+7573,36,PhD,Single,31626.0,1,12,5,86,4,1,2,7,Potential Loyalists,1,1
+4508,62,Graduation,Single,75127.0,0,92,18,833,1,3,3,7,Potential Loyalists,0,0
+221,59,Graduation,Partner,48726.0,1,90,9,242,1,2,2,5,At Risk,0,0
+5331,37,Graduation,Partner,74985.0,0,8,16,1869,4,3,4,11,Champions,0,0
+1911,27,Graduation,Partner,67430.0,0,6,28,1364,4,4,4,12,Champions,0,0
+20,49,2n Cycle,Partner,46891.0,1,91,7,183,1,2,2,5,At Risk,0,0
+8786,58,Master,Partner,62058.0,1,52,14,450,2,3,3,8,Loyal Customers,0,0
+10582,35,Graduation,Partner,72063.0,1,3,19,758,4,4,3,11,Champions,0,0
+1915,63,PhD,Partner,78939.0,0,57,19,1507,2,4,4,10,Champions,0,0
+8897,49,Graduation,Single,42720.0,2,9,17,654,4,3,3,10,Champions,0,1
+2371,42,Graduation,Partner,33622.0,2,22,6,81,4,2,2,8,Loyal Customers,0,0
+4303,57,PhD,Partner,6835.0,1,76,1,137,1,1,2,4,At Risk,0,0
+6825,61,Graduation,Partner,41452.0,2,86,3,16,1,1,1,3,Hibernating,0,0
+1072,49,PhD,Single,40760.0,1,64,6,93,2,2,2,6,Potential Loyalists,0,0
+4964,56,PhD,Partner,74250.0,0,90,17,1158,1,3,4,8,Loyal Customers,0,0
+2461,59,Master,Single,51124.0,2,79,4,43,1,1,1,3,Hibernating,0,0
+10736,43,Graduation,Single,72258.0,1,28,20,1525,3,4,4,11,Champions,0,0
+3194,40,PhD,Single,71466.0,0,86,18,1230,1,3,4,8,Loyal Customers,0,0
+10839,38,Graduation,Partner,36283.0,2,42,4,29,3,1,1,5,At Risk,0,0
+49,44,Graduation,Single,20587.0,1,39,4,25,3,1,1,5,At Risk,0,0
+4290,42,Graduation,Partner,30467.0,1,8,3,24,4,1,1,6,Potential Loyalists,0,0
+10219,42,Graduation,Partner,31590.0,1,40,4,38,3,1,1,5,At Risk,0,0
+4211,28,Basic,Partner,20425.0,1,5,5,57,4,1,1,6,Potential Loyalists,0,0
+1135,54,Master,Partner,17144.0,2,96,7,47,1,2,1,4,At Risk,0,0
+6299,46,PhD,Single,42564.0,1,28,18,813,3,3,3,9,Loyal Customers,1,1
+10846,36,Master,Partner,43783.0,1,22,16,629,4,3,3,10,Champions,1,0
+347,38,Graduation,Single,40780.0,1,30,13,377,3,3,2,8,Loyal Customers,0,0
+6543,69,Master,Partner,62847.0,0,45,13,1612,3,3,4,10,Champions,0,0
+10446,57,PhD,Partner,82017.0,0,58,16,729,2,3,3,8,Loyal Customers,3,1
+3479,64,Graduation,Single,16813.0,0,49,5,50,3,1,1,5,At Risk,1,0
+11075,36,Graduation,Partner,51267.0,2,37,11,270,3,2,2,7,Potential Loyalists,0,0
+4442,53,Graduation,Single,46524.0,1,70,7,177,2,2,2,6,Potential Loyalists,0,0
+199,52,Master,Single,45183.0,0,33,12,315,3,2,2,7,Potential Loyalists,1,0
+6722,60,PhD,Partner,70421.0,1,98,20,767,1,4,3,8,Loyal Customers,0,0
+796,49,2n Cycle,Single,60161.0,1,17,23,1071,4,4,4,12,Champions,0,0
+3749,41,Graduation,Partner,73926.0,0,54,23,1580,2,4,4,10,Champions,0,0
+8523,46,Graduation,Partner,19329.0,1,39,7,60,3,2,1,6,Potential Loyalists,0,0
+310,44,Master,Partner,61872.0,1,81,17,573,1,3,3,7,Potential Loyalists,0,0
+8629,58,Graduation,Single,46984.0,2,71,4,41,2,1,1,4,At Risk,0,0
+236,63,Graduation,Partner,34838.0,2,62,7,170,2,2,2,6,Potential Loyalists,0,0
+9930,70,PhD,Single,82716.0,0,8,27,1167,4,4,4,12,Champions,0,0
+3483,56,Graduation,Partner,48192.0,0,76,22,1526,1,4,4,9,Loyal Customers,3,1
+4599,38,Master,Partner,49681.0,2,66,15,458,2,3,3,8,Loyal Customers,0,0
+7326,43,Master,Partner,56850.0,1,83,5,63,1,1,1,3,Hibernating,0,0
+7352,57,Graduation,Partner,55267.0,1,28,13,405,3,3,3,9,Loyal Customers,0,0
+2350,42,Graduation,Partner,59666.0,2,87,13,1027,1,3,3,7,Potential Loyalists,1,0
+9145,42,Graduation,Single,72504.0,1,43,20,1478,3,4,4,11,Champions,0,0
+2964,33,Graduation,Partner,26872.0,0,0,4,72,4,1,2,7,Potential Loyalists,0,0
+5585,42,Graduation,Single,21359.0,1,1,5,48,4,1,1,6,Potential Loyalists,0,1
+9687,39,Graduation,Single,73170.0,0,1,15,726,4,3,3,10,Champions,0,0
+3732,59,Master,Partner,52750.0,1,72,21,860,2,4,3,9,Loyal Customers,0,0
+6303,28,PhD,Partner,91820.0,0,72,22,1497,2,4,4,10,Champions,0,0
+11176,44,PhD,Partner,65968.0,1,12,16,495,4,3,3,10,Champions,0,0
+2986,38,Graduation,Partner,30772.0,2,89,3,20,1,1,1,3,Hibernating,0,0
+7462,60,Graduation,Single,22507.0,0,67,16,570,2,3,3,8,Loyal Customers,0,0
+3900,42,Graduation,Partner,65685.0,1,54,20,769,2,4,3,9,Loyal Customers,0,0
+7034,36,2n Cycle,Partner,25804.0,1,34,5,55,3,1,1,5,At Risk,0,0
+9493,34,PhD,Single,76412.0,0,15,17,1808,4,3,4,11,Champions,2,1
+1143,42,Graduation,Partner,22063.0,1,43,5,55,3,1,1,5,At Risk,0,0
+1,53,Graduation,Single,57091.0,0,0,17,577,4,3,3,10,Champions,1,1
+3855,51,Graduation,Partner,22419.0,0,74,7,162,2,2,2,6,Potential Loyalists,0,0
+5536,55,Graduation,Partner,87771.0,1,61,19,1957,2,4,4,10,Champions,4,1
+5989,55,2n Cycle,Single,78353.0,1,51,23,1576,2,4,4,10,Champions,0,0
+9499,60,Graduation,Partner,93404.0,3,97,14,1616,1,3,4,8,Loyal Customers,2,0
+6768,52,Graduation,Single,37859.0,3,75,4,36,1,1,1,3,Hibernating,0,0
+2150,56,PhD,Single,80995.0,1,83,21,1482,1,4,4,9,Loyal Customers,0,0
+6646,30,Graduation,Partner,16529.0,1,23,4,22,4,1,1,6,Potential Loyalists,0,0
+4887,38,PhD,Single,55412.0,2,65,5,63,2,1,1,4,At Risk,0,0
+8560,22,Graduation,Single,48789.0,0,94,17,680,1,3,3,7,Potential Loyalists,0,0
+3321,47,PhD,Partner,56575.0,2,42,17,542,3,3,3,9,Loyal Customers,0,0
+11003,34,2n Cycle,Partner,25130.0,1,10,5,50,4,1,1,6,Potential Loyalists,0,0
+10402,47,Graduation,Partner,35441.0,2,94,4,39,1,1,1,3,Hibernating,0,0
+9904,58,Graduation,Partner,71391.0,1,50,23,1043,2,4,3,9,Loyal Customers,0,0
+6141,42,Master,Single,49494.0,1,46,12,385,3,2,2,7,Potential Loyalists,0,0
+5687,34,Graduation,Single,81702.0,0,98,26,1633,1,4,4,9,Loyal Customers,0,0
+10856,34,2n Cycle,Single,45889.0,1,42,4,46,3,1,1,5,At Risk,0,0
+5121,37,Graduation,Single,56628.0,1,30,18,761,3,3,3,9,Loyal Customers,1,0
+4186,64,Graduation,Partner,34026.0,2,11,6,76,4,2,2,8,Loyal Customers,0,0
+368,40,Graduation,Partner,40049.0,1,61,11,290,2,2,2,6,Potential Loyalists,0,0
+3312,26,Graduation,Single,34176.0,1,12,7,89,4,2,2,8,Loyal Customers,0,0
+11121,33,Graduation,Partner,19419.0,1,76,7,70,1,2,2,5,At Risk,0,0
+5332,54,2n Cycle,Partner,82504.0,0,2,16,1066,4,3,4,11,Champions,0,0
+5848,44,Graduation,Partner,81205.0,0,43,18,2009,3,3,4,10,Champions,3,1
+10343,23,2n Cycle,Single,61618.0,0,27,17,1345,3,3,4,10,Champions,0,0
+5935,58,Master,Single,55284.0,1,60,20,764,2,4,3,9,Loyal Customers,0,0
+2895,51,Graduation,Single,49980.0,1,79,9,195,1,2,2,5,At Risk,0,0
+10262,34,Graduation,Partner,15072.0,2,96,7,53,1,2,1,4,At Risk,0,0
+7848,40,Graduation,Single,49166.0,1,17,11,368,4,2,2,8,Loyal Customers,0,0
+9477,60,PhD,Partner,65324.0,1,0,17,544,4,3,3,10,Champions,0,0
+4856,57,2n Cycle,Partner,82347.0,0,38,24,1853,3,4,4,11,Champions,2,0
+7186,48,PhD,Partner,30843.0,2,43,4,35,3,1,1,5,At Risk,1,0
+5794,40,PhD,Partner,46374.0,1,1,15,446,4,3,3,10,Champions,2,1
+1456,35,Graduation,Single,60474.0,1,25,24,1180,3,4,4,11,Champions,0,0
+4877,41,Master,Partner,38576.0,1,2,4,41,4,1,1,6,Potential Loyalists,0,0
+425,29,Graduation,Partner,55357.0,2,66,19,727,2,4,3,9,Loyal Customers,0,0
+3007,48,Graduation,Partner,37758.0,2,49,4,40,3,1,1,5,At Risk,0,0
+1031,25,2n Cycle,Partner,85710.0,0,5,25,1062,4,4,4,12,Champions,1,0
+4297,45,Graduation,Partner,23228.0,1,71,5,40,2,1,1,4,At Risk,0,0
+807,45,Master,Partner,44602.0,2,35,11,292,3,2,2,7,Potential Loyalists,0,0
+9553,27,Graduation,Partner,7500.0,0,94,3,15,1,1,1,3,Hibernating,0,0
+4271,25,2n Cycle,Partner,38683.0,1,80,11,341,1,2,2,5,At Risk,0,0
+4120,39,2n Cycle,Single,49514.0,1,61,11,369,2,2,2,6,Potential Loyalists,0,0
+2036,41,PhD,Partner,57906.0,1,29,14,401,3,3,3,9,Loyal Customers,0,0
+115,48,Master,Single,43456.0,1,0,14,393,4,3,2,9,Loyal Customers,0,0
+4259,28,Master,Single,19485.0,2,80,3,10,1,1,1,3,Hibernating,0,0
+8687,36,Graduation,Partner,53172.0,1,54,13,486,2,3,3,8,Loyal Customers,0,0
+2447,35,Graduation,Partner,30545.0,1,71,5,69,2,1,1,4,At Risk,0,0
+10140,31,PhD,Partner,70123.0,0,27,16,1727,3,3,4,10,Champions,2,0
+9353,55,Graduation,Single,62450.0,1,61,14,995,2,3,3,8,Loyal Customers,1,0
+3623,38,Graduation,Partner,21675.0,1,55,7,45,2,2,1,5,At Risk,0,0
+738,33,2n Cycle,Single,42395.0,2,35,8,182,3,2,2,7,Potential Loyalists,0,0
+7631,36,Master,Partner,61346.0,1,34,22,989,3,4,3,10,Champions,0,0
+4789,61,Graduation,Partner,80812.0,0,95,17,1677,1,3,4,8,Loyal Customers,3,0
+773,43,Master,Single,42835.0,2,64,16,595,2,3,3,8,Loyal Customers,0,0
+10602,31,Graduation,Partner,39922.0,1,30,7,156,3,2,2,7,Potential Loyalists,0,0
+1446,58,Master,Single,86424.0,0,12,27,1226,4,4,4,12,Champions,0,0
+3270,36,2n Cycle,Partner,17117.0,1,96,7,128,1,2,2,5,At Risk,0,0
+8443,42,Graduation,Single,24762.0,1,16,6,86,4,2,2,8,Loyal Customers,1,1
+9653,39,Graduation,Partner,35797.0,1,16,5,68,4,1,1,6,Potential Loyalists,0,0
+8916,39,Graduation,Single,36627.0,2,78,3,16,1,1,1,3,Hibernating,0,0
+8017,33,2n Cycle,Partner,51111.0,2,83,5,55,1,1,1,3,Hibernating,0,0
+5830,42,PhD,Single,86857.0,0,96,21,2114,1,4,4,9,Loyal Customers,0,1
+4597,44,PhD,Partner,82072.0,0,67,18,2018,2,3,4,9,Loyal Customers,0,0
+7023,61,PhD,Single,46231.0,3,87,11,263,1,2,2,5,At Risk,0,0
+8086,55,Graduation,Partner,42243.0,2,34,5,55,3,1,1,5,At Risk,0,0
+8825,52,Graduation,Partner,51195.0,2,46,16,564,3,3,3,9,Loyal Customers,0,0
+2930,36,Master,Single,68092.0,0,7,18,1281,4,3,4,11,Champions,0,0
+1928,41,Graduation,Partner,31814.0,1,73,5,83,2,1,2,5,At Risk,1,0
+7108,49,Master,Single,51390.0,2,54,12,353,2,2,2,6,Potential Loyalists,0,0
+10925,31,Graduation,Partner,76630.0,0,93,24,1003,1,4,3,8,Loyal Customers,0,0
+9960,23,Basic,Single,26868.0,1,52,3,14,2,1,1,4,At Risk,0,0
+8800,71,PhD,Single,48948.0,0,53,22,902,2,4,3,9,Loyal Customers,1,1
+9224,42,PhD,Single,55260.0,1,81,23,1139,1,4,4,9,Loyal Customers,0,0
+5519,58,Graduation,Partner,64090.0,1,8,19,797,4,4,3,11,Champions,0,1
+5046,56,Graduation,Single,78331.0,1,97,23,1638,1,4,4,9,Loyal Customers,0,0
+7037,40,PhD,Partner,37087.0,1,50,14,401,2,3,3,8,Loyal Customers,0,0
+905,28,Graduation,Single,21846.0,1,38,7,84,3,2,2,7,Potential Loyalists,0,0
+8624,56,Graduation,Partner,81320.0,0,61,17,928,2,3,3,8,Loyal Customers,0,0
+8945,44,Graduation,Single,54137.0,1,46,9,203,3,2,2,7,Potential Loyalists,0,0
+6445,47,Graduation,Partner,66825.0,0,73,15,858,2,3,3,8,Loyal Customers,0,0
+2727,41,Graduation,Partner,57100.0,0,19,12,409,4,2,3,9,Loyal Customers,0,0
+6404,45,Graduation,Partner,58917.0,3,10,11,282,4,2,2,8,Loyal Customers,0,0
+11074,37,Graduation,Single,85072.0,0,94,17,1423,1,3,4,8,Loyal Customers,0,0
+10150,53,Graduation,Single,86429.0,0,10,18,1449,4,3,4,11,Champions,1,1
+1968,43,Graduation,Single,45684.0,1,37,3,28,3,1,1,5,At Risk,0,0
+6534,40,Graduation,Partner,47889.0,1,94,5,67,1,1,1,3,Hibernating,0,0
+9485,28,PhD,Partner,45921.0,0,23,9,199,4,2,2,8,Loyal Customers,0,0
+7053,48,PhD,Single,78420.0,0,75,21,1453,1,4,4,9,Loyal Customers,0,0
+4654,22,Graduation,Partner,75114.0,0,40,18,1253,3,3,4,10,Champions,0,0
+9760,51,PhD,Single,52278.0,1,24,25,1198,4,4,4,12,Champions,0,1
+1048,42,Master,Partner,35641.0,1,11,8,178,4,2,2,8,Loyal Customers,0,1
+10619,20,Graduation,Single,95529.0,0,29,17,1990,3,3,4,10,Champions,1,1
+9308,60,Graduation,Partner,62820.0,0,51,13,976,2,3,3,8,Loyal Customers,0,0
+10505,54,Master,Partner,73113.0,0,86,14,1001,1,3,3,7,Potential Loyalists,0,0
+8362,32,PhD,Partner,84169.0,0,9,19,1919,4,4,4,12,Champions,2,1
+2625,60,2n Cycle,Single,42607.0,1,30,12,350,3,2,2,7,Potential Loyalists,0,0
+4637,60,PhD,Single,74637.0,0,73,24,1650,2,4,4,10,Champions,1,0
+9972,59,PhD,Partner,46015.0,2,25,4,46,3,1,1,5,At Risk,2,0
+4483,21,Graduation,Single,72354.0,0,67,18,1228,2,3,4,9,Loyal Customers,0,0
+4487,45,Master,Single,39858.0,1,67,6,95,2,2,2,6,Potential Loyalists,0,1
+4988,66,PhD,Partner,34469.0,2,58,6,62,2,2,1,5,At Risk,0,0
+8931,28,Graduation,Partner,83033.0,1,82,25,1761,1,4,4,9,Loyal Customers,1,0
+5871,35,Master,Partner,24401.0,0,98,13,467,1,3,3,7,Potential Loyalists,0,0
+2008,36,Graduation,Partner,77583.0,0,93,18,1149,1,3,4,8,Loyal Customers,1,0
+3139,32,2n Cycle,Single,74116.0,0,53,18,2052,2,3,4,9,Loyal Customers,1,0
+10037,21,Graduation,Single,74293.0,0,66,15,1127,2,3,4,9,Loyal Customers,0,0
+10673,38,PhD,Partner,68397.0,1,6,20,1416,4,4,4,12,Champions,0,0
+5303,40,PhD,Partner,79632.0,0,42,19,1113,3,4,4,11,Champions,0,0
+538,25,Graduation,Single,46107.0,1,78,6,125,1,2,2,5,At Risk,0,0
+7922,63,PhD,Single,64950.0,1,29,23,966,3,4,3,10,Champions,1,0
+5692,25,Basic,Partner,25443.0,1,82,4,32,1,1,1,3,Hibernating,0,0
+4843,62,Graduation,Single,75127.0,0,92,18,833,1,3,3,7,Potential Loyalists,0,0
+6383,43,PhD,Partner,32892.0,1,78,6,46,1,2,1,4,At Risk,0,0
+1628,43,Graduation,Partner,71796.0,0,54,16,960,2,3,3,8,Loyal Customers,0,0
+1204,44,PhD,Partner,67536.0,1,45,27,1829,3,4,4,11,Champions,1,0
+3673,43,Graduation,Single,55239.0,1,59,23,779,2,4,3,9,Loyal Customers,0,0
+760,39,PhD,Single,60554.0,1,8,21,811,4,4,3,11,Champions,0,0
+8957,62,2n Cycle,Single,64831.0,2,51,14,1120,2,3,4,9,Loyal Customers,0,0
+4128,52,PhD,Partner,56067.0,1,51,18,725,2,3,3,8,Loyal Customers,0,0
+6810,31,Graduation,Single,82025.0,0,76,11,1187,1,2,4,7,Potential Loyalists,1,1
+5386,61,Graduation,Partner,94384.0,0,62,18,2302,2,3,4,9,Loyal Customers,3,1
+8700,28,Basic,Single,14906.0,0,86,6,66,1,2,1,4,At Risk,0,0
+3202,27,PhD,Partner,51563.0,0,60,18,1250,2,3,4,9,Loyal Customers,2,0
+1328,32,2n Cycle,Partner,57937.0,1,56,17,683,2,3,3,8,Loyal Customers,0,0
+8405,35,Graduation,Single,68274.0,2,83,11,305,1,2,2,5,At Risk,0,0
+6515,37,Graduation,Partner,39771.0,1,92,5,50,1,1,1,3,Hibernating,0,0
+2882,39,2n Cycle,Single,67893.0,1,31,14,995,3,3,3,9,Loyal Customers,0,0
+7574,35,PhD,Partner,27922.0,1,80,5,41,1,1,1,3,Hibernating,0,0
+6387,38,PhD,Partner,52190.0,2,39,6,77,3,2,2,7,Potential Loyalists,1,0
+5320,41,Master,Single,44051.0,2,20,8,171,4,2,2,8,Loyal Customers,0,1
+5048,43,PhD,Single,42767.0,2,53,6,131,2,2,2,6,Potential Loyalists,0,0
+8146,38,Master,Partner,46106.0,2,84,4,54,1,1,1,3,Hibernating,0,0
+10031,38,PhD,Partner,16927.0,2,50,7,53,2,2,1,5,At Risk,0,0
+5748,49,Graduation,Partner,59754.0,1,96,13,475,1,3,3,7,Potential Loyalists,0,1
+2134,62,Graduation,Single,53700.0,1,94,18,694,1,3,3,7,Potential Loyalists,0,0
+1523,41,Graduation,Partner,59041.0,2,25,6,96,3,2,2,7,Potential Loyalists,0,0
+9665,57,PhD,Single,54237.0,1,48,12,361,3,2,2,7,Potential Loyalists,0,0
+4640,47,Graduation,Single,70647.0,1,65,24,1079,2,4,4,10,Champions,0,0
+3635,52,PhD,Single,52597.0,1,69,17,578,2,3,3,8,Loyal Customers,0,0
+3547,45,Master,Partner,41021.0,1,12,5,64,4,1,1,6,Potential Loyalists,0,1
+2456,39,PhD,Partner,40233.0,1,84,8,149,1,2,2,5,At Risk,0,0
+5633,34,Graduation,Partner,50183.0,2,47,10,231,3,2,2,7,Potential Loyalists,0,0
+7801,55,Graduation,Partner,54753.0,1,87,18,728,1,3,3,7,Potential Loyalists,0,0
+10489,41,Graduation,Partner,92955.0,0,35,22,1778,3,4,4,11,Champions,2,1
+7011,41,Graduation,Partner,33471.0,1,47,7,93,3,2,2,7,Potential Loyalists,0,0
+2620,40,PhD,Partner,34596.0,1,48,3,23,3,1,1,5,At Risk,0,1
+3933,34,Graduation,Partner,44010.0,1,46,18,662,3,3,3,9,Loyal Customers,0,0
+10981,26,Graduation,Partner,84219.0,0,27,17,1198,3,3,4,10,Champions,0,0
+1734,46,PhD,Partner,40706.0,3,37,7,81,3,2,2,7,Potential Loyalists,0,0
+10995,26,2n Cycle,Partner,15716.0,1,8,7,92,4,2,2,8,Loyal Customers,0,0
+6357,55,2n Cycle,Single,59052.0,1,29,15,491,3,3,3,9,Loyal Customers,0,0
+9209,43,Master,Partner,80573.0,0,85,23,1564,1,4,4,9,Loyal Customers,0,0
+10286,52,Graduation,Partner,83715.0,0,2,23,926,4,4,3,11,Champions,0,0
+2611,55,Master,Partner,82576.0,0,66,18,1910,2,3,4,9,Loyal Customers,1,0
+1600,49,Master,Partner,56962.0,3,60,14,411,2,3,3,8,Loyal Customers,0,0
+3308,62,Graduation,Partner,35704.0,2,54,6,94,2,2,2,6,Potential Loyalists,0,0
+5407,60,Graduation,Partner,53103.0,1,70,23,1085,2,4,4,10,Champions,1,0
+2166,54,2n Cycle,Single,46779.0,2,55,3,23,2,1,1,4,At Risk,0,0
+6634,35,Master,Single,33462.0,1,78,5,54,1,1,1,3,Hibernating,0,0
+3056,36,Graduation,Single,63693.0,1,63,26,1150,2,4,4,10,Champions,0,0
+5718,64,Graduation,Partner,80763.0,0,17,22,1415,4,4,4,12,Champions,2,1
+6872,40,PhD,Partner,65352.0,1,43,14,405,3,3,3,9,Loyal Customers,0,0
+8164,36,PhD,Partner,82170.0,0,13,18,1908,4,3,4,11,Champions,0,0
+4580,45,Graduation,Partner,75759.0,0,46,25,2486,3,4,4,11,Champions,3,1
+9305,38,2n Cycle,Single,79689.0,0,65,26,1315,2,4,4,10,Champions,0,0
+453,58,PhD,Single,35340.0,2,1,5,45,4,1,1,6,Potential Loyalists,0,0
+8545,60,Graduation,Single,85683.0,0,6,16,1789,4,3,4,11,Champions,4,1
+9850,42,2n Cycle,Partner,24884.0,1,32,3,19,3,1,1,5,At Risk,0,0
+7378,33,Master,Partner,42021.0,1,34,17,573,3,3,3,9,Loyal Customers,1,0
+7646,25,Graduation,Single,64449.0,1,70,20,805,2,4,3,9,Loyal Customers,0,0
+1640,60,Graduation,Single,64587.0,2,49,6,108,3,2,2,7,Potential Loyalists,0,0
+5184,19,Graduation,Single,34824.0,0,65,3,23,2,1,1,4,At Risk,0,0
+8492,36,Graduation,Partner,75437.0,0,25,22,1493,3,4,4,11,Champions,1,0
+11188,57,Graduation,Partner,26091.0,2,84,6,89,1,2,2,5,At Risk,0,0
+1212,41,Graduation,Partner,52845.0,1,7,22,936,4,4,3,11,Champions,1,0
+9097,58,Graduation,Single,46086.0,1,34,12,343,3,2,2,7,Potential Loyalists,0,0
+10473,58,PhD,Single,78028.0,1,38,19,528,3,4,3,10,Champions,2,1
+7962,27,PhD,Single,95169.0,0,1,11,1901,4,2,4,10,Champions,2,1
+9984,33,2n Cycle,Partner,56337.0,2,25,17,724,3,3,3,9,Loyal Customers,2,1
+5527,27,Graduation,Partner,22434.0,1,25,5,58,3,1,1,5,At Risk,0,0
+6374,60,PhD,Partner,36930.0,1,50,11,297,2,2,2,6,Potential Loyalists,0,0
+7453,60,Graduation,Single,36130.0,1,46,15,488,3,3,3,9,Loyal Customers,1,1
+8952,61,Master,Partner,65569.0,1,96,21,859,1,4,3,8,Loyal Customers,0,0
+241,62,Graduation,Partner,83844.0,0,57,19,1574,2,4,4,10,Champions,1,0
+8975,46,Graduation,Partner,19514.0,2,47,6,69,3,2,1,6,Potential Loyalists,1,0
+6119,51,PhD,Single,36736.0,2,52,3,17,2,1,1,4,At Risk,0,0
+5236,35,Graduation,Partner,77568.0,1,30,20,2194,3,4,4,11,Champions,3,0
+5723,38,PhD,Partner,49187.0,1,63,7,116,2,2,2,6,Potential Loyalists,0,0
+1710,36,Graduation,Single,30168.0,1,51,11,279,2,2,2,6,Potential Loyalists,0,0
+1970,46,Master,Partner,34053.0,1,14,6,103,4,2,2,8,Loyal Customers,0,0
+5313,43,Master,Partner,38196.0,2,20,6,44,4,2,1,7,Potential Loyalists,0,0
+10634,63,Master,Partner,59412.0,0,56,14,406,2,3,3,8,Loyal Customers,0,0
+7010,49,2n Cycle,Partner,70924.0,0,41,19,1363,3,4,4,11,Champions,1,0
+8562,45,Graduation,Partner,54165.0,0,72,10,236,2,2,2,6,Potential Loyalists,0,0
+3158,41,Graduation,Partner,32300.0,1,1,4,39,4,1,1,6,Potential Loyalists,0,0
+4436,38,Graduation,Single,20180.0,0,27,7,137,3,2,2,7,Potential Loyalists,0,0
+5287,41,Graduation,Partner,34961.0,1,77,7,79,1,2,2,5,At Risk,0,0
+2445,40,PhD,Partner,28440.0,1,87,5,63,1,1,1,3,Hibernating,0,0
+6059,61,PhD,Partner,64504.0,3,81,18,1314,1,3,4,8,Loyal Customers,0,1
+4550,48,Master,Partner,33564.0,1,51,5,71,2,1,2,5,At Risk,0,0
+4240,36,Graduation,Partner,17345.0,1,79,5,58,1,1,1,3,Hibernating,0,0
+8911,47,PhD,Partner,56320.0,1,11,18,702,4,3,3,10,Champions,0,0
+3706,36,Graduation,Single,28647.0,1,54,6,94,2,2,2,6,Potential Loyalists,1,1
+3628,27,Basic,Single,15038.0,1,93,5,80,1,1,2,4,At Risk,0,0
+10175,56,PhD,Single,32173.0,1,0,4,22,4,1,1,6,Potential Loyalists,0,0
+8985,50,2n Cycle,Partner,68316.0,1,54,27,1211,2,4,4,10,Champions,0,0
+5204,43,Graduation,Partner,74538.0,0,21,21,1461,4,4,4,12,Champions,1,1
+9220,43,Graduation,Single,91700.0,0,58,19,1968,2,4,4,10,Champions,0,1
+9888,45,Graduation,Partner,68695.0,0,3,15,1091,4,3,4,11,Champions,0,0
+5263,37,2n Cycle,Partner,31056.0,1,99,4,55,1,1,1,3,Hibernating,0,0
+1020,41,Graduation,Partner,79593.0,0,70,18,1366,2,3,4,9,Loyal Customers,1,0
+9503,34,Graduation,Single,28071.0,0,65,11,313,2,2,2,6,Potential Loyalists,0,0
+10613,56,PhD,Partner,37334.0,2,44,7,62,3,2,1,6,Potential Loyalists,0,0
+67,42,Master,Single,46423.0,2,6,6,92,4,2,2,8,Loyal Customers,0,0
+6019,43,PhD,Partner,37126.0,1,9,5,72,4,1,2,7,Potential Loyalists,1,1
+5863,61,Graduation,Partner,47703.0,1,95,17,655,1,3,3,7,Potential Loyalists,0,0
+3717,55,Graduation,Partner,61180.0,1,70,16,704,2,3,3,8,Loyal Customers,1,0
+6730,60,Graduation,Partner,38998.0,2,92,5,54,1,1,1,3,Hibernating,0,0
+10749,23,Graduation,Single,8028.0,0,62,1,178,2,1,2,5,At Risk,0,0
+4998,52,Graduation,Partner,76081.0,0,85,13,1033,1,3,3,7,Potential Loyalists,1,0
+6287,28,Graduation,Partner,34728.0,1,2,4,36,4,1,1,6,Potential Loyalists,0,1
+5985,49,Master,Single,33168.0,1,0,7,122,4,2,2,8,Loyal Customers,0,0
+4754,48,Master,Partner,33585.0,1,91,6,122,1,2,2,5,At Risk,0,0
+4002,54,PhD,Partner,77037.0,1,3,26,1123,4,4,4,12,Champions,0,0
+8870,30,Graduation,Partner,35196.0,1,68,12,497,2,2,3,7,Potential Loyalists,0,1
+966,48,Graduation,Partner,44529.0,1,98,19,691,1,4,3,8,Loyal Customers,1,0
+4767,49,2n Cycle,Partner,70924.0,0,41,19,1363,3,4,4,11,Champions,1,0
+9725,48,PhD,Partner,28764.0,2,16,3,12,4,1,1,6,Potential Loyalists,1,0
+4475,65,PhD,Partner,69098.0,0,82,24,2440,1,4,4,9,Loyal Customers,0,0
+5740,44,2n Cycle,Single,25959.0,2,1,5,56,4,1,1,6,Potential Loyalists,0,1
+5731,31,Master,Partner,27100.0,1,64,4,37,2,1,1,4,At Risk,0,0
+7290,29,Graduation,Single,70596.0,0,68,20,968,2,4,3,9,Loyal Customers,0,0
+3846,40,Graduation,Partner,42557.0,1,98,11,270,1,2,2,5,At Risk,0,0
+8104,63,PhD,Partner,53312.0,0,32,11,278,3,2,2,7,Potential Loyalists,0,0
+4507,62,Graduation,Single,72228.0,0,87,21,1250,1,4,4,9,Loyal Customers,0,0
+11013,27,Graduation,Partner,67605.0,0,84,16,938,1,3,3,7,Potential Loyalists,0,0
+4491,65,Master,Partner,62845.0,2,3,17,1178,4,3,4,11,Champions,1,0
+3759,56,Graduation,Partner,65196.0,2,34,24,1155,3,4,4,11,Champions,1,0
+1162,27,PhD,Single,42000.0,0,23,18,653,4,3,3,10,Champions,0,1
+2055,41,PhD,Single,35860.0,2,37,4,49,3,1,1,5,At Risk,1,0
+10766,50,PhD,Partner,65526.0,1,22,16,506,4,3,3,10,Champions,0,0
+4415,53,Graduation,Partner,16860.0,2,19,5,38,4,1,1,6,Potential Loyalists,0,0
+3005,22,Graduation,Single,83528.0,0,7,22,1650,4,4,4,12,Champions,2,1
+2223,49,2n Cycle,Single,64176.0,1,52,25,1826,2,4,4,10,Champions,0,0
+4817,58,Graduation,Single,22304.0,0,91,3,18,1,1,1,3,Hibernating,0,0
+2875,36,Graduation,Partner,67023.0,0,93,23,906,1,4,3,8,Loyal Customers,0,0
+10536,43,PhD,Partner,32892.0,1,78,6,46,1,2,1,4,At Risk,0,0
+11112,48,Graduation,Partner,70713.0,1,23,19,1477,4,4,4,12,Champions,0,0
+3807,59,Graduation,Partner,59925.0,1,83,20,766,1,4,3,8,Loyal Customers,0,0
+9197,61,Graduation,Partner,39722.0,1,92,5,47,1,1,1,3,Hibernating,0,0
+10832,56,Graduation,Partner,46610.0,0,4,13,467,4,3,3,10,Champions,0,0
+6421,53,Graduation,Partner,88347.0,0,32,20,2116,3,4,4,11,Champions,1,0
+4207,33,PhD,Partner,87171.0,0,27,24,1298,3,4,4,11,Champions,2,0
+577,38,2n Cycle,Partner,26907.0,2,10,4,22,4,1,1,6,Potential Loyalists,0,0
+10855,46,Master,Single,50014.0,1,9,13,396,4,3,2,9,Loyal Customers,0,0
+3081,36,PhD,Partner,41014.0,1,65,3,20,2,1,1,4,At Risk,0,0
+3535,49,Graduation,Single,66294.0,0,68,12,967,2,2,3,7,Potential Loyalists,0,0
+247,43,Graduation,Partner,36715.0,1,16,13,357,4,3,2,9,Loyal Customers,0,1
+8707,58,Graduation,Partner,79456.0,0,12,15,1401,4,3,4,11,Champions,0,1
+9523,32,Graduation,Partner,40479.0,1,95,3,15,1,1,1,3,Hibernating,0,0
+6072,44,Master,Single,75345.0,0,16,19,2087,4,4,4,12,Champions,1,1
+6295,37,Graduation,Partner,54233.0,1,46,22,981,3,4,3,10,Champions,0,0
+10914,44,Graduation,Single,24163.0,2,3,4,17,4,1,1,6,Potential Loyalists,0,0
+1509,56,PhD,Partner,84460.0,0,80,22,523,1,4,3,8,Loyal Customers,4,1
+5577,31,Graduation,Partner,43776.0,1,77,3,23,1,1,1,3,Hibernating,0,0
+7348,56,PhD,Single,71691.0,0,0,16,1192,4,3,4,11,Champions,0,1
+1127,41,PhD,Partner,85844.0,0,62,19,1958,2,4,4,10,Champions,1,0
+1833,40,PhD,Single,39190.0,1,91,7,133,1,2,2,5,At Risk,0,0
+4944,55,Graduation,Partner,71367.0,0,24,16,777,4,3,3,10,Champions,0,0
+9080,42,PhD,Single,38578.0,2,2,6,73,4,2,2,8,Loyal Customers,0,0
+6466,49,PhD,Partner,57236.0,2,22,7,121,4,2,2,8,Loyal Customers,0,0
+9964,35,Graduation,Single,61825.0,1,56,14,424,2,3,3,8,Loyal Customers,0,0
+4790,56,Graduation,Single,79803.0,1,54,12,868,2,2,3,7,Potential Loyalists,0,0
+10245,28,2n Cycle,Single,80910.0,0,71,14,756,2,3,3,8,Loyal Customers,0,0
+1109,32,Master,Partner,27590.0,1,38,3,12,3,1,1,5,At Risk,0,0
+6001,35,Graduation,Partner,56775.0,1,62,23,937,2,4,3,9,Loyal Customers,0,0
+5538,39,Graduation,Single,83829.0,0,78,17,1862,1,3,4,8,Loyal Customers,3,1
+10552,35,2n Cycle,Partner,54210.0,1,18,12,367,4,2,2,8,Loyal Customers,0,0
+1545,28,Graduation,Partner,38508.0,1,95,14,443,1,3,3,7,Potential Loyalists,0,0
+7409,44,Graduation,Partner,53187.0,1,66,11,267,2,2,2,6,Potential Loyalists,0,0
+4444,42,Graduation,Partner,30023.0,1,28,5,61,3,1,1,5,At Risk,0,0
+146,54,PhD,Single,76045.0,0,78,20,1323,1,4,4,9,Loyal Customers,1,0
+6271,62,PhD,Partner,50870.0,1,13,5,63,4,1,1,6,Potential Loyalists,0,0
+10065,44,2n Cycle,Partner,15315.0,0,27,6,64,3,2,1,6,Potential Loyalists,0,0
+4741,40,2n Cycle,Partner,65463.0,1,17,17,562,4,3,3,10,Champions,1,0
+246,49,Graduation,Partner,66480.0,2,71,12,312,2,2,2,6,Potential Loyalists,0,0
+375,60,Graduation,Single,76773.0,0,79,15,1156,1,3,4,8,Loyal Customers,0,0
+1524,31,2n Cycle,Single,81698.0,0,1,15,1104,4,3,4,11,Champions,1,1
+10022,41,PhD,Single,54466.0,2,78,3,16,1,1,1,3,Hibernating,0,0
+7451,54,Master,Single,98777.0,0,23,19,2008,4,4,4,12,Champions,1,0
+11010,30,PhD,Single,16269.0,1,75,6,44,1,2,1,4,At Risk,0,0
+4356,43,Graduation,Partner,71819.0,1,70,11,1574,2,2,4,8,Loyal Customers,2,0
+3885,31,PhD,Partner,33569.0,1,10,4,63,4,1,1,6,Potential Loyalists,1,1
+1175,31,Master,Partner,36262.0,0,24,11,426,4,2,3,9,Loyal Customers,1,1
+880,48,Basic,Partner,22634.0,0,47,5,96,3,1,2,6,Potential Loyalists,0,0
+2320,36,2n Cycle,Partner,47025.0,1,98,18,635,1,3,3,7,Potential Loyalists,0,0
+850,46,Graduation,Single,70566.0,1,4,20,757,4,4,3,11,Champions,0,0
+4713,35,PhD,Partner,31605.0,1,15,7,125,4,2,2,8,Loyal Customers,0,0
+675,41,Master,Single,52034.0,2,67,11,332,2,2,2,6,Potential Loyalists,0,0
+5025,35,Graduation,Single,48526.0,1,32,7,135,3,2,2,7,Potential Loyalists,0,0
+2308,60,Graduation,Partner,46734.0,1,40,12,330,3,2,2,7,Potential Loyalists,0,0
+5995,52,Graduation,Single,39552.0,2,54,13,384,2,3,2,7,Potential Loyalists,0,1
+6749,48,Graduation,Single,86358.0,2,78,14,1722,1,3,4,8,Loyal Customers,0,0
+1010,37,Graduation,Partner,46931.0,3,94,5,78,1,1,2,4,At Risk,0,0
+8977,29,Basic,Single,16581.0,0,51,3,24,2,1,1,4,At Risk,0,0
+4756,62,2n Cycle,Single,63998.0,0,42,24,1168,3,4,4,11,Champions,0,1
+3412,63,Master,Partner,67381.0,1,67,13,957,2,3,3,8,Loyal Customers,1,0
+606,47,Graduation,Single,25930.0,2,87,3,15,1,1,1,3,Hibernating,0,0
+5961,36,Graduation,Partner,42693.0,1,29,4,57,3,1,1,5,At Risk,0,0
+2975,38,Graduation,Partner,85606.0,1,89,22,1956,1,4,4,9,Loyal Customers,1,0
+2894,29,Graduation,Single,72903.0,0,74,20,2013,2,4,4,10,Champions,3,1
+7613,40,2n Cycle,Partner,49669.0,1,97,12,326,1,2,2,5,At Risk,0,0
+10542,46,PhD,Partner,36778.0,2,63,6,77,2,2,2,6,Potential Loyalists,0,0
+8015,52,PhD,Single,85696.0,0,88,19,1313,1,4,4,9,Loyal Customers,0,1
+10617,25,Master,Single,10979.0,0,34,6,30,3,2,1,6,Potential Loyalists,0,0
+11166,53,Graduation,Partner,49678.0,1,81,12,315,1,2,2,5,At Risk,0,0
+849,61,Master,Partner,56129.0,1,65,18,660,2,3,3,8,Loyal Customers,0,0
+523,25,Graduation,Partner,37155.0,1,51,6,74,2,2,2,6,Potential Loyalists,0,0
+4066,36,2n Cycle,Single,21282.0,1,76,5,46,1,1,1,3,Hibernating,0,0
+8414,52,PhD,Single,33419.0,1,76,6,86,1,2,2,5,At Risk,0,0
+819,69,Graduation,Single,63285.0,0,84,24,1103,1,4,4,9,Loyal Customers,0,0
+4961,40,Master,Partner,21255.0,1,56,7,61,2,2,1,5,At Risk,0,0
+749,33,Graduation,Partner,42162.0,1,31,7,145,3,2,2,7,Potential Loyalists,1,1
+5430,58,Graduation,Partner,54450.0,2,0,19,684,4,4,3,11,Champions,0,0
+7755,60,PhD,Partner,57744.0,1,91,14,411,1,3,3,7,Potential Loyalists,0,0
+10525,28,Graduation,Single,26576.0,1,40,3,27,3,1,1,5,At Risk,1,1
+1453,71,PhD,Single,57513.0,0,59,25,1060,2,4,4,10,Champions,0,0
+8310,50,Graduation,Partner,68142.0,1,96,21,1459,1,4,4,9,Loyal Customers,0,0
+10710,35,Graduation,Partner,7500.0,1,61,3,18,2,1,1,4,At Risk,0,0
+5031,40,Graduation,Partner,83145.0,0,14,25,1833,4,4,4,12,Champions,1,1
+2613,54,Master,Partner,54197.0,1,16,10,237,4,2,2,8,Loyal Customers,0,0
+213,51,PhD,Single,23091.0,2,98,6,48,1,2,1,4,At Risk,0,0
+967,38,Graduation,Partner,46049.0,2,11,16,515,4,3,3,10,Champions,0,1
+1077,40,Graduation,Partner,56715.0,0,52,14,1020,2,3,3,8,Loyal Customers,0,0
+7959,53,Graduation,Partner,79410.0,0,19,10,1370,4,2,4,10,Champions,0,0
+640,63,Graduation,Partner,57304.0,1,61,23,1026,2,4,3,9,Loyal Customers,0,0
+4252,49,Graduation,Partner,44375.0,1,73,11,301,2,2,2,6,Potential Loyalists,0,0
+8432,58,Graduation,Partner,54450.0,2,0,19,684,4,4,3,11,Champions,0,0
+6218,49,Graduation,Partner,59594.0,1,74,16,499,2,3,3,8,Loyal Customers,1,0
+6905,20,Graduation,Partner,80685.0,0,55,20,1004,2,4,3,9,Loyal Customers,0,0
+5922,40,PhD,Partner,40344.0,1,48,10,218,3,2,2,7,Potential Loyalists,0,0
+3598,42,Graduation,Partner,62710.0,1,53,18,606,2,3,3,8,Loyal Customers,0,0
+6116,46,2n Cycle,Partner,48985.0,1,13,5,75,4,1,2,7,Potential Loyalists,0,0
+6263,46,Graduation,Partner,35322.0,3,34,6,106,3,2,2,7,Potential Loyalists,0,0
+10486,66,Graduation,Partner,77142.0,0,54,16,990,2,3,3,8,Loyal Customers,0,0
+2410,45,Graduation,Single,81657.0,0,69,15,1097,2,3,4,9,Loyal Customers,0,0
+193,18,Basic,Partner,14421.0,0,81,3,16,1,1,1,3,Hibernating,1,0
+3363,40,2n Cycle,Partner,20130.0,0,99,4,34,1,1,1,3,Hibernating,0,0
+8278,24,PhD,Partner,74214.0,0,3,15,1711,4,3,4,11,Champions,0,0
+10660,57,Master,Partner,66726.0,2,61,14,438,2,3,3,8,Loyal Customers,1,0
+8686,35,Basic,Partner,23724.0,1,65,5,75,2,1,2,5,At Risk,0,0
+1604,54,Master,Partner,47353.0,1,93,10,225,1,2,2,5,At Risk,0,0
+5907,62,Master,Partner,33444.0,2,24,3,18,4,1,1,6,Potential Loyalists,0,0
+10669,33,Graduation,Partner,54386.0,1,8,15,470,4,3,3,10,Champions,0,0
+2918,33,Graduation,Single,28510.0,2,72,6,91,2,2,2,6,Potential Loyalists,0,0
+5735,23,Master,Single,90638.0,0,29,17,2525,3,3,4,10,Champions,1,0
+359,64,Graduation,Partner,48070.0,1,33,16,504,3,3,3,9,Loyal Customers,0,0
+8387,57,Graduation,Partner,43140.0,1,68,10,235,2,2,2,6,Potential Loyalists,0,0
+1829,53,PhD,Single,54959.0,1,55,18,1232,2,3,4,9,Loyal Customers,1,1
+3839,56,Basic,Single,15056.0,2,76,7,88,1,2,2,5,At Risk,0,0
+9392,43,Graduation,Single,26954.0,1,17,3,17,4,1,1,6,Potential Loyalists,0,0
+2292,29,Graduation,Single,22327.0,1,94,4,24,1,1,1,3,Hibernating,0,0
+10466,49,Graduation,Partner,44393.0,2,86,5,60,1,1,1,3,Hibernating,0,0
+9855,62,PhD,Single,62000.0,1,25,25,1020,3,4,3,10,Champions,1,0
+4088,52,PhD,Partner,31497.0,1,22,8,155,4,2,2,8,Loyal Customers,0,0
+5231,40,2n Cycle,Partner,45894.0,2,15,4,51,4,1,1,6,Potential Loyalists,0,0
+590,44,Master,Single,78579.0,0,35,15,1812,3,3,4,10,Champions,0,1
+8732,45,Master,Single,67369.0,1,81,21,1461,1,4,4,9,Loyal Customers,2,1
+2315,54,Graduation,Single,58401.0,1,55,5,96,2,1,2,5,At Risk,0,0
+3515,62,Graduation,Single,62307.0,1,94,8,160,1,2,2,5,At Risk,0,0
+2245,45,Master,Partner,43641.0,2,50,7,139,2,2,2,6,Potential Loyalists,0,0
+6283,46,Master,Single,63841.0,1,64,21,908,2,4,3,9,Loyal Customers,0,0
+2246,49,2n Cycle,Partner,46891.0,1,91,7,183,1,2,2,5,At Risk,0,0
+6606,45,Master,Partner,70091.0,1,11,17,1161,4,3,4,11,Champions,1,0
+5545,42,PhD,Partner,78075.0,0,72,13,988,2,3,3,8,Loyal Customers,0,0
+7342,53,2n Cycle,Single,59184.0,1,6,24,1072,4,4,4,12,Champions,0,0
+837,37,Graduation,Partner,54809.0,2,0,8,174,4,2,2,8,Loyal Customers,0,0
+9500,55,Graduation,Partner,58113.0,1,66,19,758,2,4,3,9,Loyal Customers,0,0
+3602,56,Master,Partner,51412.0,1,42,9,195,3,2,2,7,Potential Loyalists,0,0
+234,35,Graduation,Single,15287.0,1,60,4,31,2,1,1,4,At Risk,1,1
+2995,57,Master,Partner,66636.0,0,64,16,1084,2,3,4,9,Loyal Customers,0,0
+1118,58,Master,Partner,50965.0,1,87,19,685,1,4,3,8,Loyal Customers,1,0
+7789,49,PhD,Partner,84618.0,0,96,25,1672,1,4,4,9,Loyal Customers,1,0
+3068,24,Graduation,Partner,18351.0,0,1,5,43,4,1,1,6,Potential Loyalists,0,0
+8955,57,PhD,Partner,40451.0,2,54,4,49,2,1,1,4,At Risk,1,0
+945,49,Graduation,Partner,36317.0,1,53,7,133,2,2,2,6,Potential Loyalists,0,0
+5644,57,Graduation,Partner,42213.0,1,96,13,363,1,3,2,6,Potential Loyalists,1,0
+7192,59,Graduation,Partner,65748.0,1,58,16,545,2,3,3,8,Loyal Customers,0,0
+2324,42,Graduation,Partner,77044.0,1,12,29,1065,4,4,4,12,Champions,1,0
+697,45,Graduation,Partner,74918.0,0,78,20,2047,1,4,4,9,Loyal Customers,1,0
+3439,42,Graduation,Partner,56721.0,2,64,10,296,2,2,2,6,Potential Loyalists,0,0
+1506,39,Graduation,Single,42160.0,2,26,7,140,3,2,2,7,Potential Loyalists,0,1
+232,49,Graduation,Single,61559.0,1,8,16,530,4,3,3,10,Champions,0,0
+8876,51,PhD,Partner,33629.0,2,49,8,152,3,2,2,7,Potential Loyalists,0,0
+4500,23,PhD,Partner,68682.0,0,56,23,1598,2,4,4,10,Champions,0,0
+9739,51,Graduation,Single,34377.0,1,55,6,114,2,2,2,6,Potential Loyalists,0,0
+10395,28,Basic,Single,8940.0,1,25,7,101,3,2,2,7,Potential Loyalists,0,0
+1176,41,Graduation,Partner,26228.0,1,50,3,25,2,1,1,4,At Risk,0,0
+1627,57,2n Cycle,Single,77297.0,0,84,21,789,1,4,3,8,Loyal Customers,1,0
+938,33,Graduation,Partner,40211.0,2,30,5,87,3,1,2,6,Potential Loyalists,1,0
+2740,56,PhD,Single,33438.0,2,81,7,90,1,2,2,5,At Risk,0,0
+257,55,PhD,Partner,75032.0,1,74,18,1215,2,3,4,9,Loyal Customers,0,0
+4058,59,PhD,Single,61284.0,0,76,21,811,1,4,3,8,Loyal Customers,1,0
+7736,28,Graduation,Partner,22518.0,1,36,5,61,3,1,1,5,At Risk,1,1
+8210,39,Master,Partner,54730.0,1,64,13,405,2,3,3,8,Loyal Customers,0,0
+833,59,Master,Partner,38452.0,2,62,6,72,2,2,2,6,Potential Loyalists,0,0
+6230,43,Graduation,Single,44421.0,2,53,9,189,2,2,2,6,Potential Loyalists,0,0
+7325,28,PhD,Partner,38197.0,1,86,4,40,1,1,1,3,Hibernating,0,0
+1307,36,Graduation,Single,41986.0,1,15,7,63,4,2,1,7,Potential Loyalists,0,0
+1502,31,Graduation,Partner,28427.0,1,67,5,52,2,1,1,4,At Risk,0,0
+6211,38,PhD,Partner,37395.0,1,47,4,39,3,1,1,5,At Risk,0,0
+843,43,Graduation,Partner,64722.0,1,47,21,805,3,4,3,10,Champions,0,0
+4174,58,Master,Partner,55249.0,1,81,7,130,1,2,2,5,At Risk,0,0
+9757,42,Graduation,Partner,84906.0,0,98,23,1631,1,4,4,9,Loyal Customers,3,0
+6918,25,Graduation,Partner,28691.0,1,56,4,34,2,1,1,4,At Risk,0,0
+286,62,Graduation,Single,44213.0,2,48,8,152,3,2,2,7,Potential Loyalists,0,0
+11086,30,Basic,Single,25707.0,1,18,4,21,4,1,1,6,Potential Loyalists,0,0
+1921,47,PhD,Partner,59062.0,3,74,5,71,2,1,2,5,At Risk,0,0
+4138,52,Graduation,Single,76624.0,1,68,22,899,2,4,3,9,Loyal Customers,1,0
+7718,67,Master,Partner,66000.0,0,36,9,711,3,2,3,8,Loyal Customers,0,0
+1291,36,PhD,Partner,27683.0,1,90,12,351,1,2,2,5,At Risk,0,0
+4136,22,Basic,Single,7500.0,1,63,7,119,2,2,2,6,Potential Loyalists,0,0
+803,46,Graduation,Partner,40521.0,2,82,3,21,1,1,1,3,Hibernating,0,0
+4298,41,PhD,Partner,20427.0,1,63,3,10,2,1,1,4,At Risk,0,0
+10833,39,Graduation,Partner,65106.0,1,55,24,973,2,4,3,9,Loyal Customers,1,0
+9606,49,PhD,Partner,69969.0,0,64,12,1536,2,2,4,8,Loyal Customers,2,1
+8534,62,Graduation,Partner,67433.0,2,51,24,992,2,4,3,9,Loyal Customers,1,0
+5153,47,PhD,Partner,77766.0,1,97,32,1529,1,4,4,9,Loyal Customers,1,1
+961,42,Graduation,Partner,74716.0,1,92,15,860,1,3,3,7,Potential Loyalists,0,0
+5011,51,Graduation,Single,68118.0,1,51,21,928,2,4,3,9,Loyal Customers,0,0
+6653,44,PhD,Partner,55158.0,2,72,14,418,2,3,3,8,Loyal Customers,0,1
+9094,59,2n Cycle,Partner,62972.0,1,39,14,587,3,3,3,9,Loyal Customers,0,1
+810,39,Graduation,Partner,74190.0,1,49,17,641,3,3,3,9,Loyal Customers,0,0
+5493,38,Graduation,Partner,39356.0,2,21,3,23,4,1,1,6,Potential Loyalists,1,0
+2147,45,Graduation,Partner,76653.0,0,91,22,2279,1,4,4,9,Loyal Customers,2,0
+5107,41,PhD,Single,35860.0,2,37,4,49,3,1,1,5,At Risk,1,0
+3979,31,PhD,Single,90687.0,0,98,16,1779,1,3,4,8,Loyal Customers,1,1
+6049,32,Master,Partner,73450.0,0,85,26,1804,1,4,4,9,Loyal Customers,2,0
+8147,54,Graduation,Partner,31454.0,2,40,5,48,3,1,1,5,At Risk,0,0
+1857,62,Graduation,Single,47139.0,2,2,5,83,4,1,2,7,Potential Loyalists,0,1
+3910,39,Graduation,Single,83829.0,0,78,17,1862,1,3,4,8,Loyal Customers,3,1
+5207,51,PhD,Partner,53378.0,2,41,19,793,3,4,3,10,Champions,0,1
+11114,44,Graduation,Partner,19656.0,1,94,6,84,1,2,2,5,At Risk,0,0
+5429,66,PhD,Partner,45579.0,1,10,9,183,4,2,2,8,Loyal Customers,0,0
+9400,56,2n Cycle,Single,85485.0,0,73,18,1383,2,3,4,9,Loyal Customers,0,0
+1740,70,Graduation,Partner,55956.0,0,22,14,999,4,3,3,10,Champions,1,0
+7488,51,Master,Single,64191.0,1,30,21,825,3,4,3,10,Champions,0,0
+195,42,Graduation,Single,38808.0,1,21,10,246,4,2,2,8,Loyal Customers,1,1
+635,48,Master,Partner,57183.0,2,51,17,610,2,3,3,8,Loyal Customers,0,0
+7527,46,Master,Single,23748.0,1,97,6,76,1,2,2,5,At Risk,0,0
+10319,43,Graduation,Partner,66303.0,1,56,18,1286,2,3,4,9,Loyal Customers,1,0
+2296,39,Master,Partner,37368.0,1,4,3,30,4,1,1,6,Potential Loyalists,1,0
+10637,50,Graduation,Partner,40800.0,3,77,6,99,1,2,2,5,At Risk,0,0
+2931,36,Graduation,Single,71847.0,0,95,22,1192,1,4,4,9,Loyal Customers,1,0
+907,39,Graduation,Partner,46149.0,1,36,13,362,3,3,2,8,Loyal Customers,0,0
+3698,31,Graduation,Partner,78687.0,0,13,18,2130,4,3,4,11,Champions,1,1
+9516,43,2n Cycle,Single,49118.0,0,90,26,1229,1,4,4,9,Loyal Customers,2,1
+679,57,PhD,Partner,37633.0,2,49,4,38,3,1,1,5,At Risk,0,0
+7384,63,Master,Partner,39767.0,0,18,15,485,4,3,3,10,Champions,0,0
+5043,63,Basic,Partner,26997.0,0,89,11,434,1,2,3,6,Potential Loyalists,0,0
+5267,44,Graduation,Single,33986.0,1,43,4,44,3,1,1,5,At Risk,0,0
+339,42,PhD,Partner,57091.0,1,82,16,496,1,3,3,7,Potential Loyalists,1,1
+2516,45,2n Cycle,Partner,46831.0,2,84,5,78,1,1,2,4,At Risk,0,0
+9010,42,Master,Partner,83151.0,0,80,22,2346,1,4,4,9,Loyal Customers,3,1
+378,43,Graduation,Partner,52531.0,0,68,19,794,2,4,3,9,Loyal Customers,0,0
+4808,58,Graduation,Partner,15759.0,0,12,3,17,4,1,1,6,Potential Loyalists,0,0
+5068,43,Graduation,Single,22804.0,1,75,4,26,1,1,1,3,Hibernating,0,0
+7628,41,2n Cycle,Partner,43050.0,1,10,6,76,4,2,2,8,Loyal Customers,0,0
+7128,37,PhD,Single,42997.0,2,91,3,15,1,1,1,3,Hibernating,0,0
+2811,51,PhD,Single,48918.0,2,21,5,62,4,1,1,6,Potential Loyalists,0,0
+3551,60,Master,Partner,60033.0,1,28,8,198,3,2,2,7,Potential Loyalists,0,0
+1663,36,PhD,Partner,34043.0,1,97,4,49,1,1,1,3,Hibernating,0,0
+5543,48,Graduation,Partner,57811.0,1,49,20,802,3,4,3,10,Champions,1,0
+1577,68,Graduation,Partner,78569.0,0,14,14,1736,4,3,4,11,Champions,1,1
+10641,36,Graduation,Single,7500.0,2,5,6,57,4,2,1,7,Potential Loyalists,0,0
+5336,43,Master,Partner,157733.0,1,37,2,59,3,1,1,5,At Risk,0,0
+6024,61,Graduation,Partner,94384.0,0,62,18,2302,2,3,4,9,Loyal Customers,3,1
+1878,29,2n Cycle,Partner,23148.0,0,83,5,37,1,1,1,3,Hibernating,0,0
+3099,44,Graduation,Single,44267.0,2,48,11,310,3,2,2,7,Potential Loyalists,0,0
+6055,35,Graduation,Partner,71626.0,0,94,18,1305,1,3,4,8,Loyal Customers,1,0
+5841,48,Graduation,Partner,60894.0,1,61,21,832,2,4,3,9,Loyal Customers,0,0
+3972,38,Graduation,Partner,50200.0,2,70,13,401,2,3,3,8,Loyal Customers,0,0
+4394,49,PhD,Partner,81051.0,0,43,22,1501,3,4,4,11,Champions,2,0
+5758,32,Graduation,Partner,65169.0,0,23,27,1189,4,4,4,12,Champions,4,1
+6658,42,Graduation,Partner,59868.0,1,37,25,1194,3,4,4,11,Champions,0,0
+4603,54,PhD,Partner,65695.0,1,50,19,656,2,4,3,9,Loyal Customers,0,0
+8427,58,Master,Single,64857.0,0,78,22,1540,1,4,4,9,Loyal Customers,0,0
+10260,49,Master,Partner,45143.0,1,74,12,311,2,2,2,6,Potential Loyalists,0,0
+7143,59,2n Cycle,Partner,74805.0,1,14,21,820,4,4,3,11,Champions,0,0
+8789,25,2n Cycle,Partner,59060.0,1,77,11,274,1,2,2,5,At Risk,0,0
+6197,52,PhD,Single,27238.0,2,39,6,57,3,2,1,6,Potential Loyalists,0,0
+4554,49,Graduation,Partner,47009.0,1,89,13,448,1,3,3,7,Potential Loyalists,0,0
+4937,41,2n Cycle,Partner,46094.0,2,62,4,44,2,1,1,4,At Risk,0,0
+1920,42,Graduation,Partner,40321.0,2,59,6,102,2,2,2,6,Potential Loyalists,0,0
+8749,30,Graduation,Partner,37235.0,1,68,4,61,2,1,1,4,At Risk,0,0
+1650,54,Master,Partner,81843.0,0,13,26,1643,4,4,4,12,Champions,0,0
+10377,56,Master,Partner,46692.0,1,37,12,397,3,2,2,7,Potential Loyalists,0,0
+9206,46,Graduation,Partner,77382.0,1,36,24,1121,3,4,4,11,Champions,1,0
+10971,37,Graduation,Single,37774.0,2,28,12,473,3,2,3,8,Loyal Customers,1,1
+6398,40,Basic,Partner,18393.0,1,2,6,50,4,2,1,7,Potential Loyalists,0,0
+9212,52,Master,Partner,72828.0,1,17,22,1678,4,4,4,12,Champions,0,0
+7937,32,Graduation,Partner,24711.0,0,86,6,58,1,2,1,4,At Risk,0,0
+839,39,PhD,Partner,45503.0,1,54,8,170,2,2,2,6,Potential Loyalists,0,0
+4246,32,Master,Single,6560.0,0,2,2,373,4,1,2,7,Potential Loyalists,0,0
+158,69,PhD,Partner,71604.0,0,3,16,1196,4,3,4,11,Champions,1,1
+4832,35,Graduation,Partner,27244.0,1,84,6,101,1,2,2,5,At Risk,0,0
+5621,45,Graduation,Partner,48752.0,2,8,12,316,4,2,2,8,Loyal Customers,0,1
+1945,52,Graduation,Partner,71434.0,1,4,18,1400,4,3,4,11,Champions,2,0
+5147,66,Graduation,Single,90842.0,0,57,26,1424,2,4,4,10,Champions,0,0
+2535,36,Master,Partner,88097.0,1,24,19,844,4,4,3,11,Champions,3,1
+11039,39,Graduation,Partner,51948.0,1,51,11,311,2,2,2,6,Potential Loyalists,0,0
+9495,32,Graduation,Partner,71853.0,0,29,16,1149,3,3,4,10,Champions,0,0
+9635,31,Master,Partner,35876.0,0,13,7,129,4,2,2,8,Loyal Customers,0,0
+2173,62,Graduation,Single,40049.0,1,23,4,32,4,1,1,6,Potential Loyalists,0,0
+942,32,Graduation,Single,39660.0,1,36,11,299,3,2,2,7,Potential Loyalists,0,1
+9386,52,Graduation,Partner,50127.0,1,88,12,320,1,2,2,5,At Risk,1,0
+5510,37,Master,Partner,43263.0,1,2,13,441,4,3,3,10,Champions,0,0
+873,65,Master,Partner,62845.0,2,3,17,1178,4,3,4,11,Champions,1,1
+2253,24,Graduation,Partner,18929.0,0,15,5,85,4,1,2,7,Potential Loyalists,0,0
+5181,32,Basic,Single,24367.0,1,58,3,24,2,1,1,4,At Risk,0,0
+979,39,Graduation,Single,33249.0,1,11,6,112,4,2,2,8,Loyal Customers,0,0
+10390,55,2n Cycle,Partner,26887.0,1,27,4,30,3,1,1,5,At Risk,0,0
+4698,31,PhD,Partner,50150.0,0,32,14,410,3,3,3,9,Loyal Customers,0,0
+7793,38,Graduation,Partner,62061.0,1,12,21,800,4,4,3,11,Champions,1,0
+1745,52,PhD,Single,85696.0,0,88,19,1313,1,4,4,9,Loyal Customers,0,1
+10590,58,PhD,Partner,76542.0,0,91,22,1483,1,4,4,9,Loyal Customers,0,0
+5080,21,Graduation,Single,70515.0,0,12,16,1258,4,3,4,11,Champions,0,1
+8369,27,Graduation,Partner,18227.0,1,21,3,28,4,1,1,6,Potential Loyalists,0,0
+5232,49,Graduation,Partner,69139.0,1,23,10,227,4,2,2,8,Loyal Customers,0,0
+2407,32,Graduation,Partner,69109.0,0,10,19,1555,4,4,4,12,Champions,1,1
+3834,52,Graduation,Single,69627.0,1,35,21,861,3,4,3,10,Champions,0,0
+7912,36,Graduation,Partner,38136.0,1,69,6,103,2,2,2,6,Potential Loyalists,1,0
+7712,68,PhD,Single,62159.0,0,68,18,634,2,3,3,8,Loyal Customers,0,0
+1065,51,Graduation,Single,80695.0,0,85,18,1918,1,3,4,8,Loyal Customers,0,0
+7275,43,Master,Single,33316.0,2,34,7,131,3,2,2,7,Potential Loyalists,0,0
+1343,46,Graduation,Partner,58554.0,2,55,16,586,2,3,3,8,Loyal Customers,0,0
+1384,22,Basic,Partner,17256.0,1,10,5,62,4,1,1,6,Potential Loyalists,1,0
+9967,40,Graduation,Single,53034.0,2,30,14,447,3,3,3,9,Loyal Customers,0,0
+6181,64,2n Cycle,Partner,52203.0,0,36,26,939,3,4,3,10,Champions,0,0
+10507,37,2n Cycle,Single,59601.0,1,14,11,797,4,2,3,9,Loyal Customers,1,0
+2674,56,Master,Single,75154.0,1,79,15,1143,1,3,4,8,Loyal Customers,0,1
+2698,38,Graduation,Single,47025.0,1,52,14,415,2,3,3,8,Loyal Customers,0,0
+3231,41,Graduation,Partner,37971.0,1,97,4,30,1,1,1,3,Hibernating,0,0
+4096,46,Master,Single,41335.0,1,24,9,187,4,2,2,8,Loyal Customers,0,0
+10476,56,Graduation,Partner,67267.0,1,0,10,251,4,2,2,8,Loyal Customers,0,0
+5948,39,Graduation,Single,57338.0,1,96,10,237,1,2,2,5,At Risk,0,0
+9140,54,2n Cycle,Partner,50523.0,2,89,6,91,1,2,2,5,At Risk,0,0
+10258,49,Master,Single,35791.0,3,94,4,35,1,1,1,3,Hibernating,0,0
+5675,54,PhD,Single,50611.0,1,98,16,493,1,3,3,7,Potential Loyalists,1,0
+4743,45,PhD,Partner,56242.0,1,72,23,971,2,4,3,9,Loyal Customers,0,0
+8805,54,Graduation,Single,48904.0,1,1,13,371,4,3,2,9,Loyal Customers,0,0
+1542,39,Graduation,Single,56243.0,3,26,14,396,3,3,2,8,Loyal Customers,0,0
+6770,29,Graduation,Partner,21355.0,1,5,5,68,4,1,1,6,Potential Loyalists,1,1
+8773,43,Master,Partner,57420.0,1,22,12,322,4,2,2,8,Loyal Customers,1,0
+10420,59,Master,Single,46390.0,1,56,9,222,2,2,2,6,Potential Loyalists,0,0
+7514,58,2n Cycle,Partner,54342.0,2,74,8,177,2,2,2,6,Potential Loyalists,0,0
+793,41,Graduation,Partner,20895.0,1,24,5,45,4,1,1,6,Potential Loyalists,0,0
+10909,66,Graduation,Partner,92344.0,0,9,20,1899,4,4,4,12,Champions,2,0
+8702,38,2n Cycle,Partner,26907.0,2,10,4,22,4,1,1,6,Potential Loyalists,0,0
+4791,34,Graduation,Partner,44964.0,2,35,4,41,3,1,1,5,At Risk,0,0
+2963,35,Graduation,Partner,75507.0,0,56,20,1440,2,4,4,10,Champions,0,0
+8216,42,Master,Partner,53761.0,2,7,11,325,4,2,2,8,Loyal Customers,0,0
+8140,41,Graduation,Partner,22682.0,1,51,7,95,2,2,2,6,Potential Loyalists,0,0
+10146,42,PhD,Partner,38887.0,1,17,4,42,4,1,1,6,Potential Loyalists,0,0
+5289,39,2n Cycle,Single,41658.0,2,30,4,72,3,1,2,6,Potential Loyalists,0,0
+2587,42,PhD,Partner,29791.0,1,21,5,20,4,1,1,6,Potential Loyalists,0,0
+4405,58,Master,Partner,63915.0,2,2,21,789,4,4,3,11,Champions,0,0
+8663,40,Graduation,Single,39996.0,2,85,3,15,1,1,1,3,Hibernating,0,0
+2589,42,Graduation,Single,26759.0,1,65,6,59,2,2,1,5,At Risk,0,0
+3421,46,Master,Single,63841.0,1,64,21,908,2,4,3,9,Loyal Customers,0,0
+10490,45,PhD,Partner,51039.0,2,11,12,417,4,2,3,9,Loyal Customers,0,0
+4094,53,Graduation,Partner,60544.0,2,92,11,289,1,2,2,5,At Risk,0,0
+9958,42,Graduation,Partner,65685.0,1,54,20,769,2,4,3,9,Loyal Customers,0,0
+2534,61,Graduation,Partner,37716.0,1,4,8,188,4,2,2,8,Loyal Customers,0,0
+4188,57,Graduation,Single,36864.0,1,53,11,354,2,2,2,6,Potential Loyalists,0,1
+6613,44,Master,Partner,44511.0,1,39,20,727,3,4,3,10,Champions,0,0
+10827,47,PhD,Partner,36947.0,2,49,7,146,3,2,2,7,Potential Loyalists,0,0
+5491,63,Master,Partner,47352.0,1,70,12,319,2,2,2,6,Potential Loyalists,0,0
+8402,61,Master,Partner,67087.0,1,40,20,794,3,4,3,10,Champions,0,0
+8783,64,Graduation,Partner,57045.0,1,40,15,454,3,3,3,9,Loyal Customers,0,0
+10010,61,PhD,Single,36957.0,2,43,7,152,3,2,2,7,Potential Loyalists,0,1
+618,37,PhD,Partner,69389.0,1,17,21,797,4,4,3,11,Champions,0,0
+9121,42,Graduation,Partner,80134.0,1,40,14,1690,3,3,4,10,Champions,3,1
+361,45,Master,Partner,43142.0,2,84,3,20,1,1,1,3,Hibernating,0,0
+4310,70,Graduation,Partner,80589.0,0,25,20,1428,3,4,4,11,Champions,1,1
+2678,24,Graduation,Single,34412.0,1,62,8,209,2,2,2,6,Potential Loyalists,0,0
+6376,35,Graduation,Single,57537.0,1,83,15,545,1,3,3,7,Potential Loyalists,0,0
+524,48,Basic,Partner,22634.0,0,47,5,96,3,1,2,6,Potential Loyalists,0,0
+10341,66,Graduation,Partner,51315.0,0,45,9,222,3,2,2,7,Potential Loyalists,0,0
+5654,42,Graduation,Partner,36026.0,3,34,5,61,3,1,1,5,At Risk,0,0
+4098,41,Graduation,Partner,24639.0,2,3,6,44,4,2,1,7,Potential Loyalists,0,0
+5824,42,PhD,Partner,34578.0,3,1,3,8,4,1,1,6,Potential Loyalists,0,0
+7000,42,2n Cycle,Single,65704.0,0,18,22,817,4,4,3,11,Champions,0,0
+2561,48,Graduation,Single,63810.0,1,45,19,1371,3,4,4,11,Champions,1,0
+5229,45,PhD,Partner,54132.0,1,81,4,42,1,1,1,3,Hibernating,0,0
+4086,55,Graduation,Partner,18690.0,0,77,4,60,1,1,1,3,Hibernating,0,0
+2428,44,Graduation,Partner,28164.0,1,23,6,78,4,2,2,8,Loyal Customers,0,0
+8254,40,PhD,Partner,34596.0,1,48,3,23,3,1,1,5,At Risk,0,0
+2836,42,PhD,Partner,43269.0,1,61,3,19,2,1,1,4,At Risk,0,0
+8418,56,2n Cycle,Single,38741.0,2,60,5,61,2,1,1,4,At Risk,0,0
+1362,42,Graduation,Single,31907.0,0,75,13,449,1,3,3,7,Potential Loyalists,0,0
+7152,31,Master,Partner,27100.0,1,64,4,37,2,1,1,4,At Risk,0,0
+10033,41,2n Cycle,Single,31163.0,1,54,4,38,2,1,1,4,At Risk,0,0
+9349,29,Graduation,Partner,92533.0,0,84,22,1131,1,4,4,9,Loyal Customers,2,0
+274,41,Graduation,Single,34853.0,2,75,5,34,1,1,1,3,Hibernating,0,0
+3388,47,Graduation,Single,70844.0,2,16,12,294,4,2,2,8,Loyal Customers,0,0
+922,35,2n Cycle,Partner,31086.0,2,79,4,48,1,1,1,3,Hibernating,1,0
+8588,53,Graduation,Partner,60544.0,2,92,11,289,1,2,2,5,At Risk,0,0
+2518,28,2n Cycle,Partner,20491.0,0,16,3,30,4,1,1,6,Potential Loyalists,0,0
+574,50,Graduation,Partner,42523.0,0,96,6,125,1,2,2,5,At Risk,0,0
+3220,31,Graduation,Partner,39922.0,1,30,7,156,3,2,2,7,Potential Loyalists,0,0
+5967,62,Graduation,Partner,33402.0,2,60,6,70,2,2,2,6,Potential Loyalists,0,0
+1183,65,Master,Partner,36408.0,2,11,3,22,4,1,1,6,Potential Loyalists,0,0
+6856,35,Graduation,Partner,21645.0,1,75,6,65,1,2,1,4,At Risk,0,1
+4530,66,Master,Single,78427.0,0,36,20,1930,3,4,4,11,Champions,1,1
+1553,68,Graduation,Partner,82657.0,0,71,22,2283,2,4,4,10,Champions,2,0
+4682,56,Graduation,Partner,51876.0,0,88,12,310,1,2,2,5,At Risk,0,0
+8204,43,2n Cycle,Partner,78041.0,0,93,17,1319,1,3,4,8,Loyal Customers,0,0
+5221,57,Graduation,Partner,52852.0,1,93,22,879,1,4,3,8,Loyal Customers,1,0
+1232,32,PhD,Partner,70038.0,0,54,16,1244,2,3,4,9,Loyal Customers,0,0
+1927,41,2n Cycle,Partner,69401.0,1,41,13,690,3,3,3,9,Loyal Customers,0,0
+5788,42,Graduation,Partner,46053.0,1,46,9,209,3,2,2,7,Potential Loyalists,0,0
+6652,49,Graduation,Partner,77343.0,0,28,16,1134,3,3,4,10,Champions,0,0
+6246,61,Graduation,Single,73892.0,0,40,22,1507,3,4,4,11,Champions,0,1
+5975,47,PhD,Single,40304.0,1,82,5,57,1,1,1,3,Hibernating,0,0
+6875,49,PhD,Partner,32727.0,0,38,15,529,3,3,3,9,Loyal Customers,0,0
+4399,45,Graduation,Partner,68695.0,0,3,15,1091,4,3,4,11,Champions,0,0
+4042,43,Graduation,Single,43300.0,1,87,8,180,1,2,2,5,At Risk,0,1
+2157,42,Graduation,Partner,26290.0,2,49,6,77,3,2,2,7,Potential Loyalists,0,0
+10133,44,Graduation,Single,93790.0,0,16,25,2349,4,4,4,12,Champions,3,1
+2525,40,PhD,Partner,38410.0,0,65,16,534,2,3,3,8,Loyal Customers,0,1
+8233,64,Master,Single,64866.0,1,9,17,556,4,3,3,10,Champions,1,0
+9483,55,Graduation,Partner,57957.0,1,24,18,637,4,3,3,10,Champions,0,0
+2945,59,PhD,Partner,46015.0,2,25,4,46,3,1,1,5,At Risk,2,0
+10403,36,Graduation,Partner,16531.0,1,43,6,44,3,2,1,6,Potential Loyalists,0,0
+5074,28,Master,Partner,28072.0,1,10,4,47,4,1,1,6,Potential Loyalists,0,0
+10524,51,Master,Single,49476.0,1,29,18,795,3,3,3,9,Loyal Customers,0,0
+4690,61,Graduation,Partner,50725.0,1,45,17,586,3,3,3,9,Loyal Customers,0,0
+7521,62,Graduation,Partner,83844.0,0,57,19,1574,2,4,4,10,Champions,1,0
+7196,64,PhD,Partner,41145.0,2,20,3,13,4,1,1,6,Potential Loyalists,0,0
+4406,44,Graduation,Partner,67419.0,1,29,21,1471,3,4,4,11,Champions,0,0
+9672,44,2n Cycle,Partner,23162.0,2,82,5,65,1,1,1,3,Hibernating,0,0
+4864,37,Graduation,Partner,34380.0,1,68,8,175,2,2,2,6,Potential Loyalists,0,0
+4706,48,Graduation,Single,34704.0,1,65,4,40,2,1,1,4,At Risk,0,0
+4070,45,PhD,Partner,94871.0,2,99,17,1078,1,3,4,8,Loyal Customers,2,1
+25,56,Graduation,Partner,65148.0,1,9,19,1115,4,4,4,12,Champions,0,0
+3697,60,Graduation,Partner,39898.0,1,20,7,134,4,2,2,8,Loyal Customers,0,0
+217,58,Master,Single,64857.0,0,78,22,1540,1,4,4,9,Loyal Customers,0,0
+4220,44,PhD,Partner,59892.0,1,26,6,87,3,2,2,7,Potential Loyalists,0,0
+5286,27,Master,Single,41020.0,0,68,9,217,2,2,2,6,Potential Loyalists,0,0
+9559,53,PhD,Partner,57072.0,1,79,25,1034,1,4,3,8,Loyal Customers,1,0
+2849,35,Graduation,Single,60474.0,1,25,24,1180,3,4,4,11,Champions,0,0
+7787,54,Graduation,Partner,62807.0,1,83,20,819,1,4,3,8,Loyal Customers,0,0
+3102,33,2n Cycle,Partner,19414.0,1,32,4,32,3,1,1,5,At Risk,0,0
+5868,34,Graduation,Partner,19107.0,1,49,4,46,3,1,1,5,At Risk,0,0
+8370,38,2n Cycle,Partner,75484.0,1,50,16,1159,2,3,4,9,Loyal Customers,0,0
+9988,38,Master,Single,70379.0,1,84,22,860,1,4,3,8,Loyal Customers,0,0
+2939,44,Master,Partner,79419.0,0,96,14,1631,1,3,4,8,Loyal Customers,0,0
+5529,68,PhD,Partner,64014.0,3,56,15,444,2,3,3,8,Loyal Customers,1,0
+9743,59,Graduation,Partner,76998.0,1,85,27,1910,1,4,4,9,Loyal Customers,1,0
+5763,42,Master,Partner,49854.0,1,63,13,380,2,3,2,7,Potential Loyalists,0,0
+3478,43,PhD,Partner,60585.0,2,17,20,736,4,4,3,11,Champions,0,1
+7494,64,PhD,Single,42873.0,2,11,11,269,4,2,2,8,Loyal Customers,0,0
+1763,26,Graduation,Partner,87679.0,0,62,28,2524,2,4,4,10,Champions,3,1
+7250,36,Graduation,Partner,57867.0,1,48,18,612,3,3,3,9,Loyal Customers,0,0
+2005,24,Graduation,Partner,35765.0,1,86,6,75,1,2,2,5,At Risk,0,0
+10770,55,Graduation,Partner,65492.0,0,73,24,1045,2,4,3,9,Loyal Customers,0,0
+6885,37,Graduation,Single,32952.0,1,36,5,55,3,1,1,5,At Risk,0,0
+2072,45,PhD,Partner,53374.0,1,34,15,1064,3,3,4,10,Champions,1,1
+9463,55,Graduation,Partner,71706.0,1,16,21,1443,4,4,4,12,Champions,0,0
+6318,26,Graduation,Partner,68487.0,0,48,29,1366,3,4,4,11,Champions,0,0
+4093,39,Master,Partner,53253.0,2,61,12,436,2,2,3,7,Potential Loyalists,0,0
+5751,41,2n Cycle,Single,31163.0,1,54,4,38,2,1,1,4,At Risk,0,0
+3340,37,Graduation,Partner,42014.0,1,56,14,436,2,3,3,8,Loyal Customers,0,1
+3594,41,Master,Partner,54108.0,2,74,19,747,2,4,3,9,Loyal Customers,0,0
+3584,59,PhD,Single,49667.0,0,35,20,1396,3,4,4,11,Champions,1,1
+3643,40,Master,Partner,63206.0,0,65,13,928,2,3,3,8,Loyal Customers,1,0
+851,42,Master,Partner,57136.0,2,48,17,642,3,3,3,9,Loyal Customers,0,0
+7706,39,2n Cycle,Partner,46772.0,1,88,24,1048,1,4,3,8,Loyal Customers,1,0
+3967,43,PhD,Partner,78931.0,0,19,23,943,4,4,3,11,Champions,0,0
+10128,56,Graduation,Partner,53977.0,1,21,22,907,4,4,3,11,Champions,0,0
+486,26,Graduation,Partner,84219.0,0,27,17,1198,3,3,4,10,Champions,0,0
+9,39,Master,Single,46098.0,2,86,7,120,1,2,2,5,At Risk,0,0
+9451,49,Graduation,Partner,73538.0,1,92,23,1658,1,4,4,9,Loyal Customers,0,0
+9264,28,Graduation,Partner,79529.0,0,1,21,1638,4,4,4,12,Champions,0,0
+3865,37,2n Cycle,Partner,20981.0,0,14,6,73,4,2,2,8,Loyal Customers,0,1
+2853,34,Graduation,Single,51766.0,1,74,10,275,2,2,2,6,Potential Loyalists,0,0
+1490,52,Graduation,Partner,55759.0,1,84,21,854,1,4,3,8,Loyal Customers,0,0
+6310,36,Graduation,Partner,33039.0,1,4,6,78,4,2,2,8,Loyal Customers,0,0
+10380,42,Master,Partner,37787.0,1,50,6,106,2,2,2,6,Potential Loyalists,0,0
+3887,44,Graduation,Single,27242.0,1,2,5,106,4,1,2,7,Potential Loyalists,0,1
+4278,31,PhD,Single,87188.0,0,73,18,1923,2,3,4,9,Loyal Customers,0,1
+8643,43,Graduation,Partner,69930.0,0,21,21,1662,4,4,4,12,Champions,0,0
+1998,38,Graduation,Single,37697.0,1,82,6,84,1,2,2,5,At Risk,0,0
+10795,41,PhD,Partner,37401.0,1,14,5,48,4,1,1,6,Potential Loyalists,0,0
+2408,38,Graduation,Partner,58597.0,2,20,20,733,4,4,3,11,Champions,0,0
+202,66,PhD,Single,82032.0,0,54,17,1234,2,3,4,9,Loyal Customers,0,0
+7998,56,Graduation,Partner,28087.0,2,77,6,112,1,2,2,5,At Risk,0,0
+830,27,PhD,Single,74004.0,0,5,14,1658,4,3,4,11,Champions,2,1
+3536,54,Graduation,Partner,19740.0,1,65,5,55,2,1,1,4,At Risk,0,0
+6050,39,2n Cycle,Partner,57036.0,1,33,22,1513,3,4,4,11,Champions,1,0
+125,56,2n Cycle,Partner,53083.0,2,65,11,271,2,2,2,6,Potential Loyalists,1,0
+3463,39,PhD,Partner,69283.0,1,41,23,904,3,4,3,10,Champions,0,0
+2804,39,Master,Single,46098.0,2,86,7,120,1,2,2,5,At Risk,0,1
+3745,26,2n Cycle,Partner,23331.0,1,92,6,103,1,2,2,5,At Risk,0,0
+9771,26,2n Cycle,Single,23331.0,1,97,11,269,1,2,2,5,At Risk,0,0
+451,25,Graduation,Single,9255.0,1,91,4,22,1,1,1,3,Hibernating,0,0
+10530,55,PhD,Single,67786.0,0,0,15,1156,4,3,4,11,Champions,0,1
+1079,43,PhD,Partner,71969.0,1,59,16,1086,2,3,4,9,Loyal Customers,1,0
+8920,47,Master,Single,59235.0,1,4,25,1128,4,4,4,12,Champions,0,0
+6678,25,Graduation,Partner,31928.0,1,5,7,72,4,2,2,8,Loyal Customers,0,0
+3852,53,Master,Partner,74881.0,2,48,23,964,3,4,3,10,Champions,0,0
+528,36,Graduation,Partner,65819.0,0,99,19,1383,1,4,4,9,Loyal Customers,0,0
+73,61,PhD,Single,51411.0,3,81,3,18,1,1,1,3,Hibernating,0,0
+5589,50,Graduation,Single,51983.0,1,95,21,793,1,4,3,8,Loyal Customers,0,0
+10212,28,Master,Partner,42386.0,1,43,6,100,3,2,2,7,Potential Loyalists,0,0
+6365,27,2n Cycle,Partner,30390.0,0,5,5,80,4,1,2,7,Potential Loyalists,0,0
+5636,51,Graduation,Single,30983.0,0,50,7,167,2,2,2,6,Potential Loyalists,0,1
+591,57,Graduation,Single,66033.0,1,76,18,677,1,3,3,7,Potential Loyalists,0,0
+2217,39,2n Cycle,Partner,37284.0,2,46,3,23,3,1,1,5,At Risk,0,0
+2544,63,Master,Single,57530.0,1,68,6,92,2,2,2,6,Potential Loyalists,0,0
+7725,49,2n Cycle,Partner,76800.0,0,33,15,641,3,3,3,9,Loyal Customers,0,0
+8091,58,Graduation,Partner,63943.0,1,50,16,1106,2,3,4,9,Loyal Customers,0,0
+7321,52,Graduation,Partner,76081.0,0,85,13,1033,1,3,3,7,Potential Loyalists,1,0
+5462,40,Graduation,Partner,67445.0,1,63,27,1174,2,4,4,10,Champions,0,0
+7791,47,Master,Partner,37054.0,2,89,4,25,1,1,1,3,Hibernating,0,0
+955,52,Master,Partner,47175.0,2,81,10,240,1,2,2,5,At Risk,1,1
+4037,38,Graduation,Single,31859.0,1,77,3,20,1,1,1,3,Hibernating,0,0
+6642,53,Graduation,Single,27215.0,3,50,7,102,2,2,2,6,Potential Loyalists,0,0
+2793,38,PhD,Single,70179.0,1,10,23,1034,4,4,3,11,Champions,0,0
+5424,31,Graduation,Partner,39922.0,1,30,7,156,3,2,2,7,Potential Loyalists,0,0
+879,38,Master,Partner,49681.0,2,66,15,458,2,3,3,8,Loyal Customers,0,0
+9530,26,Graduation,Partner,24645.0,1,16,3,17,4,1,1,6,Potential Loyalists,0,0
+4828,60,Graduation,Single,79865.0,1,12,20,792,4,4,3,11,Champions,0,0
+10699,29,Graduation,Partner,44322.0,1,30,6,92,3,2,2,7,Potential Loyalists,0,0
+1497,62,Graduation,Single,47958.0,1,8,14,407,4,3,3,10,Champions,0,0
+7476,50,Master,Single,63972.0,1,93,19,1269,1,4,4,9,Loyal Customers,1,0
+4390,60,Graduation,Partner,75315.0,1,14,21,841,4,4,3,11,Champions,0,0
+10478,64,PhD,Partner,55517.0,2,53,18,633,2,3,3,8,Loyal Customers,0,1
+1081,57,PhD,Partner,75283.0,3,26,14,1019,3,3,3,9,Loyal Customers,0,0
+4261,68,PhD,Single,82800.0,0,23,25,1315,4,4,4,12,Champions,2,1
+9916,60,Graduation,Partner,38998.0,2,92,5,54,1,1,1,3,Hibernating,0,0
+5350,23,Master,Single,90638.0,0,29,17,2525,3,3,4,10,Champions,1,1
+8135,28,Master,Partner,27161.0,1,41,4,52,3,1,1,5,At Risk,0,0
+8685,37,Graduation,Partner,42014.0,1,56,14,436,2,3,3,8,Loyal Customers,0,1
+4967,54,PhD,Partner,38201.0,1,19,11,268,4,2,2,8,Loyal Customers,0,0
+2130,32,Graduation,Partner,45203.0,2,4,7,147,4,2,2,8,Loyal Customers,0,1
+9298,67,PhD,Partner,81574.0,0,89,17,1798,1,3,4,8,Loyal Customers,2,0
+8175,22,Graduation,Partner,34935.0,0,71,7,137,2,2,2,6,Potential Loyalists,0,0
+6257,38,Master,Single,60482.0,1,81,16,507,1,3,3,7,Potential Loyalists,0,0
+3790,58,Graduation,Partner,34633.0,3,31,3,15,3,1,1,5,At Risk,0,0
+9952,67,Master,Partner,78093.0,0,53,16,1105,2,3,4,9,Loyal Customers,0,0
+3503,64,Graduation,Single,82460.0,0,78,14,974,1,3,3,7,Potential Loyalists,0,0
+5223,48,Master,Partner,45903.0,1,80,6,66,1,2,1,4,At Risk,0,0
+4608,27,Graduation,Single,81361.0,0,18,26,778,4,4,3,11,Champions,0,1
+1626,41,PhD,Single,35860.0,2,37,4,49,3,1,1,5,At Risk,1,1
+4764,62,Master,Partner,40442.0,2,52,8,169,2,2,2,6,Potential Loyalists,0,1
+2471,49,Graduation,Partner,61482.0,0,39,11,299,3,2,2,7,Potential Loyalists,0,0
+5892,34,Graduation,Partner,34968.0,1,11,10,221,4,2,2,8,Loyal Customers,0,0
+2612,27,Graduation,Partner,75794.0,0,33,24,1682,3,4,4,11,Champions,1,0
+4971,52,PhD,Partner,31497.0,1,22,8,155,4,2,2,8,Loyal Customers,0,0
+5185,59,Graduation,Partner,74268.0,0,83,12,892,1,2,3,6,Potential Loyalists,0,0
+10069,26,Basic,Partner,13724.0,1,43,4,58,3,1,1,5,At Risk,1,0
+2262,49,Master,Partner,45143.0,1,74,12,311,2,2,2,6,Potential Loyalists,0,0
+1131,47,PhD,Single,52569.0,1,54,6,95,2,2,2,6,Potential Loyalists,0,0
+1041,41,PhD,Single,48432.0,1,3,14,424,4,3,3,10,Champions,0,1
+24,54,Master,Partner,17144.0,2,96,7,47,1,2,1,4,At Risk,0,0
+3409,30,Graduation,Single,36108.0,1,68,12,339,2,2,2,6,Potential Loyalists,1,0
+7022,43,Graduation,Partner,76445.0,1,2,20,1410,4,4,4,12,Champions,0,0
+7943,39,PhD,Partner,36663.0,1,40,5,35,3,1,1,5,At Risk,0,0
+5272,49,Master,Partner,53843.0,1,64,16,562,2,3,3,8,Loyal Customers,0,0
+5453,58,Master,Partner,90226.0,0,26,23,2352,3,4,4,11,Champions,1,0
+2565,59,Master,Single,70638.0,0,69,19,1334,2,4,4,10,Champions,1,0
+800,54,Graduation,Partner,44512.0,2,57,4,32,2,1,1,4,At Risk,0,0
+11092,53,Graduation,Partner,27116.0,2,78,5,41,1,1,1,3,Hibernating,0,0
+5062,51,PhD,Partner,54072.0,2,71,4,39,2,1,1,4,At Risk,0,0
+8969,37,Graduation,Partner,71855.0,1,59,21,1141,2,4,4,10,Champions,0,0
+4656,24,2n Cycle,Single,51250.0,1,28,19,710,3,4,3,10,Champions,1,0
+4480,41,Master,Partner,60432.0,1,61,14,401,2,3,3,8,Loyal Customers,0,0
+9971,50,PhD,Partner,65526.0,1,22,16,506,4,3,3,10,Champions,0,0
+6729,26,Graduation,Single,68655.0,0,95,20,1538,1,4,4,9,Loyal Customers,0,0
+1773,36,2n Cycle,Partner,12393.0,0,38,5,57,3,1,1,5,At Risk,0,0
+9242,24,Graduation,Single,64509.0,0,19,18,1722,4,3,4,11,Champions,1,1
+1764,39,Graduation,Single,33955.0,1,92,11,270,1,2,2,5,At Risk,0,0
+6215,37,Graduation,Partner,31353.0,2,24,4,31,4,1,1,6,Potential Loyalists,0,1
+10099,30,Graduation,Partner,55434.0,1,21,21,882,4,4,3,11,Champions,0,0
+5423,31,Graduation,Partner,28359.0,1,35,3,16,3,1,1,5,At Risk,0,0
+940,27,Graduation,Single,57100.0,1,9,12,311,4,2,2,8,Loyal Customers,0,0
+3011,49,Graduation,Partner,69139.0,1,23,10,227,4,2,2,8,Loyal Customers,0,0
+3298,58,Master,Partner,52973.0,1,92,24,1152,1,4,4,9,Loyal Customers,0,0
+8286,49,PhD,Partner,51717.0,1,55,7,122,2,2,2,6,Potential Loyalists,1,0
+9668,43,Graduation,Partner,18793.0,1,14,6,77,4,2,2,8,Loyal Customers,0,0
+5120,32,2n Cycle,Partner,66664.0,0,78,18,1289,1,3,4,8,Loyal Customers,0,0
+6097,55,Graduation,Single,50664.0,2,64,15,561,2,3,3,8,Loyal Customers,0,0
+7019,51,Graduation,Partner,54414.0,2,49,9,211,3,2,2,7,Potential Loyalists,0,0
+7408,62,PhD,Partner,54549.0,1,8,10,233,4,2,2,8,Loyal Customers,0,0
+8041,43,PhD,Single,47111.0,1,35,15,1092,3,3,4,10,Champions,0,0
+252,51,PhD,Single,41003.0,0,11,16,601,4,3,3,10,Champions,0,0
+9986,32,Graduation,Partner,19444.0,1,8,7,54,4,2,1,7,Potential Loyalists,0,1
+3276,38,2n Cycle,Partner,36301.0,1,53,6,78,2,2,2,6,Potential Loyalists,0,0
+3859,67,PhD,Partner,73059.0,1,36,25,1095,3,4,4,11,Champions,0,0
+3570,45,PhD,Partner,42731.0,1,64,10,244,2,2,2,6,Potential Loyalists,0,0
+3783,55,PhD,Partner,52854.0,2,43,7,116,3,2,2,7,Potential Loyalists,0,0
+10207,36,Graduation,Partner,22775.0,1,40,3,15,3,1,1,5,At Risk,0,0
+10906,66,PhD,Partner,46681.0,2,52,14,425,2,3,3,8,Loyal Customers,0,0
+3427,59,PhD,Partner,59821.0,1,11,20,734,4,4,3,11,Champions,0,0
+5209,60,Graduation,Single,50002.0,1,21,17,638,4,3,3,10,Champions,0,0
+10711,69,Graduation,Partner,69755.0,0,23,21,894,4,4,3,11,Champions,0,0
+10785,45,Graduation,Partner,44078.0,2,17,5,41,4,1,1,6,Potential Loyalists,0,0
+2814,38,Master,Partner,30560.0,1,6,4,31,4,1,1,6,Potential Loyalists,0,0
+6866,45,Master,Partner,35924.0,2,56,4,34,2,1,1,4,At Risk,0,0
+1665,50,PhD,Single,64140.0,2,71,13,1750,2,3,4,9,Loyal Customers,3,1
+6575,33,Graduation,Partner,56386.0,2,51,17,612,2,3,3,8,Loyal Customers,0,0
+3829,35,Basic,Partner,24594.0,1,94,4,29,1,1,1,3,Hibernating,0,0
+3091,33,2n Cycle,Partner,75774.0,1,27,20,823,3,4,3,10,Champions,0,0
+10141,54,Master,Single,39228.0,0,1,3,20,4,1,1,6,Potential Loyalists,0,0
+5177,40,Master,Partner,58494.0,1,56,14,396,2,3,2,7,Potential Loyalists,0,0
+7005,33,Graduation,Single,58684.0,0,71,20,813,2,4,3,9,Loyal Customers,1,0
+6409,47,Graduation,Single,57136.0,0,18,19,1179,4,4,4,12,Champions,0,1
+7485,64,PhD,Single,56551.0,2,48,7,138,3,2,2,7,Potential Loyalists,0,0
+8079,32,Graduation,Partner,22448.0,1,86,6,55,1,2,1,4,At Risk,0,0
+8395,53,Graduation,Single,82014.0,0,48,21,1511,3,4,4,11,Champions,0,1
+10352,51,Graduation,Single,34213.0,2,2,6,117,4,2,2,8,Loyal Customers,0,1
+4931,37,Graduation,Partner,157146.0,0,13,28,1730,4,4,4,12,Champions,0,0
+13,67,PhD,Single,25358.0,1,57,4,32,2,1,1,4,At Risk,0,0
+1834,36,Master,Single,35544.0,1,77,5,67,1,1,1,3,Hibernating,0,0
+2285,60,Master,Partner,36634.0,1,0,12,335,4,2,2,8,Loyal Customers,0,0
+2295,60,PhD,Partner,62670.0,1,57,21,825,2,4,3,9,Loyal Customers,0,0
+1378,42,2n Cycle,Partner,50334.0,1,24,17,694,4,3,3,10,Champions,0,0
+2781,33,Graduation,Single,72066.0,0,55,16,1792,2,3,4,9,Loyal Customers,2,1
+1165,56,PhD,Single,50729.0,2,62,15,496,2,3,3,8,Loyal Customers,0,0
+1404,46,Graduation,Partner,34916.0,2,89,9,231,1,2,2,5,At Risk,0,0
+6457,38,Graduation,Single,64892.0,1,77,22,902,1,4,3,8,Loyal Customers,0,0
+2639,48,Graduation,Single,43602.0,2,45,6,68,3,2,1,6,Potential Loyalists,0,0
+8299,25,PhD,Single,33996.0,0,46,5,71,3,1,2,6,Potential Loyalists,0,0
+6437,29,2n Cycle,Single,41473.0,1,80,5,76,1,1,2,4,At Risk,0,0
+6912,47,PhD,Partner,63246.0,2,60,21,772,2,4,3,9,Loyal Customers,0,0
+7327,55,PhD,Partner,36732.0,2,71,6,47,2,2,1,5,At Risk,0,0
+5299,44,PhD,Partner,69084.0,1,43,23,1586,3,4,4,11,Champions,0,0
+4127,47,PhD,Partner,77766.0,1,97,32,1529,1,4,4,9,Loyal Customers,1,1
+8143,29,PhD,Single,37929.0,0,49,11,265,3,2,2,7,Potential Loyalists,2,1
+1964,63,Graduation,Partner,86610.0,0,66,17,1603,2,3,4,9,Loyal Customers,0,0
+3690,28,Master,Partner,80141.0,0,20,21,2091,4,4,4,12,Champions,1,1
+3433,59,2n Cycle,Partner,72635.0,0,54,20,981,2,4,3,9,Loyal Customers,1,0
+3389,44,Graduation,Partner,69016.0,1,61,30,1533,2,4,4,10,Champions,0,0
+4712,23,2n Cycle,Partner,20193.0,0,18,6,82,4,2,2,8,Loyal Customers,0,0
+1170,39,Graduation,Partner,27573.0,1,45,10,244,3,2,2,7,Potential Loyalists,0,0
+6347,35,Basic,Single,15862.0,1,26,4,36,3,1,1,5,At Risk,0,0
+4065,38,PhD,Partner,49544.0,1,0,14,404,4,3,3,10,Champions,0,0
+8230,34,Graduation,Partner,33228.0,1,28,5,71,3,1,2,6,Potential Loyalists,0,0
+1215,36,Graduation,Partner,70440.0,0,49,22,1572,3,4,4,11,Champions,1,0
+5939,43,Graduation,Partner,38232.0,2,84,7,122,1,2,2,5,At Risk,0,0
+2156,59,PhD,Partner,22554.0,2,38,6,41,3,2,1,6,Potential Loyalists,0,0
+7788,31,PhD,Partner,23536.0,1,53,3,10,2,1,1,4,At Risk,0,0
+10323,62,Graduation,Partner,49413.0,1,88,11,304,1,2,2,5,At Risk,0,0
+7947,45,Graduation,Partner,42231.0,2,99,4,37,1,1,1,3,Hibernating,0,0
+1891,34,Master,Single,78789.0,0,12,15,1754,4,3,4,11,Champions,0,1
+2570,46,Graduation,Partner,56534.0,1,35,21,815,3,4,3,10,Champions,2,1
+9256,43,Graduation,Single,58350.0,1,5,23,1001,4,4,3,11,Champions,0,0
+295,25,Graduation,Single,81217.0,0,77,21,1157,1,4,4,9,Loyal Customers,0,0
+7397,63,Graduation,Single,49090.0,1,45,18,688,3,3,3,9,Loyal Customers,0,0
+6349,27,Master,Single,61787.0,0,71,18,1319,2,3,4,9,Loyal Customers,0,0
+10790,29,PhD,Partner,18169.0,1,40,3,21,3,1,1,5,At Risk,0,0
+10398,33,2n Cycle,Single,24336.0,1,82,3,31,1,1,1,3,Hibernating,0,0
+2431,24,Graduation,Partner,18222.0,0,70,5,67,2,1,1,4,At Risk,0,0
+550,62,Graduation,Single,62335.0,1,87,19,708,1,4,3,8,Loyal Customers,0,0
+1890,43,2n Cycle,Partner,42033.0,2,95,3,25,1,1,1,3,Hibernating,0,0
+10742,31,PhD,Partner,86580.0,0,72,11,746,2,2,3,7,Potential Loyalists,1,0
+10356,57,PhD,Single,41437.0,2,5,4,32,4,1,1,6,Potential Loyalists,0,0
+4676,63,Master,Single,73705.0,2,86,23,1695,1,4,4,9,Loyal Customers,0,0
+8852,38,Graduation,Partner,61064.0,1,80,23,1080,1,4,4,9,Loyal Customers,0,0
+3565,59,Master,Partner,38452.0,2,62,6,72,2,2,2,6,Potential Loyalists,0,0
+5294,25,Graduation,Single,18358.0,1,49,7,57,3,2,1,6,Potential Loyalists,0,0
+1958,41,PhD,Partner,55012.0,1,85,19,660,1,4,3,8,Loyal Customers,0,0
+7349,41,Basic,Partner,9722.0,1,7,7,103,4,2,2,8,Loyal Customers,0,1
+8799,30,PhD,Partner,38175.0,1,6,8,153,4,2,2,8,Loyal Customers,0,0
+1351,58,Master,Partner,58656.0,1,25,28,1220,3,4,4,11,Champions,1,0
+1045,49,Graduation,Partner,52117.0,1,55,11,279,2,2,2,6,Potential Loyalists,0,0
+7732,36,Graduation,Partner,64813.0,1,81,19,745,1,4,3,8,Loyal Customers,0,0
+8070,41,PhD,Partner,54222.0,1,98,11,264,1,2,2,5,At Risk,0,0
+477,28,Graduation,Partner,83512.0,0,31,21,2157,3,4,4,11,Champions,4,1
+7832,55,Master,Partner,77520.0,1,30,22,1526,3,4,4,11,Champions,3,1
+2202,36,Graduation,Partner,41154.0,1,98,5,69,1,1,1,3,Hibernating,0,0
+7396,48,Graduation,Partner,80398.0,0,92,25,1597,1,4,4,9,Loyal Customers,1,0
+4055,22,Basic,Single,18746.0,1,41,6,64,3,2,1,6,Potential Loyalists,0,0
+10340,30,Graduation,Partner,35196.0,1,68,12,497,2,2,3,7,Potential Loyalists,0,0
+10091,58,Graduation,Single,60230.0,1,78,15,1067,1,3,4,8,Loyal Customers,0,0
+7629,37,Graduation,Partner,22108.0,2,46,5,31,3,1,1,5,At Risk,0,0
+10640,40,Graduation,Partner,44392.0,2,71,9,211,2,2,2,6,Potential Loyalists,0,0
+3498,38,PhD,Partner,55424.0,1,6,21,877,4,4,3,11,Champions,1,1
+6742,35,Graduation,Partner,17688.0,1,82,3,11,1,1,1,3,Hibernating,0,0
+1172,31,PhD,Partner,92491.0,0,71,24,2034,2,4,4,10,Champions,3,1
+569,23,Graduation,Single,90273.0,0,32,18,1991,3,3,4,10,Champions,3,1
+4686,52,PhD,Single,82571.0,0,28,24,1686,3,4,4,11,Champions,1,0
+1381,32,PhD,Single,38513.0,1,20,12,324,4,2,2,8,Loyal Customers,0,1
+2634,35,Master,Single,16653.0,1,10,6,69,4,2,1,7,Potential Loyalists,0,1
+10905,59,Graduation,Partner,42586.0,2,7,11,252,4,2,2,8,Loyal Customers,0,1
+1744,49,Basic,Single,23529.0,1,67,4,54,2,1,1,4,At Risk,0,0
+1000,53,Master,Partner,74881.0,2,48,23,964,3,4,3,10,Champions,0,0
+3828,63,Graduation,Partner,71107.0,1,61,26,1327,2,4,4,10,Champions,0,0
+8605,50,PhD,Partner,46910.0,2,36,5,68,3,1,1,5,At Risk,0,0
+10304,55,Graduation,Partner,18690.0,0,77,4,60,1,1,1,3,Hibernating,0,0
+4351,59,Graduation,Single,37244.0,2,90,4,55,1,1,1,3,Hibernating,1,0
+10129,48,Graduation,Partner,82427.0,0,35,20,1456,3,4,4,11,Champions,1,0
+2499,56,2n Cycle,Single,75342.0,1,38,17,563,3,3,3,9,Loyal Customers,0,0
+10092,60,Graduation,Single,70044.0,1,46,22,1504,3,4,4,11,Champions,0,0
+7500,47,Graduation,Single,79146.0,2,33,17,564,3,3,3,9,Loyal Customers,0,0
+5796,51,Graduation,Partner,77437.0,0,70,22,1125,2,4,4,10,Champions,1,0
+10556,55,Graduation,Partner,54984.0,1,51,13,358,2,3,2,7,Potential Loyalists,1,0
+1064,43,PhD,Partner,42403.0,1,18,4,42,4,1,1,6,Potential Loyalists,0,0
+48,50,Graduation,Partner,55761.0,1,97,8,184,1,2,2,5,At Risk,1,0
+7610,31,Graduation,Partner,37292.0,1,32,14,460,3,3,3,9,Loyal Customers,0,0
+263,69,PhD,Single,45576.0,0,9,7,145,4,2,2,8,Loyal Customers,0,1
+10814,67,Graduation,Partner,70321.0,0,6,24,1376,4,4,4,12,Champions,0,1
+9710,45,PhD,Single,58086.0,1,80,21,792,1,4,3,8,Loyal Customers,0,0
+9292,62,Graduation,Partner,81795.0,0,74,22,1382,2,4,4,10,Champions,0,0
+10250,67,Basic,Partner,28389.0,0,49,3,28,3,1,1,5,At Risk,0,0
+7881,68,Master,Partner,66835.0,0,21,23,1033,4,4,3,11,Champions,0,0
+5847,45,Graduation,Single,69901.0,1,95,20,882,1,4,3,8,Loyal Customers,0,0
+737,65,PhD,Partner,80360.0,0,56,13,2231,2,3,4,9,Loyal Customers,3,0
+3571,53,PhD,Partner,63342.0,1,48,16,1101,3,3,4,10,Champions,1,1
+7807,40,Graduation,Partner,44989.0,1,26,11,369,3,2,2,7,Potential Loyalists,0,0
+3878,34,2n Cycle,Single,31859.0,1,3,4,48,4,1,1,6,Potential Loyalists,0,0
+5092,65,PhD,Single,51569.0,1,39,15,467,3,3,3,9,Loyal Customers,1,1
+2154,43,Graduation,Single,30372.0,2,33,5,44,3,1,1,5,At Risk,0,0
+5394,35,Basic,Single,16014.0,2,42,6,38,3,2,1,6,Potential Loyalists,0,0
+3798,46,Graduation,Partner,41120.0,2,80,6,81,1,2,2,5,At Risk,0,0
+3524,43,Master,Single,39763.0,1,9,8,167,4,2,2,8,Loyal Customers,0,1
+5247,59,PhD,Partner,38725.0,2,52,5,45,2,1,1,4,At Risk,0,0
+5883,42,Graduation,Partner,77981.0,1,78,18,664,1,3,3,7,Potential Loyalists,0,0
+2118,50,2n Cycle,Partner,62905.0,1,68,17,622,2,3,3,8,Loyal Customers,0,0
+8812,35,2n Cycle,Single,13533.0,1,45,5,48,3,1,1,5,At Risk,0,0
+6616,39,Graduation,Partner,59481.0,1,47,14,461,3,3,3,9,Loyal Customers,0,0
+2797,37,Graduation,Partner,72117.0,1,34,25,1073,3,4,4,11,Champions,0,0
+4328,28,2n Cycle,Partner,21955.0,1,81,6,55,1,2,1,4,At Risk,0,0
+9167,58,Graduation,Partner,67131.0,1,72,23,976,2,4,3,9,Loyal Customers,0,0
+10560,34,PhD,Single,36802.0,1,23,4,20,4,1,1,6,Potential Loyalists,0,0
+2631,32,Graduation,Partner,71853.0,0,29,16,1149,3,3,4,10,Champions,0,0
+8312,53,Basic,Partner,28249.0,0,80,5,43,1,1,1,3,Hibernating,0,0
+5534,39,Master,Partner,47808.0,1,30,8,224,3,2,2,7,Potential Loyalists,1,0
+5093,40,PhD,Single,25509.0,1,15,6,101,4,2,2,8,Loyal Customers,0,1
+7592,68,PhD,Partner,51012.0,0,86,9,209,1,2,2,5,At Risk,0,0
+8895,29,Graduation,Single,70596.0,0,68,20,968,2,4,3,9,Loyal Customers,0,0
+8584,62,PhD,Partner,85431.0,0,54,16,1165,2,3,4,9,Loyal Customers,0,0
+2694,47,Graduation,Partner,42664.0,1,44,4,24,3,1,1,5,At Risk,0,0
+8910,59,Graduation,Partner,42586.0,2,7,11,252,4,2,2,8,Loyal Customers,0,1
+7433,29,Graduation,Single,29760.0,1,87,8,165,1,2,2,5,At Risk,0,0
+164,37,PhD,Partner,28973.0,0,59,11,269,2,2,2,6,Potential Loyalists,0,0
+10477,41,PhD,Partner,39435.0,1,16,6,102,4,2,2,8,Loyal Customers,0,0
+2681,30,2n Cycle,Partner,65370.0,0,1,18,461,4,3,3,10,Champions,0,0
+5150,35,Basic,Single,20194.0,1,64,5,47,2,1,1,4,At Risk,0,0
+5283,38,PhD,Single,42473.0,2,72,7,144,2,2,2,6,Potential Loyalists,0,0
+9645,46,Graduation,Partner,64590.0,0,98,23,1338,1,4,4,9,Loyal Customers,0,0
+10678,55,Graduation,Partner,71232.0,1,91,23,917,1,4,3,8,Loyal Customers,0,0
+7261,43,Graduation,Partner,34600.0,2,8,12,318,4,3,2,9,Loyal Customers,0,1
+9648,47,Graduation,Single,46904.0,2,20,10,253,4,2,2,8,Loyal Customers,0,0
+2870,41,Graduation,Partner,49094.0,1,6,15,502,4,3,3,10,Champions,0,0
+8008,31,Graduation,Partner,36075.0,1,54,6,119,2,2,2,6,Potential Loyalists,0,0
+1513,35,2n Cycle,Partner,60839.0,2,72,16,1250,2,3,4,9,Loyal Customers,0,0
+6173,35,Graduation,Partner,77298.0,1,46,23,969,3,4,3,10,Champions,0,0
+1419,64,Graduation,Partner,34026.0,2,11,6,76,4,2,2,8,Loyal Customers,0,0
+9150,51,PhD,Single,48918.0,2,21,5,62,4,1,1,6,Potential Loyalists,0,0
+7960,52,2n Cycle,Partner,82122.0,0,89,25,1382,1,4,4,9,Loyal Customers,1,0
+1250,38,Graduation,Single,37697.0,1,82,6,84,1,2,2,5,At Risk,0,0
+9905,62,Graduation,Partner,34074.0,2,69,9,255,2,2,2,6,Potential Loyalists,1,0
+10691,54,Master,Partner,28520.0,2,55,4,43,2,1,1,4,At Risk,0,0
+7002,59,Graduation,Single,62535.0,1,13,13,398,4,3,2,9,Loyal Customers,0,0
+2952,37,Master,Single,36273.0,1,80,6,76,1,2,2,5,At Risk,0,0
+8439,50,Graduation,Partner,63404.0,2,97,13,902,1,3,3,7,Potential Loyalists,1,0
+762,33,2n Cycle,Partner,75774.0,1,27,20,823,3,4,3,10,Champions,0,0
+2831,38,Graduation,Partner,78416.0,1,99,24,1179,1,4,4,9,Loyal Customers,0,0
+6977,40,Graduation,Partner,75702.0,1,87,28,1921,1,4,4,9,Loyal Customers,1,0
+6289,63,Master,Partner,59385.0,2,85,8,185,1,2,2,5,At Risk,0,0
+4168,48,Graduation,Single,37070.0,2,30,14,433,3,3,3,9,Loyal Customers,0,1
+8397,63,Graduation,Partner,44689.0,2,82,4,34,1,1,1,3,Hibernating,1,0
+9284,56,Graduation,Partner,53977.0,1,21,22,907,4,4,3,11,Champions,0,0
+6237,48,PhD,Single,7144.0,2,92,25,416,1,4,3,8,Loyal Customers,0,0
+3130,50,Graduation,Single,18701.0,2,95,6,44,1,2,1,4,At Risk,0,0
+1619,58,Graduation,Partner,90369.0,0,2,16,1588,4,3,4,11,Champions,0,1
+1990,40,PhD,Single,63159.0,0,74,16,1797,2,3,4,9,Loyal Customers,1,0
+5513,48,Graduation,Partner,37758.0,2,49,4,40,3,1,1,5,At Risk,0,0
+269,51,PhD,Single,46757.0,1,71,15,1143,2,3,4,9,Loyal Customers,0,0
+8093,45,Master,Partner,79734.0,0,72,13,914,2,3,3,8,Loyal Customers,1,0
+10513,22,Graduation,Partner,63207.0,0,68,11,1502,2,2,4,8,Loyal Customers,1,0
+10177,60,Graduation,Single,72071.0,1,4,17,1338,4,3,4,11,Champions,0,0
+2549,31,PhD,Partner,21840.0,1,80,4,27,1,1,1,3,Hibernating,0,0
+5782,32,2n Cycle,Partner,58582.0,1,15,20,763,4,4,3,11,Champions,1,0
+10057,63,Graduation,Single,72282.0,0,70,21,1331,2,4,4,10,Champions,0,1
+10307,58,Graduation,Partner,50387.0,2,91,16,525,1,3,3,7,Potential Loyalists,0,0
+8566,53,PhD,Partner,32583.0,2,10,3,9,4,1,1,6,Potential Loyalists,0,0
+2415,52,Graduation,Partner,62568.0,1,99,13,953,1,3,3,7,Potential Loyalists,1,0
+5684,43,Master,Single,44635.0,2,25,5,68,3,1,1,5,At Risk,0,0
+8334,43,Master,Single,33316.0,2,34,7,131,3,2,2,7,Potential Loyalists,0,0
+9166,46,Graduation,Partner,63967.0,1,57,20,882,2,4,3,9,Loyal Customers,0,0
+1440,36,2n Cycle,Partner,52513.0,0,84,23,1149,1,4,4,9,Loyal Customers,0,0
+78,45,Graduation,Partner,25293.0,1,51,4,37,2,1,1,4,At Risk,0,0
+5441,49,PhD,Single,54111.0,1,97,13,388,1,3,2,6,Potential Loyalists,0,0
+5302,28,Graduation,Partner,78394.0,0,13,15,1428,4,3,4,11,Champions,0,1
+4687,56,Master,Partner,80739.0,0,92,23,1633,1,4,4,9,Loyal Customers,0,0
+1087,39,Master,Partner,22669.0,1,30,7,173,3,2,2,7,Potential Loyalists,0,1
+6859,27,Graduation,Single,29236.0,1,30,7,99,3,2,2,7,Potential Loyalists,0,0
+9860,55,Graduation,Partner,44911.0,1,11,9,215,4,2,2,8,Loyal Customers,0,0
+7129,52,PhD,Partner,54693.0,1,72,23,929,2,4,3,9,Loyal Customers,0,0
+5866,40,Graduation,Partner,48186.0,1,39,9,219,3,2,2,7,Potential Loyalists,0,0
+10521,37,Graduation,Partner,54809.0,2,0,8,174,4,2,2,8,Loyal Customers,0,1
+7393,36,Graduation,Partner,41580.0,2,15,6,92,4,2,2,8,Loyal Customers,0,0
+7849,44,PhD,Partner,80336.0,0,12,24,1052,4,4,4,12,Champions,0,0
+332,57,Graduation,Partner,47743.0,1,56,11,275,2,2,2,6,Potential Loyalists,1,0
+9847,59,2n Cycle,Partner,62972.0,1,39,14,587,3,3,3,9,Loyal Customers,0,0
+531,60,PhD,Single,57333.0,1,55,22,1662,2,4,4,10,Champions,0,1
+9576,32,PhD,Partner,32313.0,1,60,8,159,2,2,2,6,Potential Loyalists,0,0
+6906,61,Master,Single,84953.0,0,73,17,1024,2,3,3,8,Loyal Customers,3,1
+7419,46,Master,Single,27071.0,1,90,5,35,1,1,1,3,Hibernating,0,0
+3170,57,Master,Partner,68148.0,0,86,14,1042,1,3,3,7,Potential Loyalists,0,0
+8527,49,Master,Partner,65735.0,2,37,14,395,3,3,2,8,Loyal Customers,0,0
+7872,39,PhD,Partner,86836.0,0,7,22,557,4,4,3,11,Champions,3,1
+10595,24,Graduation,Partner,30093.0,0,19,5,69,4,1,2,7,Potential Loyalists,0,0
+4609,48,PhD,Partner,57705.0,1,14,15,486,4,3,3,10,Champions,0,0
+5010,26,Graduation,Single,25008.0,1,72,4,34,2,1,1,4,At Risk,0,0
+4427,19,2n Cycle,Single,83257.0,0,56,27,1365,2,4,4,10,Champions,2,1
+11148,39,Graduation,Partner,22280.0,1,85,3,13,1,1,1,3,Hibernating,0,0
+1168,36,PhD,Partner,72159.0,0,62,20,1401,2,4,4,10,Champions,0,0
+9595,53,Graduation,Partner,64260.0,0,1,13,1574,4,3,4,11,Champions,0,1
+10163,30,PhD,Single,82733.0,0,28,19,1323,3,4,4,11,Champions,0,1
+2886,43,Master,Single,74290.0,1,70,28,1217,2,4,4,10,Champions,2,0
+6710,63,Master,Single,58217.0,3,84,6,103,1,2,2,5,At Risk,0,0
+5316,38,Master,Partner,21024.0,0,89,6,84,1,2,2,5,At Risk,0,0
+9029,42,PhD,Partner,70116.0,0,73,22,1536,2,4,4,10,Champions,0,0
+521,29,Graduation,Partner,54006.0,1,42,16,581,3,3,3,9,Loyal Customers,0,0
+1459,48,PhD,Partner,69063.0,1,16,13,928,4,3,3,10,Champions,0,0
+10241,39,2n Cycle,Single,11448.0,0,16,3,14,4,1,1,6,Potential Loyalists,0,0
+1630,35,Graduation,Single,61825.0,1,56,14,424,2,3,3,8,Loyal Customers,0,0
+3254,43,Graduation,Partner,70886.0,1,65,13,960,2,3,3,8,Loyal Customers,0,0
+9064,32,Graduation,Partner,69109.0,0,10,19,1555,4,4,4,12,Champions,1,1
+3678,41,Graduation,Single,60208.0,2,13,18,656,4,3,3,10,Champions,1,1
+4227,46,Master,Partner,32889.0,2,78,6,55,1,2,1,4,At Risk,0,0
+9467,30,Graduation,Single,34738.0,1,51,4,20,2,1,1,4,At Risk,0,0
+8486,43,Master,Partner,30538.0,1,27,13,367,3,3,2,8,Loyal Customers,0,0
+2186,37,2n Cycle,Partner,82326.0,0,30,21,2257,3,4,4,11,Champions,3,1
+3286,47,PhD,Single,26642.0,1,71,5,42,2,1,1,4,At Risk,0,0
+8602,50,Graduation,Single,69932.0,1,97,24,1049,1,4,4,9,Loyal Customers,0,0
+3722,42,Graduation,Single,44503.0,2,83,5,48,1,1,1,3,Hibernating,0,0
+6715,66,PhD,Single,60200.0,1,3,19,685,4,4,3,11,Champions,0,0
+4796,62,Graduation,Single,49638.0,1,71,4,39,2,1,1,4,At Risk,0,0
+9612,27,2n Cycle,Single,23830.0,0,3,4,43,4,1,1,6,Potential Loyalists,0,0
+3766,55,Master,Single,33051.0,0,15,18,835,4,3,3,10,Champions,0,1
+1399,56,Graduation,Partner,72905.0,0,52,19,1515,2,4,4,10,Champions,1,0
+1570,63,PhD,Partner,69702.0,1,8,24,1039,4,4,3,11,Champions,0,0
+3426,39,Graduation,Single,70300.0,1,89,23,1596,1,4,4,9,Loyal Customers,0,0
+3074,30,PhD,Partner,70643.0,0,66,17,1828,2,3,4,9,Loyal Customers,0,1
+8341,45,PhD,Partner,30396.0,1,22,4,34,4,1,1,6,Potential Loyalists,1,1
+5180,46,PhD,Single,50616.0,1,56,8,149,2,2,2,6,Potential Loyalists,0,0
+6461,45,Master,Single,62772.0,1,74,22,946,2,4,3,9,Loyal Customers,1,0
+7679,29,PhD,Single,30298.0,0,48,5,28,3,1,1,5,At Risk,0,0
+10702,30,Graduation,Single,52413.0,1,67,15,450,2,3,3,8,Loyal Customers,0,0
+7505,57,PhD,Partner,44155.0,2,24,4,46,4,1,1,6,Potential Loyalists,0,0
+5113,43,PhD,Single,86979.0,0,67,15,1702,2,3,4,9,Loyal Customers,1,1
+10858,39,Graduation,Partner,76532.0,2,38,21,820,3,4,3,10,Champions,0,0
+2961,32,Graduation,Partner,42081.0,1,86,13,382,1,3,2,6,Potential Loyalists,1,0
+2747,26,PhD,Partner,67546.0,0,90,19,2126,1,4,4,9,Loyal Customers,0,0
+3010,25,Master,Partner,88420.0,0,87,19,2069,1,4,4,9,Loyal Customers,3,0
+5790,29,Graduation,Partner,31158.0,1,62,5,72,2,1,2,5,At Risk,0,0
+6892,46,Graduation,Single,61671.0,1,23,20,732,4,4,3,11,Champions,2,0
+1743,40,Graduation,Single,69719.0,0,99,10,801,1,2,3,6,Potential Loyalists,0,0
+3578,65,Graduation,Single,49160.0,1,29,10,236,3,2,2,7,Potential Loyalists,0,0
+8462,36,Basic,Partner,24882.0,1,52,4,80,2,1,2,5,At Risk,1,0
+5558,60,PhD,Single,90933.0,0,90,14,1685,1,3,4,8,Loyal Customers,1,0
+4619,69,PhD,Single,113734.0,0,9,27,277,4,4,2,10,Champions,0,0
+8780,64,PhD,Partner,59292.0,1,71,16,507,2,3,3,8,Loyal Customers,0,0
+10789,50,PhD,Partner,45759.0,2,13,5,68,4,1,1,6,Potential Loyalists,0,0
+10779,31,Graduation,Single,22148.0,0,16,4,49,4,1,1,6,Potential Loyalists,0,0
+5896,27,Master,Partner,73395.0,0,94,14,397,1,3,2,6,Potential Loyalists,0,0
+2337,43,Graduation,Single,29819.0,1,77,6,39,1,2,1,4,At Risk,0,0
+10951,46,Graduation,Partner,45688.0,1,20,12,306,4,3,2,9,Loyal Customers,1,0
+544,60,Graduation,Partner,62820.0,0,51,13,976,2,3,3,8,Loyal Customers,0,0
+17,43,PhD,Partner,60491.0,1,81,24,1028,1,4,3,8,Loyal Customers,0,0
+10680,28,Graduation,Partner,33235.0,1,71,6,70,2,2,2,6,Potential Loyalists,0,0
+3265,55,Graduation,Partner,35701.0,0,36,4,46,3,1,1,5,At Risk,0,0
+5623,34,Master,Partner,31535.0,1,95,4,51,1,1,1,3,Hibernating,1,0
+5832,54,2n Cycle,Partner,92556.0,0,32,21,1263,3,4,4,11,Champions,0,0
+5544,44,Graduation,Single,67384.0,1,32,20,1490,3,4,4,11,Champions,1,0
+6417,43,Master,Partner,80573.0,0,85,23,1564,1,4,4,9,Loyal Customers,0,0
+5831,47,Graduation,Partner,77870.0,1,93,15,1815,1,3,4,8,Loyal Customers,2,1
+7101,51,PhD,Single,52278.0,1,24,25,1198,4,4,4,12,Champions,0,0
+10176,46,Graduation,Single,57107.0,1,44,16,416,3,3,3,9,Loyal Customers,2,1
+2326,24,Graduation,Partner,18929.0,0,15,5,85,4,1,2,7,Potential Loyalists,0,0
+4385,33,PhD,Single,36038.0,1,82,6,47,1,2,1,4,At Risk,0,0
+2929,38,Graduation,Single,20180.0,0,27,7,137,3,2,2,7,Potential Loyalists,0,0
+10686,49,PhD,Partner,34230.0,2,72,3,21,2,1,1,4,At Risk,0,0
+2546,37,2n Cycle,Single,31878.0,1,7,5,70,4,1,2,7,Potential Loyalists,0,0
+3283,42,2n Cycle,Partner,70932.0,1,57,20,909,2,4,3,9,Loyal Customers,0,0
+3138,58,Graduation,Single,91249.0,0,84,22,1676,1,4,4,9,Loyal Customers,4,1
+4994,71,Master,Single,77598.0,0,53,25,1735,2,4,4,10,Champions,1,0
+7966,55,Graduation,Single,80982.0,2,48,27,1191,3,4,4,11,Champions,0,0
+3112,37,Master,Partner,22701.0,1,2,4,24,4,1,1,6,Potential Loyalists,0,0
+10872,45,PhD,Partner,55212.0,1,65,17,1182,2,3,4,9,Loyal Customers,2,0
+2181,44,Graduation,Partner,70617.0,0,45,13,1280,3,3,4,10,Champions,0,0
+1867,57,Graduation,Single,64849.0,0,42,18,1336,3,3,4,10,Champions,0,1
+1518,49,Master,Partner,62694.0,2,29,19,749,3,4,3,10,Champions,0,0
+5734,40,PhD,Partner,61917.0,2,83,6,91,1,2,2,5,At Risk,0,0
+2878,67,PhD,Partner,67472.0,1,93,13,414,1,3,3,7,Potential Loyalists,0,0
+1458,32,Master,Partner,21059.0,1,40,6,44,3,2,1,6,Potential Loyalists,0,0
+7007,46,Master,Partner,29543.0,2,47,6,63,3,2,1,6,Potential Loyalists,0,0
+6200,63,Graduation,Partner,75903.0,1,50,21,901,2,4,3,9,Loyal Customers,0,0
+1403,39,2n Cycle,Partner,34984.0,2,40,4,38,3,1,1,5,At Risk,0,0
+4827,58,PhD,Single,54998.0,1,3,15,455,4,3,3,10,Champions,0,1
+6250,65,PhD,Single,54356.0,1,62,21,775,2,4,3,9,Loyal Customers,0,1
+9291,55,Master,Partner,34242.0,1,25,3,15,3,1,1,5,At Risk,0,0
+2478,41,Graduation,Partner,25410.0,1,48,5,38,3,1,1,5,At Risk,0,0
+1139,30,PhD,Partner,73356.0,0,56,21,1512,2,4,4,10,Champions,3,1
+5138,64,Graduation,Partner,28320.0,1,68,4,43,2,1,1,4,At Risk,0,0
+5393,37,Graduation,Single,23763.0,1,64,4,42,2,1,1,4,At Risk,0,0
+10413,30,Graduation,Partner,72570.0,0,67,22,1089,2,4,4,10,Champions,0,0
+5015,38,Master,Partner,34529.0,1,94,7,162,1,2,2,5,At Risk,0,0
+10868,63,Graduation,Single,70792.0,0,82,17,1272,1,3,4,8,Loyal Customers,0,0
+10676,32,Graduation,Partner,63211.0,0,3,18,1173,4,3,4,11,Champions,0,1
+2495,40,Master,Partner,83891.0,1,24,21,816,4,4,3,11,Champions,0,0
+7842,46,Graduation,Single,36065.0,2,54,6,74,2,2,2,6,Potential Loyalists,0,0
+9955,60,Graduation,Partner,39898.0,1,20,7,134,4,2,2,8,Loyal Customers,0,0
+6663,74,PhD,Single,51141.0,0,96,8,157,1,2,2,5,At Risk,0,0
+2162,38,Graduation,Partner,56939.0,1,19,16,561,4,3,3,10,Champions,0,0
+3434,63,Graduation,Single,80872.0,0,60,18,1336,2,3,4,9,Loyal Customers,0,0
+7919,38,PhD,Partner,72335.0,0,2,22,2092,4,4,4,12,Champions,0,1
+5626,50,PhD,Single,61798.0,0,13,15,463,4,3,3,10,Champions,0,0
+6428,64,PhD,Single,76842.0,0,37,16,1130,3,3,4,10,Champions,0,0
+8514,38,Graduation,Partner,29478.0,1,59,4,20,2,1,1,4,At Risk,0,0
+10448,58,Graduation,Single,46998.0,1,55,13,377,2,3,2,7,Potential Loyalists,1,0
+2109,24,Graduation,Single,96843.0,0,60,27,1544,2,4,4,10,Champions,1,1
+7530,64,PhD,Single,56551.0,2,48,7,138,3,2,2,7,Potential Loyalists,0,0
+8925,49,Master,Partner,70053.0,1,38,23,1012,3,4,3,10,Champions,0,0
+3009,52,PhD,Single,71670.0,0,8,14,1766,4,3,4,11,Champions,3,1
+6355,36,Graduation,Partner,44359.0,2,19,6,45,4,2,1,7,Potential Loyalists,0,0
+3517,62,Graduation,Single,40887.0,2,32,7,161,3,2,2,7,Potential Loyalists,0,1
+1158,48,Graduation,Single,48877.0,1,27,7,144,3,2,2,7,Potential Loyalists,0,0
+6203,67,Graduation,Partner,74485.0,0,58,25,1734,2,4,4,10,Champions,0,0
+7165,42,Graduation,Partner,64474.0,1,59,20,823,2,4,3,9,Loyal Customers,0,0
+3595,51,Graduation,Partner,77226.0,1,29,26,1138,3,4,4,11,Champions,0,0
+8537,65,Graduation,Single,72643.0,0,60,20,1429,2,4,4,10,Champions,1,1
+4331,36,Master,Partner,85738.0,0,41,20,1371,3,4,4,11,Champions,2,0
+6281,48,Graduation,Single,55686.0,1,27,14,982,3,3,3,9,Loyal Customers,1,0
+4338,31,Graduation,Single,39062.0,1,28,4,44,3,1,1,5,At Risk,1,0
+2452,43,Graduation,Partner,34600.0,2,8,12,318,4,3,2,9,Loyal Customers,0,1
+9507,39,Graduation,Partner,40794.0,1,18,14,434,4,3,3,10,Champions,0,0
+8360,43,2n Cycle,Partner,54690.0,2,76,9,198,1,2,2,5,At Risk,0,0
+10311,45,Graduation,Partner,4428.0,1,0,25,359,4,4,2,10,Champions,0,0
+5117,51,2n Cycle,Partner,32632.0,0,32,16,576,3,3,3,9,Loyal Customers,0,0
+4867,46,PhD,Single,38236.0,2,2,7,88,4,2,2,8,Loyal Customers,0,0
+9289,35,Graduation,Partner,36781.0,1,16,5,63,4,1,1,6,Potential Loyalists,0,1
+10913,30,Master,Single,31385.0,1,56,3,27,2,1,1,4,At Risk,1,1
+3032,30,Graduation,Partner,24570.0,1,97,8,193,1,2,2,5,At Risk,0,0
+8524,40,PhD,Single,25509.0,1,15,6,101,4,2,2,8,Loyal Customers,0,1
+3334,63,Graduation,Partner,94642.0,0,35,21,2211,3,4,4,11,Champions,2,0
+4470,52,Master,Partner,58646.0,1,3,7,140,4,2,2,8,Loyal Customers,0,0
+1406,39,Graduation,Single,53201.0,2,49,14,415,3,3,3,9,Loyal Customers,0,0
+8619,57,Graduation,Partner,21994.0,1,4,3,22,4,1,1,6,Potential Loyalists,0,0
+10821,36,Graduation,Partner,57113.0,2,45,10,263,3,2,2,7,Potential Loyalists,0,0
+4552,23,Graduation,Partner,51373.0,0,37,11,393,3,2,2,7,Potential Loyalists,0,0
+898,28,Graduation,Partner,23477.0,1,39,7,147,3,2,2,7,Potential Loyalists,0,0
+9797,58,Graduation,Partner,58116.0,1,38,14,443,3,3,3,9,Loyal Customers,0,0
+10949,51,PhD,Single,72968.0,0,8,18,1958,4,3,4,11,Champions,1,1
+8212,43,Master,Partner,39791.0,1,89,8,174,1,2,2,5,At Risk,0,0
+6248,67,Master,Single,91712.0,0,47,27,2217,3,4,4,11,Champions,1,1
+10164,56,Graduation,Single,94472.0,1,75,15,1691,1,3,4,8,Loyal Customers,2,0
+4547,54,Graduation,Partner,13672.0,2,86,4,25,1,1,1,3,Hibernating,0,0
+6815,34,2n Cycle,Partner,96547.0,0,4,21,809,4,4,3,11,Champions,3,1
+4122,39,Graduation,Partner,79205.0,0,73,15,895,2,3,3,8,Loyal Customers,1,1
+10841,39,PhD,Partner,56559.0,1,46,15,484,3,3,3,9,Loyal Customers,0,0
+5370,41,PhD,Partner,32644.0,1,38,14,413,3,3,3,9,Loyal Customers,1,0
+176,34,2n Cycle,Single,67506.0,1,73,11,331,2,2,2,6,Potential Loyalists,0,0
+4860,44,Graduation,Single,24206.0,1,66,4,25,2,1,1,4,At Risk,0,0
+10757,47,PhD,Single,28420.0,1,36,3,13,3,1,1,5,At Risk,0,0
+4023,44,Graduation,Partner,22979.0,1,29,7,115,3,2,2,7,Potential Loyalists,0,1
+6679,48,Graduation,Single,33279.0,0,29,3,16,3,1,1,5,At Risk,0,0
+9923,42,Master,Single,46423.0,2,6,6,92,4,2,2,8,Loyal Customers,0,0
+7181,37,Graduation,Partner,30368.0,1,97,5,52,1,1,1,3,Hibernating,0,0
+3599,44,Graduation,Partner,63684.0,1,61,20,1464,2,4,4,10,Champions,0,0
+405,50,Graduation,Single,41638.0,1,68,13,441,2,3,3,8,Loyal Customers,1,0
+6870,55,PhD,Single,68805.0,1,73,11,283,2,2,2,6,Potential Loyalists,0,0
+832,48,PhD,Partner,65814.0,1,90,20,747,1,4,3,8,Loyal Customers,0,0
+2002,56,Graduation,Single,71964.0,0,81,16,1870,1,3,4,8,Loyal Customers,0,0
+3657,28,Graduation,Single,39146.0,1,1,8,165,4,2,2,8,Loyal Customers,0,0
+500,37,Graduation,Partner,96876.0,0,79,23,1941,1,4,4,9,Loyal Customers,3,1
+1951,33,Basic,Partner,34445.0,0,92,21,839,1,4,3,8,Loyal Customers,0,0
+3262,56,Graduation,Single,68281.0,0,31,24,1655,3,4,4,11,Champions,0,1
+4102,39,2n Cycle,Partner,37284.0,2,46,3,23,3,1,1,5,At Risk,0,0
+7042,31,Graduation,Partner,36790.0,0,14,5,66,4,1,1,6,Potential Loyalists,0,1
+10598,47,Graduation,Partner,27943.0,2,89,5,37,1,1,1,3,Hibernating,0,0
+255,63,Graduation,Single,22263.0,2,31,4,21,3,1,1,5,At Risk,0,0
+2375,42,Graduation,Partner,30261.0,3,75,3,22,1,1,1,3,Hibernating,0,0
+9829,36,Graduation,Partner,28587.0,1,42,6,78,3,2,2,7,Potential Loyalists,0,0
+6214,32,Master,Partner,43815.0,1,53,5,79,2,1,2,5,At Risk,0,0
+4954,58,Graduation,Partner,48195.0,2,53,11,265,2,2,2,6,Potential Loyalists,0,0
+7861,62,Master,Partner,77027.0,1,23,17,1175,4,3,4,11,Champions,0,0
+4837,49,PhD,Partner,71322.0,1,57,26,1305,2,4,4,10,Champions,0,0
+9423,35,Master,Partner,32765.0,1,49,6,46,3,2,1,6,Potential Loyalists,0,0
+4198,49,Graduation,Partner,29672.0,2,6,3,25,4,1,1,6,Potential Loyalists,0,0
+153,61,Graduation,Single,23272.0,0,29,4,46,3,1,1,5,At Risk,0,0
+9323,65,Master,Partner,49912.0,1,5,22,874,4,4,3,11,Champions,1,1
+10001,29,2n Cycle,Partner,7500.0,1,98,6,100,1,2,2,5,At Risk,0,0
+3945,67,PhD,Single,68117.0,1,80,23,930,1,4,3,8,Loyal Customers,1,1
+3799,59,Graduation,Partner,67225.0,1,4,20,868,4,4,3,11,Champions,0,0
+8625,38,Graduation,Partner,17649.0,1,70,6,45,2,2,1,5,At Risk,0,0
+3491,39,Graduation,Partner,55914.0,1,32,25,1260,3,4,4,11,Champions,0,0
+983,30,Graduation,Partner,40059.0,1,82,11,414,1,2,3,6,Potential Loyalists,1,0
+9119,64,Graduation,Partner,60905.0,1,27,13,392,3,3,2,8,Loyal Customers,0,0
+4786,37,Graduation,Partner,75330.0,2,94,25,1109,1,4,4,9,Loyal Customers,0,0
+5872,63,Graduation,Single,60689.0,1,23,18,639,4,3,3,10,Champions,0,0
+6568,30,Graduation,Partner,38680.0,1,97,5,79,1,1,2,4,At Risk,0,0
+5628,32,Graduation,Partner,61416.0,0,25,23,1665,3,4,4,11,Champions,1,0
+5631,23,Graduation,Single,49767.0,0,92,17,692,1,3,3,7,Potential Loyalists,0,0
+4974,44,Graduation,Single,83273.0,3,98,19,1392,1,4,4,9,Loyal Customers,0,0
+8416,33,Graduation,Partner,29009.0,1,19,5,44,4,1,1,6,Potential Loyalists,0,0
+5454,35,Master,Partner,45057.0,1,80,5,50,1,1,1,3,Hibernating,0,0
+4095,43,Graduation,Partner,37150.0,1,80,13,467,1,3,3,7,Potential Loyalists,0,0
+5474,44,Graduation,Single,43020.0,1,79,9,223,1,2,2,5,At Risk,0,0
+4268,55,Graduation,Partner,53154.0,1,50,8,158,2,2,2,6,Potential Loyalists,0,0
+10701,41,Graduation,Partner,65308.0,0,60,27,1211,2,4,4,10,Champions,2,0
+3507,44,Graduation,Single,76467.0,1,44,12,1575,3,3,4,10,Champions,0,1
+2079,67,2n Cycle,Partner,81044.0,0,0,21,1208,4,4,4,12,Champions,0,0
+626,63,Graduation,Partner,32871.0,2,28,4,43,3,1,1,5,At Risk,0,0
+4426,39,Graduation,Single,55801.0,2,35,15,527,3,3,3,9,Loyal Customers,1,0
+2591,55,Graduation,Single,76320.0,1,49,13,932,3,3,3,9,Loyal Customers,0,0
+10509,59,Master,Single,36927.0,2,46,6,71,3,2,2,7,Potential Loyalists,0,0
+6382,61,Graduation,Partner,48794.0,2,97,4,54,1,1,1,3,Hibernating,0,0
+6673,49,Graduation,Single,23478.0,0,51,6,129,2,2,2,6,Potential Loyalists,0,0
+7441,41,Graduation,Single,71128.0,1,80,24,1615,1,4,4,9,Loyal Customers,0,0
+1071,38,PhD,Single,70179.0,1,10,23,1034,4,4,3,11,Champions,0,0
+10061,64,Graduation,Partner,59462.0,1,29,23,1088,3,4,4,11,Champions,0,0
+8775,45,Graduation,Partner,38361.0,1,74,7,137,2,2,2,6,Potential Loyalists,0,0
+2345,32,PhD,Partner,70038.0,0,54,16,1244,2,3,4,9,Loyal Customers,0,0
+322,36,Graduation,Partner,42554.0,2,93,5,41,1,1,1,3,Hibernating,0,0
+10897,40,Graduation,Partner,67445.0,1,63,27,1174,2,4,4,10,Champions,0,0
+123,63,Graduation,Single,67046.0,1,92,13,993,1,3,3,7,Potential Loyalists,0,0
+6103,66,Graduation,Partner,42192.0,0,40,6,100,3,2,2,7,Potential Loyalists,0,0
+7899,62,PhD,Partner,77610.0,1,70,15,1680,2,3,4,9,Loyal Customers,0,0
+10500,30,Graduation,Partner,31761.0,1,96,7,98,1,2,2,5,At Risk,0,0
+1655,35,Graduation,Partner,34350.0,1,81,4,48,1,1,1,3,Hibernating,0,0
+2406,65,Graduation,Partner,54591.0,1,63,16,519,2,3,3,8,Loyal Customers,0,0
+2712,58,Graduation,Partner,71866.0,1,85,19,715,1,4,3,8,Loyal Customers,0,0
+5517,45,Graduation,Partner,25293.0,1,51,4,37,2,1,1,4,At Risk,0,0
+10643,27,PhD,Single,42000.0,0,23,18,653,4,3,3,10,Champions,0,1
+2254,31,Graduation,Partner,69520.0,0,95,20,1455,1,4,4,9,Loyal Customers,0,0
+10281,44,Graduation,Single,64713.0,1,11,17,602,4,3,3,10,Champions,0,1
+6958,37,Master,Partner,27889.0,1,42,4,26,3,1,1,5,At Risk,0,0
+954,54,Basic,Single,22123.0,0,77,6,102,1,2,2,5,At Risk,0,0
+4643,41,Graduation,Partner,27803.0,1,40,7,176,3,2,2,7,Potential Loyalists,0,0
+6497,54,Graduation,Partner,51651.0,1,32,13,433,3,3,3,9,Loyal Customers,0,0
+5396,26,Graduation,Partner,68487.0,0,48,29,1366,3,4,4,11,Champions,0,0
+1052,45,Graduation,Partner,56796.0,1,24,24,1001,4,4,3,11,Champions,0,0
+2802,22,2n Cycle,Partner,87000.0,0,61,17,961,2,3,3,8,Loyal Customers,0,0
+6343,55,Graduation,Partner,79823.0,1,6,22,1518,4,4,4,12,Champions,1,0
+6507,34,Graduation,Single,30828.0,1,16,6,56,4,2,1,7,Potential Loyalists,0,0
+7901,43,Master,Partner,34109.0,1,39,3,22,3,1,1,5,At Risk,0,0
+4865,40,Master,Single,53367.0,2,2,14,400,4,3,3,10,Champions,0,1
+2686,45,Basic,Partner,22390.0,0,49,3,26,3,1,1,5,At Risk,0,0
+3107,38,Graduation,Partner,71322.0,1,31,12,350,3,3,2,8,Loyal Customers,0,0
+7734,21,Graduation,Single,79244.0,0,58,21,1216,2,4,4,10,Champions,2,1
+1146,65,Master,Partner,49912.0,1,5,22,874,4,4,3,11,Champions,1,1
+11031,64,PhD,Partner,48699.0,2,90,4,40,1,1,1,3,Hibernating,0,0
+7428,39,Graduation,Partner,80144.0,0,47,18,1367,3,3,4,10,Champions,0,0
+975,58,Graduation,Single,54252.0,2,25,10,264,3,2,2,7,Potential Loyalists,0,0
+1103,38,Master,Partner,81929.0,1,60,18,2053,2,3,4,9,Loyal Customers,2,1
+3422,39,Graduation,Partner,76068.0,1,67,9,1376,2,2,4,8,Loyal Customers,2,0
+1055,38,Master,Partner,53204.0,2,40,4,45,3,1,1,5,At Risk,0,0
+6544,65,PhD,Partner,67911.0,1,63,24,976,2,4,3,9,Loyal Customers,0,0
+1241,30,2n Cycle,Partner,14796.0,1,1,4,51,4,1,1,6,Potential Loyalists,0,1
+2909,40,PhD,Partner,78128.0,1,89,18,1264,1,3,4,8,Loyal Customers,2,0
+5802,42,Basic,Partner,14188.0,0,40,6,75,3,2,2,7,Potential Loyalists,0,0
+1407,28,Basic,Partner,20425.0,1,5,5,57,4,1,1,6,Potential Loyalists,0,0
+6183,52,Master,Partner,58646.0,1,3,7,140,4,2,2,8,Loyal Customers,0,0
+340,44,Graduation,Single,72967.0,1,1,17,497,4,3,3,10,Champions,1,1
+5991,65,Master,Partner,48150.0,1,24,10,266,4,2,2,8,Loyal Customers,0,0
+3104,53,Graduation,Single,82332.0,0,89,20,2006,1,4,4,9,Loyal Customers,1,1
+9729,59,Graduation,Single,58275.0,2,48,17,615,3,3,3,9,Loyal Customers,0,0
+1008,33,PhD,Partner,44953.0,0,31,23,1021,3,4,3,10,Champions,1,0
+11091,61,Graduation,Partner,34587.0,2,68,4,22,2,1,1,4,At Risk,0,0
+3969,40,Master,Partner,43018.0,1,46,6,133,3,2,2,7,Potential Loyalists,0,0
+1916,60,Master,Partner,45736.0,1,92,14,437,1,3,3,7,Potential Loyalists,0,0
+9907,45,Master,Partner,66476.0,1,80,24,1013,1,4,3,8,Loyal Customers,0,0
+87,33,2n Cycle,Partner,27733.0,1,16,5,57,4,1,1,6,Potential Loyalists,0,0
+8659,62,PhD,Partner,69805.0,1,50,25,1038,2,4,3,9,Loyal Customers,0,0
+6262,52,Master,Single,72217.0,0,93,21,1573,1,4,4,9,Loyal Customers,0,0
+6147,43,Graduation,Single,25818.0,1,51,3,28,2,1,1,4,At Risk,0,0
+8832,38,Master,Partner,37509.0,1,24,7,123,4,2,2,8,Loyal Customers,0,0
+10067,38,2n Cycle,Partner,25176.0,2,79,3,13,1,1,1,3,Hibernating,0,0
+7532,34,Graduation,Partner,43586.0,1,26,7,132,3,2,2,7,Potential Loyalists,0,0
+4915,58,2n Cycle,Partner,53230.0,1,86,19,732,1,4,3,8,Loyal Customers,0,0
+2115,57,Graduation,Partner,50116.0,2,68,5,66,2,1,1,4,At Risk,1,0
+2088,42,Graduation,Partner,84906.0,0,98,23,1631,1,4,4,9,Loyal Customers,3,0
+2493,48,Graduation,Partner,61286.0,1,34,16,608,3,3,3,9,Loyal Customers,0,0
+6292,28,PhD,Partner,82333.0,0,60,17,1822,2,3,4,9,Loyal Customers,1,1
+1631,49,PhD,Partner,65220.0,0,3,19,1282,4,4,4,12,Champions,0,1
+10104,40,Graduation,Partner,33590.0,3,65,3,8,2,1,1,4,At Risk,0,0
+3006,38,Graduation,Single,30992.0,1,83,4,43,1,1,1,3,Hibernating,0,0
+3919,38,Master,Single,72309.0,0,64,19,1931,2,4,4,10,Champions,1,1
+642,34,Basic,Partner,16005.0,1,69,5,103,2,1,2,5,At Risk,0,0
+4369,57,Master,Single,65487.0,0,48,14,1169,3,3,4,10,Champions,0,0
+10127,49,Graduation,Partner,58692.0,1,21,14,395,4,3,2,9,Loyal Customers,0,0
+271,45,Graduation,Single,40590.0,2,30,10,258,3,2,2,7,Potential Loyalists,1,0
+4973,44,Graduation,Single,20587.0,1,39,4,25,3,1,1,5,At Risk,0,0
+2948,60,Master,Single,62637.0,1,76,9,185,1,2,2,5,At Risk,0,0
+2715,48,Master,Single,29435.0,2,11,7,180,4,2,2,8,Loyal Customers,0,1
+10432,40,Graduation,Single,19346.0,1,26,4,22,3,1,1,5,At Risk,0,0
+9216,43,Graduation,Partner,35788.0,2,34,5,44,3,1,1,5,At Risk,0,0
+7124,46,Graduation,Single,36997.0,2,72,7,94,2,2,2,6,Potential Loyalists,0,0
+9727,57,Graduation,Partner,23539.0,0,13,6,81,4,2,2,8,Loyal Customers,0,0
+5136,41,Graduation,Single,65333.0,1,58,21,798,2,4,3,9,Loyal Customers,2,0
+9790,57,Graduation,Single,78499.0,0,12,18,1334,4,3,4,11,Champions,1,1
+1818,43,PhD,Partner,29732.0,1,23,4,38,4,1,1,6,Potential Loyalists,0,0
+1100,54,Master,Partner,41275.0,3,33,7,61,3,2,1,6,Potential Loyalists,0,0
+7873,41,PhD,Partner,63516.0,2,30,12,300,3,3,2,8,Loyal Customers,0,0
+10609,52,PhD,Partner,42769.0,1,15,6,88,4,2,2,8,Loyal Customers,0,0
+6950,56,Master,Partner,49572.0,2,25,5,54,3,1,1,5,At Risk,0,0
+7233,42,Graduation,Partner,69209.0,0,4,14,1782,4,3,4,11,Champions,1,0
+9481,38,Graduation,Partner,17148.0,1,80,7,68,1,2,1,4,At Risk,0,0
+7699,45,Graduation,Single,40590.0,2,30,10,258,3,2,2,7,Potential Loyalists,1,0
+2711,38,Master,Partner,30560.0,1,6,4,31,4,1,1,6,Potential Loyalists,0,0
+8933,31,2n Cycle,Partner,32146.0,1,16,6,66,4,2,1,7,Potential Loyalists,0,0
+8726,50,2n Cycle,Single,41713.0,2,57,8,174,2,2,2,6,Potential Loyalists,0,0
+1515,39,Master,Partner,34176.0,1,9,4,28,4,1,1,6,Potential Loyalists,0,0
+5186,59,PhD,Partner,58482.0,1,59,20,731,2,4,3,9,Loyal Customers,1,0
+10157,49,Graduation,Single,59686.0,1,78,11,274,1,2,2,5,At Risk,0,0
+5667,50,PhD,Partner,60896.0,1,90,23,1701,1,4,4,9,Loyal Customers,0,1
+902,34,Graduation,Partner,62994.0,1,74,12,312,2,3,2,7,Potential Loyalists,0,0
+977,57,Graduation,Partner,47320.0,1,10,14,414,4,3,3,10,Champions,0,0
+7313,65,2n Cycle,Single,74859.0,0,63,22,1565,2,4,4,10,Champions,1,0
+7600,22,Basic,Single,15253.0,1,13,4,29,4,1,1,6,Potential Loyalists,0,0
+9706,40,PhD,Single,31560.0,1,98,6,94,1,2,2,5,At Risk,0,0
+2429,60,Graduation,Single,72071.0,1,4,17,1338,4,3,4,11,Champions,0,0
+3520,24,Master,Single,91172.0,0,94,14,1092,1,3,4,8,Loyal Customers,4,1
+10394,30,Graduation,Partner,90000.0,0,91,17,1479,1,3,4,8,Loyal Customers,3,0
+4548,33,Graduation,Single,41967.0,2,66,4,54,2,1,1,4,At Risk,0,0
+9362,49,Graduation,Single,69263.0,1,14,17,568,4,3,3,10,Champions,1,0
+3968,44,2n Cycle,Single,65706.0,0,77,26,1199,1,4,4,9,Loyal Customers,3,1
+4084,39,Graduation,Partner,60934.0,1,41,21,873,3,4,3,10,Champions,0,0
+6721,63,Graduation,Partner,71965.0,1,21,14,1213,4,3,4,11,Champions,0,0
+2829,59,Graduation,Partner,65210.0,1,25,20,731,3,4,3,10,Champions,2,0
+1772,39,PhD,Partner,79174.0,0,2,18,2043,4,3,4,11,Champions,2,1
+1544,47,Master,Single,81380.0,0,51,16,1893,2,3,4,9,Loyal Customers,0,0
+492,41,PhD,Single,48432.0,1,3,14,424,4,3,3,10,Champions,0,0
+4377,43,Graduation,Partner,52914.0,1,32,13,575,3,3,3,9,Loyal Customers,1,0
+4541,59,Graduation,Partner,38946.0,1,84,10,257,1,2,2,5,At Risk,0,0
+1321,40,Graduation,Partner,26067.0,1,49,6,56,3,2,1,6,Potential Loyalists,0,0
+8858,42,PhD,Partner,44325.0,1,69,17,542,2,3,3,8,Loyal Customers,1,0
+3266,50,Graduation,Partner,42523.0,0,96,6,125,1,2,2,5,At Risk,0,0
+11187,36,Basic,Single,26487.0,1,23,6,69,4,2,2,8,Loyal Customers,0,0
+8207,57,2n Cycle,Partner,53233.0,1,18,4,40,4,1,1,6,Potential Loyalists,0,0
+9723,54,Graduation,Partner,67716.0,1,8,24,1016,4,4,3,11,Champions,1,0
+2666,42,Master,Partner,76234.0,1,21,22,907,4,4,3,11,Champions,1,0
+5721,58,PhD,Partner,84117.0,0,60,23,1566,2,4,4,10,Champions,1,0
+10652,57,Master,Partner,65487.0,0,48,14,1169,3,3,4,10,Champions,0,0
+1646,42,Basic,Partner,25224.0,1,36,5,46,3,1,1,5,At Risk,0,0
+4418,31,Master,Single,89616.0,0,36,24,1644,3,4,4,11,Champions,0,1
+2656,43,Graduation,Single,40851.0,2,63,4,59,2,1,1,4,At Risk,0,0
+7990,67,Graduation,Partner,27469.0,0,2,3,17,4,1,1,6,Potential Loyalists,0,0
+8722,57,2n Cycle,Partner,82347.0,0,38,24,1853,3,4,4,11,Champions,2,1
+7118,57,Graduation,Partner,73803.0,1,61,20,1528,2,4,4,10,Champions,1,1
+2980,62,Master,Single,8820.0,2,52,6,35,2,2,1,5,At Risk,0,0
+1839,40,Graduation,Single,43322.0,0,25,7,141,3,2,2,7,Potential Loyalists,0,0
+10722,41,Graduation,Partner,55593.0,1,63,15,546,2,3,3,8,Loyal Customers,1,0
+2632,60,Graduation,Partner,50501.0,2,10,13,500,4,3,3,10,Champions,1,1
+9014,39,Graduation,Partner,37085.0,2,65,6,61,2,2,1,5,At Risk,0,0
+7620,24,Basic,Single,16185.0,1,71,6,106,2,2,2,6,Potential Loyalists,0,0
+10968,45,Graduation,Single,57731.0,1,0,22,704,4,4,3,11,Champions,0,0
+11133,41,PhD,Single,48432.0,1,3,14,424,4,3,3,10,Champions,0,1
+2736,36,Graduation,Partner,73807.0,1,88,21,849,1,4,3,8,Loyal Customers,0,0
+1876,24,Graduation,Partner,18929.0,0,15,5,85,4,1,2,7,Potential Loyalists,0,0
+5959,46,Graduation,Single,35893.0,2,80,9,199,1,2,2,5,At Risk,0,0
+1092,34,Graduation,Partner,61014.0,1,17,16,1147,4,3,4,11,Champions,0,0
+4333,60,Graduation,Partner,32144.0,2,76,6,54,1,2,1,4,At Risk,1,0
+3850,51,Basic,Partner,14918.0,1,52,4,43,2,1,1,4,At Risk,0,0
+6168,51,Graduation,Single,45146.0,2,28,4,53,3,1,1,5,At Risk,0,0
+607,59,2n Cycle,Single,41769.0,1,31,16,521,3,3,3,9,Loyal Customers,0,0
+10469,33,Graduation,Partner,88325.0,0,42,17,1623,3,3,4,10,Champions,0,0
+6983,64,Master,Single,38054.0,2,24,5,45,4,1,1,6,Potential Loyalists,0,0
+3661,19,2n Cycle,Single,80617.0,0,42,18,1435,3,3,4,10,Champions,0,0
+9303,38,Graduation,Partner,5305.0,1,12,1,32,4,1,1,6,Potential Loyalists,0,0
+692,60,Graduation,Partner,36807.0,2,88,3,16,1,1,1,3,Hibernating,0,0
+736,31,Graduation,Partner,28427.0,1,67,5,52,2,1,1,4,At Risk,0,0
+9589,66,PhD,Single,82032.0,0,54,17,1234,2,3,4,9,Loyal Customers,0,0
+4838,36,Graduation,Partner,22775.0,1,40,3,15,3,1,1,5,At Risk,0,0
+9246,29,Master,Partner,40101.0,1,73,13,415,2,3,3,8,Loyal Customers,0,0
+6261,35,Graduation,Partner,58025.0,1,81,15,470,1,3,3,7,Potential Loyalists,0,0
+7366,32,Master,Single,75777.0,0,12,20,1438,4,4,4,12,Champions,2,1
+10659,35,2n Cycle,Partner,7500.0,1,7,7,53,4,2,1,7,Potential Loyalists,0,0
+1448,51,Master,Partner,33562.0,3,33,6,51,3,2,1,6,Potential Loyalists,0,0
+4286,44,PhD,Single,57642.0,1,24,19,679,4,4,3,11,Champions,1,0
+4749,46,Graduation,Partner,58554.0,2,55,16,586,2,3,3,8,Loyal Customers,0,0
+4478,35,Graduation,Partner,63777.0,2,87,18,653,1,3,3,7,Potential Loyalists,0,0
+4201,52,Graduation,Single,57967.0,1,39,14,468,3,3,3,9,Loyal Customers,0,0
+10084,42,Graduation,Partner,24434.0,2,9,5,50,4,1,1,6,Potential Loyalists,0,0
+7004,30,Graduation,Single,11012.0,1,82,6,84,1,2,2,5,At Risk,1,0
+9817,44,Master,Single,44802.0,0,71,25,1049,2,4,4,10,Champions,0,0
+8080,28,Graduation,Single,26816.0,0,50,3,22,2,1,1,4,At Risk,0,0
+8372,40,Graduation,Partner,34421.0,1,81,3,30,1,1,1,3,Hibernating,0,0
+10870,47,Graduation,Partner,61223.0,1,46,16,1341,3,3,4,10,Champions,0,0
+4001,68,PhD,Partner,64014.0,3,56,15,444,2,3,3,8,Loyal Customers,1,0
+7270,33,Graduation,Single,56981.0,0,91,18,1241,1,3,4,8,Loyal Customers,1,0
+8235,58,Master,Partner,69245.0,1,8,21,843,4,4,3,11,Champions,0,0
+9405,60,PhD,Partner,52869.0,2,40,8,172,3,2,2,7,Potential Loyalists,0,1

@@ -1,0 +1,6 @@
+Segment,customers,avg_recency,avg_frequency,avg_monetary,response_rate,pct
+Champions,533,27.73,20.26,1235.55,0.3,24.2
+Loyal Customers,632,54.93,16.07,847.11,0.16,28.6
+Potential Loyalists,498,43.53,8.07,220.79,0.11,22.6
+At Risk,420,62.64,5.5,82.08,0.04,19.0
+Hibernating,124,86.4,4.19,39.92,0.01,5.6
