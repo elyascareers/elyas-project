@@ -3,130 +3,177 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Elyas Zulqarnain &mdash; Data Analytics Portfolio</title>
+<title>Elyas Zulqarnain — AI & Data Portfolio</title>
+<meta name="description" content="Elyas Zulqarnain — applied-AI builder and aspiring data analyst. Agentic AI product development, plus foundational Power BI data projects.">
 <style>
-  :root{ --bg:#0f1720; --card:#182430; --ink:#e8eef4; --muted:#9fb0c0; --accent:#e1812c; --blue:#3274a1; --line:#26333f; }
+  :root{--bg:#0f1720;--card:#182430;--ink:#e8eef4;--muted:#9fb0c0;--accent:#e1812c;--line:#26333f;--chip:#1e2b38}
   *{box-sizing:border-box}
-  body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
-       background:var(--bg);color:var(--ink);line-height:1.6}
-  a{color:#7db6e6;text-decoration:none}
-  a:hover{text-decoration:underline}
-  .wrap{max-width:960px;margin:0 auto;padding:0 20px}
-  header{padding:64px 0 40px;border-bottom:1px solid var(--line)}
-  header h1{margin:0 0 8px;font-size:2.2rem}
-  header p{margin:0;color:var(--muted);font-size:1.1rem}
-  .tag{display:inline-block;margin-top:14px;padding:4px 12px;border:1px solid var(--line);
-       border-radius:20px;color:var(--muted);font-size:.85rem}
-  section{padding:44px 0;border-bottom:1px solid var(--line)}
-  h2{font-size:1.4rem;margin:0 0 18px}
-  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:24px;margin-bottom:22px}
-  .card h3{margin:0 0 6px;font-size:1.25rem}
-  .card .sub{color:var(--muted);font-size:.92rem;margin-bottom:14px}
-  ul{margin:10px 0 16px;padding-left:20px}
-  li{margin:4px 0}
-  .charts{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:16px 0}
-  .charts img{width:100%;border-radius:8px;background:#fff;padding:6px}
-  .btns{display:flex;flex-wrap:wrap;gap:10px;margin-top:16px}
-  .btn{display:inline-block;padding:9px 16px;border-radius:8px;border:1px solid var(--line);
-       background:#1e2b38;color:var(--ink);font-size:.9rem}
+  html{scroll-behavior:smooth}
+  body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.6}
+  a{color:#7db6e6;text-decoration:none}a:hover{text-decoration:underline}
+  .wrap{max-width:980px;margin:0 auto;padding:0 20px}
+  /* nav */
+  nav{position:sticky;top:0;z-index:40;background:rgba(15,23,32,.9);backdrop-filter:blur(6px);border-bottom:1px solid var(--line)}
+  nav .wrap{display:flex;align-items:center;justify-content:space-between;height:56px}
+  nav .name{font-weight:700;color:var(--ink)}
+  nav .links{display:flex;gap:18px}
+  nav .links a{color:var(--muted);font-size:.9rem}
+  nav .links a:hover{color:var(--ink);text-decoration:none}
+  @media(max-width:560px){nav .links{gap:12px}nav .links a:nth-child(3){display:none}}
+  /* hero */
+  header{padding:64px 0 44px;border-bottom:1px solid var(--line)}
+  .eyebrow{color:var(--accent);font-weight:600;letter-spacing:.04em;text-transform:uppercase;font-size:.8rem;margin:0 0 10px}
+  header h1{margin:0 0 14px;font-size:2.3rem;line-height:1.15}
+  header h1 .grad{color:var(--accent)}
+  .pitch{margin:0;color:var(--muted);font-size:1.12rem;max-width:62ch}
+  .meta{margin-top:16px;color:var(--muted);font-size:.92rem}
+  .cta{margin-top:22px;display:flex;gap:10px;flex-wrap:wrap}
+  .btn{display:inline-block;padding:10px 18px;border-radius:8px;border:1px solid var(--line);background:var(--chip);color:var(--ink);font-size:.92rem}
   .btn.primary{background:var(--accent);border-color:var(--accent);color:#1a1206;font-weight:600}
   .btn:hover{text-decoration:none;opacity:.92}
-  .soon{opacity:.6}
-  .soon .pill{font-size:.75rem;border:1px dashed var(--muted);padding:2px 8px;border-radius:12px;color:var(--muted)}
-  .about p{margin:0 0 14px}
-  footer{padding:34px 0 60px;color:var(--muted);font-size:.9rem}
-  @media(max-width:640px){.charts{grid-template-columns:1fr}}
+  section{padding:46px 0;border-bottom:1px solid var(--line)}
+  h2{font-size:1.4rem;margin:0 0 6px}
+  .lead{color:var(--muted);margin:0 0 22px}
+  .skillgroup{margin-bottom:18px}
+  .skillgroup h3{font-size:.95rem;margin:0 0 8px}
+  .skillgroup h3 small{color:var(--muted);font-weight:400}
+  .badges{display:flex;flex-wrap:wrap;gap:8px}
+  .badge{background:var(--chip);border:1px solid var(--line);border-radius:20px;padding:5px 13px;font-size:.85rem;color:var(--muted)}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:24px;margin-bottom:22px}
+  .card h3{margin:0 0 4px;font-size:1.2rem}
+  .card .sub{color:var(--muted);font-size:.9rem;margin-bottom:16px}
+  .star{margin:0 0 6px}
+  .star b{display:inline-block;min-width:78px;color:var(--accent);font-size:.8rem;text-transform:uppercase;letter-spacing:.03em;vertical-align:top}
+  .star span{color:var(--ink)}
+  .charts{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:16px 0 4px}
+  .charts img{width:100%;aspect-ratio:16/9;object-fit:contain;border-radius:8px;background:#fff;padding:6px}
+  .btns{display:flex;flex-wrap:wrap;gap:10px;margin-top:16px}
+  .about p{margin:0 0 14px;max-width:72ch}
+  footer{padding:32px 0 90px;color:var(--muted);font-size:.9rem}
+  .sticky{position:fixed;right:18px;bottom:18px;z-index:50;background:var(--accent);color:#1a1206;font-weight:600;padding:12px 18px;border-radius:30px;box-shadow:0 6px 20px rgba(0,0,0,.35);font-size:.92rem}
+  .sticky:hover{text-decoration:none;opacity:.95}
+  @media(max-width:640px){header h1{font-size:1.85rem}.charts{grid-template-columns:1fr}.star b{display:block;min-width:0;margin-bottom:2px}}
 </style>
 </head>
 <body>
+<nav><div class="wrap"><span class="name">Elyas Zulqarnain</span>
+  <span class="links"><a href="#skills">Skills</a><a href="#projects">Projects</a><a href="#about">About</a><a id="nav-contact" href="#">Contact</a></span>
+</div></nav>
+
 <header>
   <div class="wrap">
-    <h1>Elyas Zulqarnain</h1>
-    <p>From operations to analytics &mdash; turning real-world data into clear, useful answers.</p>
-    <span class="tag">Power BI &middot; Excel &middot; SQL &middot; Data storytelling</span>
+    <p class="eyebrow">Applied-AI builder &middot; Aspiring data analyst</p>
+    <h1 id="pitch-name"></h1>
+    <p class="pitch" id="pitch-text"></p>
+    <p class="meta" id="pitch-meta"></p>
+    <div class="cta">
+      <a class="btn primary" href="#projects">View projects</a>
+      <a class="btn" id="pitch-email" href="#">Email me</a>
+    </div>
   </div>
 </header>
 
-<section>
-  <div class="wrap">
-    <h2>Projects</h2>
+<section id="skills"><div class="wrap">
+  <h2>Skills</h2>
+  <p class="lead">An honest view, by area and level.</p>
+  <div id="skills-root"></div>
+</div></section>
 
-    <div class="card">
-      <h3>1 &middot; Cyclistic Bike-Share Analysis</h3>
-      <div class="sub">Google Data Analytics capstone &middot; built end-to-end in Power BI</div>
-      <p><strong>Question:</strong> How do annual members and casual riders use the bikes differently?</p>
-      <ul>
-        <li><strong>Members</strong> = 91.4% of rides, but short (~13 min) weekday trips &rarr; commuters.</li>
-        <li><strong>Casual</strong> riders = 8.6%, but far longer (~23 min median) trips, mostly weekends &rarr; leisure/tourists.</li>
-        <li>Casual riding peaks at lakefront/tourist stations and grows into spring.</li>
-      </ul>
-      <div class="charts">
-        <img src="Final_Output/Charts/03_rides_by_weekday.png" alt="Rides by day of week">
-        <img src="Final_Output/Charts/02_ridelength_by_type.png" alt="Ride length by user type">
-      </div>
-      <div class="btns">
-        <a class="btn primary" href="https://github.com/elyascareers/elyas-project/blob/main/Final_Output/Cyclistic_Report.md">Read the full report</a>
-        <a class="btn" href="https://github.com/elyascareers/elyas-project/blob/main/Documentation/Process_Documentation.md">Process documentation</a>
-      </div>
-    </div>
+<section id="projects"><div class="wrap">
+  <h2>Projects</h2>
+  <p class="lead">Each project: the problem, what I did, and the result.</p>
+  <div id="projects-root"></div>
+</div></section>
 
-    <div class="card">
-      <h3>2 &middot; Customer Segmentation (RFM)</h3>
-      <div class="sub">Digital marketing / e-commerce &middot; built end-to-end in Power BI</div>
-      <p><strong>Question:</strong> How do we segment customers so marketing can target the right people?</p>
-      <ul>
-        <li><strong>Champions</strong> (24% of customers) respond to campaigns at <strong>30%</strong>; Hibernating (6%) at 1%.</li>
-        <li>Response rate tracks customer value almost perfectly &mdash; a small group drives most responses.</li>
-        <li>Wine &amp; meat dominate spend; the physical store is the top channel.</li>
-      </ul>
-      <div class="charts">
-        <img src="digital-marketing/Final_Output/Charts/02_response_by_segment.png" alt="Response rate by segment">
-        <img src="digital-marketing/Final_Output/Charts/01_segment_sizes.png" alt="Customers per segment">
-      </div>
-      <div class="btns">
-        <a class="btn primary" href="https://github.com/elyascareers/elyas-project/blob/main/digital-marketing/Final_Output/Marketing_Report.md">Read the full report</a>
-        <a class="btn" href="https://github.com/elyascareers/elyas-project/blob/main/digital-marketing/Documentation/Process_Documentation.md">Process documentation</a>
-      </div>
-    </div>
+<section id="about"><div class="wrap about">
+  <h2>About</h2>
+  <div id="about-root"></div>
+</div></section>
 
-    <div class="card">
-      <h3>3 &middot; Applied / Agentic AI</h3>
-      <div class="sub">Directing AI agents to build software &amp; automate content</div>
-      <p>Not just <em>using</em> AI &mdash; I direct AI agents to research, build, test, ship, and run real products and content pipelines, with human-in-the-loop gates before anything irreversible.</p>
-      <ul>
-        <li>A governed build pipeline that shipped owned products: <strong>StockSafe, SafeRent, Zetranova Finance Portal, SocialManager, Stitchbook</strong>, and a School Management System.</li>
-        <li>A <strong>4-agent scheduled content pipeline</strong> with a human approval gate and retry guardrails.</li>
-        <li>Custom Claude skills, connectors/MCPs, prompt engineering, and AI governance.</li>
-      </ul>
-      <div class="btns">
-        <a class="btn primary" href="https://github.com/elyascareers/elyas-project/blob/main/ai-project/Final_Output/AI_Report.md">Read the case study</a>
-        <a class="btn" href="https://github.com/elyascareers/elyas-project/blob/main/ai-project/Documentation/AI_Methodology.md">Methodology guide</a>
-      </div>
-    </div>
-  </div>
-</section>
+<footer><div class="wrap" id="footer-root"></div></footer>
+<a class="sticky" id="sticky-contact" href="#">&#9993; Contact</a>
 
-<section>
-  <div class="wrap about">
-    <h2>About</h2>
-    <p>I'm Elyas Zulqarnain &mdash; an administrative and operations professional with over 10 years of
-       experience across education, real estate, and public-sector organizations, in roles from
-       branch manager to school administrator. I hold a B.Sc. in Marketing from the University of
-       Cape Coast, and I've recently completed Google's <strong>Data Analytics</strong> and
-       <strong>Digital Marketing &amp; E-commerce</strong> Professional Certificates.</p>
-    <p>Years of running teams, workflows, and reporting taught me that good decisions start with
-       clear information. I'm now bringing that operations mindset to data &mdash; building hands-on
-       projects that turn messy, real-world data into findings people can actually act on. This
-       portfolio is where I share that work as I grow into a data career. Based in Abu Dhabi, UAE,
-       and open to data analytics and related roles.</p>
-  </div>
-</section>
-
-<footer>
-  <div class="wrap">
-    GitHub: <a href="https://github.com/elyascareers/elyas-project">github.com/elyascareers</a>
-    &nbsp;&middot;&nbsp; Email: <a href="mailto:elyas.careers@gmail.com">elyas.careers@gmail.com</a>
-  </div>
-</footer>
+<script>
+/* ===================== EDIT YOUR CONTENT HERE ===================== */
+const DATA = {
+  profile: {
+    name: "Elyas Zulqarnain",
+    pitch: "I'm most confident with applied AI — directing AI agents to research, build, ship, and automate real projects — and I'm building foundational data-analytics skills on top of 10+ years in operations and administration.",
+    meta: "Abu Dhabi, UAE · Google-certified in Data Analytics and Digital Marketing & E-commerce.",
+    email: "elyas.careers@gmail.com",
+    github: "https://github.com/elyascareers/elyas-project"
+  },
+  skills: [
+    { group: "AI & Automation", level: "upper-intermediate", items: ["Agentic AI (Claude Code)","Prompt engineering","Custom Claude skills","MCP connectors","AI content pipelines","AI governance / safety"] },
+    { group: "Data & Analytics", level: "foundational / learning", items: ["Power BI (basics)","Excel","SQL (basic)","Data cleaning","RFM segmentation"] },
+    { group: "Tools & Delivery", level: "working", items: ["Git & GitHub","Render","Markdown","Accessibility basics (WCAG)"] }
+  ],
+  projects: [
+    {
+      title: "1 · Applied / Agentic AI",
+      sub: "Directing AI agents to build software & automate content",
+      situation: "Building and running digital products and content by hand is slow, and un-governed AI output can be risky.",
+      action: "Set up a governed pipeline that directs AI agents to research, build, test and ship, plus a scheduled multi-agent content pipeline with a human approval gate and retry guardrails.",
+      result: "Helped produce owned products — StockSafe, SafeRent, Zetranova Finance Portal, SocialManager, Stitchbook, a School Management System — and a self-running weekly content operation.",
+      images: [],
+      links: [
+        {label:"Read case study", href:"https://github.com/elyascareers/elyas-project/blob/main/ai-project/Final_Output/AI_Report.md", primary:true},
+        {label:"Methodology", href:"https://github.com/elyascareers/elyas-project/blob/main/ai-project/Documentation/AI_Methodology.md"},
+        {label:"GitHub", href:"https://github.com/elyascareers/elyas-project/tree/main/ai-project"}
+      ]
+    },
+    {
+      title: "2 · Customer Segmentation (RFM)",
+      sub: "Digital marketing / e-commerce · learning project in Power BI",
+      situation: "In a sample dataset, only ~15% of marketing campaigns got a response, so most budget reached people who don't buy.",
+      action: "Cleaned ~2,200 customer records and built a basic RFM segmentation (Recency, Frequency, Monetary), grouping customers into five segments.",
+      result: "Champions (24% of customers) responded at 30% vs 1% for the least-active group — pointing to focusing budget on top segments and a win-back offer.",
+      images: ["digital-marketing/Final_Output/Charts/02_response_by_segment.png","digital-marketing/Final_Output/Charts/01_segment_sizes.png"],
+      links: [
+        {label:"View report", href:"https://github.com/elyascareers/elyas-project/blob/main/digital-marketing/Final_Output/Marketing_Report.md", primary:true},
+        {label:"GitHub", href:"https://github.com/elyascareers/elyas-project/tree/main/digital-marketing"}
+      ]
+    },
+    {
+      title: "3 · Cyclistic Bike-Share Analysis",
+      sub: "Data analytics · Google capstone-style learning project in Power BI",
+      situation: "A bike-share company wanted to understand how casual riders and annual members use the bikes differently.",
+      action: "Cleaned and merged trip data from two different schema versions in Power BI, added ride-length and date fields, and visualized the patterns.",
+      result: "Members mostly take short weekday trips (commuting) while casual riders take longer weekend/leisure trips — with three membership recommendations.",
+      images: ["Final_Output/Charts/03_rides_by_weekday.png","Final_Output/Charts/02_ridelength_by_type.png"],
+      links: [
+        {label:"View report", href:"https://github.com/elyascareers/elyas-project/blob/main/Final_Output/Cyclistic_Report.md", primary:true},
+        {label:"GitHub", href:"https://github.com/elyascareers/elyas-project"}
+      ]
+    }
+  ],
+  about: [
+    "I'm Elyas Zulqarnain — an administrative and operations professional with 10+ years of experience (branch manager, school administrator, and more), a B.Sc. in Marketing, and Google's Data Analytics and Digital Marketing & E-commerce certificates.",
+    "My strongest area right now is applied AI: I'm comfortable directing AI agents to build and automate real work, at an upper-intermediate level. Alongside that I'm building foundational data-analytics skills through hands-on projects. Based in Abu Dhabi, UAE, and open to AI, data, and operations roles."
+  ]
+};
+/* ================================================================= */
+const esc = s => String(s).replace(/[&<>]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+document.getElementById('pitch-name').innerHTML = esc(DATA.profile.name).replace(/(\S+)$/, '<span class="grad">$1</span>');
+document.getElementById('pitch-text').textContent = DATA.profile.pitch;
+document.getElementById('pitch-meta').textContent = DATA.profile.meta;
+const mail = "mailto:" + DATA.profile.email;
+["pitch-email","sticky-contact","nav-contact"].forEach(id=>document.getElementById(id).href = mail);
+document.getElementById('skills-root').innerHTML = DATA.skills.map(g =>
+  `<div class="skillgroup"><h3>${esc(g.group)} <small>&mdash; ${esc(g.level)}</small></h3><div class="badges">${
+    g.items.map(i=>`<span class="badge">${esc(i)}</span>`).join('')}</div></div>`).join('');
+document.getElementById('projects-root').innerHTML = DATA.projects.map(p => `
+  <div class="card">
+    <h3>${esc(p.title)}</h3><div class="sub">${esc(p.sub)}</div>
+    <p class="star"><b>Problem</b><span>${esc(p.situation)}</span></p>
+    <p class="star"><b>Action</b><span>${esc(p.action)}</span></p>
+    <p class="star"><b>Result</b><span>${esc(p.result)}</span></p>
+    ${p.images&&p.images.length?`<div class="charts">${p.images.map(s=>`<img loading="lazy" src="${esc(s)}" alt="${esc(p.title)} chart">`).join('')}</div>`:''}
+    <div class="btns">${p.links.map(l=>`<a class="btn ${l.primary?'primary':''}" href="${esc(l.href)}">${esc(l.label)}</a>`).join('')}</div>
+  </div>`).join('');
+document.getElementById('about-root').innerHTML = DATA.about.map(t=>`<p>${esc(t)}</p>`).join('');
+document.getElementById('footer-root').innerHTML =
+  `Email: <a href="${mail}">${esc(DATA.profile.email)}</a> &nbsp;&middot;&nbsp; GitHub: <a href="${esc(DATA.profile.github)}">github.com/elyascareers</a>`;
+</script>
 </body>
 </html>
