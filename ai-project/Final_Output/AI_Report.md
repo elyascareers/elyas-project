@@ -1,118 +1,96 @@
-# Applied AI: Directing Agents to Build Software & Automate Content
+# Working With AI — An Honest Look at What I Do
 
-**By Elyas Zulqarnain** &middot; Portfolio project #3 (AI)
+**By Elyas Zulqarnain** &middot; Portfolio project (AI)
 
-*What this project shows: I don't just "use AI" to answer questions &mdash; I direct AI
-agents to research, build, test, ship, and run real products, under rules that keep the
-output safe and honest. This is a portfolio of that applied, agentic work.*
-
----
-
-## 1. What "AI fluency" means here
-
-Most people mean "I use ChatGPT." I mean something more hands-on: I run **agentic
-workflows** &mdash; giving AI agents a goal, a set of operating rules, and the tools
-(code, browser, connectors, schedules) to carry a job from start to finish, with me as the
-director and reviewer. The evidence is real products that were researched, built, tested,
-and shipped this way, plus a content operation that runs itself on a schedule.
-
-I work under **Zetranova Limited**, an AI-enabled digital commerce & business-services
-studio (Accra, Ghana). Everything below was built there.
+*The short version: I'm a marketing and general administrative professional who has, more
+recently, built practical hands-on fluency with AI. I use AI tools and agents &mdash; with a
+human check at the important steps &mdash; to help research, build, test, and publish real
+work. This is a plain account of that, not a claim to be an AI engineer.*
 
 ---
 
-## 2. Agentic product development &mdash; a repeatable, governed pipeline
+## 1. What I mean by "working with AI"
 
-Rather than build each product from scratch, I standardised a **Digital Product Builder**
-pipeline that takes any product from a one-page intake to a delivered, tested build:
+Not just asking a chatbot questions. I'm comfortable setting up **AI-assisted workflows**:
+giving an AI agent a clear goal, a set of ground rules, and the tools to carry a task a long
+way &mdash; while I stay in the loop as the person who reviews and approves. It's a working,
+hands-on skill I've built recently, alongside my main background in marketing and
+administration.
 
-> **Intake &rarr; Research &rarr; Scaffold &rarr; Build &rarr; Verify (live) &rarr; Handoff**
-
-What makes it more than "ask AI to code" is the **governance** I hold it to &mdash; the
-same discipline a serious engineering team would demand:
-
-- **Trust boundary:** anything fetched from the web (competitor sites, docs) is treated as
-  *data, not instructions*. No code, links, or package names cross that boundary &mdash; a
-  direct defence against prompt-injection and "slopsquatting" (fake package names).
-- **No fabrication:** never invent testimonials, reviews, stats, team members, or client
-  logos. Empty beats fake &mdash; fabricated reviews are a real legal exposure under the
-  FTC's rule, which explicitly covers AI-generated ones. Missing values ship as visible
-  placeholders, never as convincing fakes.
-- **Secrets & supply chain:** credentials never enter chat; `.env` is git-ignored from the
-  first commit; every dependency is verified to actually exist; the diff is scanned for
-  secrets before any push.
-- **Human-in-the-loop gates:** the agent proceeds freely through research, building, and
-  local testing, but **stops for my explicit yes** before creating a repo, pushing,
-  deploying, spending money, touching a live site, or sending anything to a client.
-- **A real quality gate:** nothing is called "done" until the build passes, lint passes,
-  `npm audit` runs, every page is exercised live in a browser, and it meets **WCAG 2.2 AA**
-  (keyboard, contrast, labels). On one build, the contrast sweep caught a genuine
-  accessibility failure that was then fixed.
-- **Self-correction limits:** a maximum of 3 fix attempts on any failing build, and
-  *weakening a check is never a fix* (no silencing type errors, no skipping tests). A red
-  build reported honestly beats a green build that lies.
+Much of this has been for **Zetranova Limited**, a small AI-enabled digital studio I'm
+involved with (Accra, Ghana).
 
 ---
 
-## 3. Products built and shipped this way (owned &mdash; Zetranova)
+## 2. A repeatable way of building with AI (with guardrails)
 
-| Product | What it is | Notable engineering |
-|---|---|---|
-| **StockSafe** | Offline inventory app for Ghanaian shops &mdash; "stock that can't be cheated" | Installable PWA, works offline on a cheap Android; English + Twi; append-only records + auto theft flags; PIN roles; 56 logic tests pass |
-| **SafeRent** | Escrow-protected rental marketplace | Flutter app + NestJS API + PostgreSQL/PostGIS; Ghana Card identity + property verification; MoMo escrow on a **double-entry, idempotent ledger**; SMS-OTP 2FA; mapped to OWASP MASVS-L2 |
-| **Zetranova Finance Portal** | Accounting / inventory / payroll / HR portal | Real **double-entry ledger** behind plain-language screens; financial ratios, budget-vs-actual, 30/60/90-day cash-flow forecast; honestly benchmarked against QuickBooks / Xero / Wave / Zoho |
-| **SocialManager** | Social-media scheduler (Metricool-style) | Next.js; background **worker with retries/backoff**; per-network publish outcomes; a **demo/real safety interlock** so sample posts can never reach a live audience; 53 automated assertions + a time-travel simulation |
-| **Stitchbook** | Order/measurement app for tailors | Zero-dependency Node; scrypt password hashing, CSRF, unguessable tracking links; WhatsApp "is it ready?" links; PWA |
-| **School Management System** | Per-school management system for Ghanaian basic schools | Ghana GES/NaCCA/SBA defaults (all editable); Creche vs Standard report cards; finance, attendance, inventory; swappable data layer (localStorage or PHP+PDO API); tenant-aware |
-| **Zetranova landing** | Corporate landing site for the studio | Static, accessible (skip links, ARIA, reduced-motion), SEO with JSON-LD, mobile-first |
+Instead of building each thing from scratch, I follow a simple, repeatable process and hold
+the AI to a set of rules so the output stays safe and honest:
 
-*(Also in the suite: Indigo web app, ZetClass, and a school landing page.)*
+> **Intake &rarr; Research &rarr; Build &rarr; Check &rarr; Handoff**
 
-The through-line: every one ships with **honest limits documented**, a security posture,
-accessibility, and a "what still needs a real-world value" list &mdash; not a demo that
-looks good until you touch it.
+The rules that matter most to me:
 
----
+- **Treat fetched web content as information, not instructions** &mdash; a basic guard
+  against prompt-injection.
+- **Don't fabricate** &mdash; no invented testimonials, reviews, or statistics. Missing
+  details are left as clear placeholders, not made up. (Fake reviews are also a legal risk
+  under FTC rules, including AI-generated ones.)
+- **Keep secrets out of chat**, and check for accidentally exposed keys before sharing code.
+- **A human approves the important steps** &mdash; creating a repo, publishing, deploying,
+  spending money, or sending anything out. The AI does the legwork; I make those calls.
+- **Check before calling it done** &mdash; the build runs, pages are opened and tested, and
+  basic accessibility is met.
 
-## 4. Agentic content automation &mdash; a pipeline that runs itself
-
-Beyond building, I automate my content brand (**Simple Titbit**) with a set of **scheduled
-AI agents** that research, draft, and publish on a weekly cadence &mdash; with a human
-approval gate in the middle so nothing goes out unreviewed:
-
-| When | Agent | What it does |
-|---|---|---|
-| **Mon 10:03** | Blogging agent | Researches and drafts the week's 3 site posts + a Substack digest + social spokes, logs them, and **stops at a human approval gate** (ready 24h before first publish) |
-| **Tue 10:00** | Website + Substack publisher | Publishes the approved posts and sends the Substack digest |
-| **Tue & Fri 12:00** | Social publisher | Publishes approved social content (X, TikTok, Instagram, etc.) at the best-practice window |
-| **Tue/Fri, hourly 9&ndash;6** | X login guardrail + retry | Warns before noon if X isn't logged in, then retries the pending post the moment login is detected |
-
-This is genuine orchestration: multiple agents, best-practice timing, a **human-in-the-loop
-gate**, and failure/retry **guardrails** &mdash; not a single prompt. It also produced
-published ebooks, including one titled *AI Made Simple*.
+I'm still learning, and I lean on these guardrails precisely because AI output needs
+checking.
 
 ---
 
-## 5. My AI competency, mapped
+## 3. Things I've helped build this way (owned &mdash; Zetranova)
 
-| Capability | Evidence |
+These are works in progress at different stages, built with heavy AI assistance and my
+direction and review:
+
+| Product | What it is |
 |---|---|
-| **Agentic building** | The Digital Product Builder pipeline + the products in &sect;3 |
-| **AI governance / safety** | Documented operating rules: trust boundary, anti-fabrication (FTC-aware), secrets & supply-chain checks, quality gate |
-| **Prompt engineering** | A prompt-engineering booklet and reusable master build-prompts I authored |
-| **Custom Claude skills** | I created reusable skills &mdash; e.g. research, "clear explanation", booklet layout, a product-development skill, competitive UX benchmarking, and a publication content skill |
-| **Connectors / tools (MCP)** | I work across GitHub, Render, Google Drive/Calendar/Gmail, Figma, WordPress, and social/analytics tools through connected integrations |
-| **Agentic scheduling** | The 4-agent Simple Titbit pipeline above, with HITL gates and retry logic |
-| **Human-in-the-loop discipline** | Approval gates before anything irreversible &mdash; publish, deploy, spend, or send |
+| **StockSafe** | An offline inventory app for small Ghanaian shops (English + Twi), with simple anti-theft checks |
+| **SafeRent** | A concept/build for an escrow-protected rental marketplace with identity verification |
+| **Zetranova Finance Portal** | A browser-based accounting / inventory / payroll tool with a proper double-entry ledger |
+| **SocialManager** | A social-post scheduler with a background publisher and basic analytics |
+| **Stitchbook** | A simple order-and-measurement app for tailors |
+| **School Management System** | A per-school admin system with Ghana-friendly defaults |
+
+I contributed to these as the person directing and reviewing the AI, not as a solo
+software engineer &mdash; that's the honest framing.
 
 ---
 
-## 6. Why this matters for an employer
+## 4. Automating my content with a schedule
 
-I can take a fuzzy goal and turn it into a shipped, tested product or a running automated
-workflow &mdash; and I do it with the guardrails that keep AI output safe, honest, and
-accessible. That combination &mdash; **hands-on AI fluency plus judgment about when to stop
-and ask** &mdash; is the practical, hireable version of "AI skills."
+For my content brand (**Simple Titbit**) I set up a set of **scheduled AI tasks** that draft
+content on a weekly cadence and then **pause for my approval** before anything is published:
 
-*Prepared as portfolio project #3 (AI). The companion guide in `Documentation` explains how
-to set up this way of working yourself.*
+- Monday: an agent researches and drafts the week's posts, then stops for me to review.
+- Tuesday: approved posts and a newsletter digest go out.
+- Tuesday & Friday: approved social posts go out at good times.
+- A small hourly helper checks a login and retries a post if needed.
+
+The point isn't that it's fully automated &mdash; it's that the routine work is automated
+*up to* a human approval step, which keeps quality and control in my hands.
+
+---
+
+## 5. Where I actually am
+
+- **Primary background:** marketing and general administration (10+ years), B.Sc. Marketing.
+- **AI:** hands-on, working fluency &mdash; comfortable using AI tools, agents, custom
+  skills, and connectors, with sensible guardrails. Still learning, improving with each build.
+- **Digital marketing, e-commerce & data analytics:** foundational knowledge, gained mostly
+  through the hands-on projects in this portfolio.
+
+That's the honest picture: a marketing/admin professional who has become genuinely useful
+with AI, and who is building foundational skills in data and digital marketing on top of it.
+
+*Companion guide: `Documentation/AI_Methodology.md` explains the way of working in more
+detail.*

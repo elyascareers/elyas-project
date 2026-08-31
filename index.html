@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Elyas Zulqarnain — AI & Data Portfolio</title>
-<meta name="description" content="Elyas Zulqarnain — applied-AI builder and aspiring data analyst. Agentic AI product development, plus foundational Power BI data projects.">
+<title>Elyas Zulqarnain — Portfolio</title>
+<meta name="description" content="Elyas Zulqarnain — marketing and general administrative professional, with hands-on AI fluency and foundational knowledge of digital marketing, e-commerce, and data analytics.">
 <style>
   :root{--bg:#0f1720;--card:#182430;--ink:#e8eef4;--muted:#9fb0c0;--accent:#e1812c;--line:#26333f;--chip:#1e2b38}
   *{box-sizing:border-box}
@@ -62,7 +62,7 @@
 
 <header>
   <div class="wrap">
-    <p class="eyebrow">Applied-AI builder &middot; Aspiring data analyst</p>
+    <p class="eyebrow">Marketing &amp; administrative professional</p>
     <h1 id="pitch-name"></h1>
     <p class="pitch" id="pitch-text"></p>
     <p class="meta" id="pitch-meta"></p>
@@ -98,33 +98,33 @@
 const DATA = {
   profile: {
     name: "Elyas Zulqarnain",
-    pitch: "I'm most confident with applied AI — directing AI agents to research, build, ship, and automate real projects — and I'm building foundational data-analytics skills on top of 10+ years in operations and administration.",
-    meta: "Abu Dhabi, UAE · Google-certified in Data Analytics and Digital Marketing & E-commerce.",
+    pitch: "I'm a marketing and general administrative professional with 10+ years of experience in operations, branch management, and school administration. More recently I've built practical, hands-on fluency with AI, and gained foundational knowledge of digital marketing, e-commerce, and data analytics.",
+    meta: "Abu Dhabi, UAE · B.Sc. Marketing · Google certificates in Data Analytics and Digital Marketing & E-commerce.",
     email: "elyas.careers@gmail.com",
     github: "https://github.com/elyascareers/elyas-project"
   },
   skills: [
-    { group: "AI & Automation", level: "upper-intermediate", items: ["Agentic AI (Claude Code)","Prompt engineering","Custom Claude skills","MCP connectors","AI content pipelines","AI governance / safety"] },
-    { group: "Data & Analytics", level: "foundational / learning", items: ["Power BI (basics)","Excel","SQL (basic)","Data cleaning","RFM segmentation"] },
-    { group: "Tools & Delivery", level: "working", items: ["Git & GitHub","Render","Markdown","Accessibility basics (WCAG)"] }
+    { group: "Marketing & Administration", level: "10+ years", items: ["Operations management","Branch & school administration","Team leadership","Workflow coordination","Stakeholder management","Customer service","Marketing fundamentals"] },
+    { group: "AI & Automation", level: "hands-on / working", items: ["Working with AI tools & agents","Prompt engineering","Custom Claude skills","Connectors (MCP)","AI-assisted workflows","AI safety awareness"] },
+    { group: "Foundational (learning)", level: "digital marketing, e-commerce & data", items: ["Power BI (basics)","Excel","SQL (basic)","RFM segmentation","Data cleaning","Digital marketing & e-commerce basics"] },
+    { group: "Tools", level: "working", items: ["Git & GitHub","Render","MS Office","Markdown"] }
   ],
   projects: [
     {
-      title: "1 · Applied / Agentic AI",
-      sub: "Directing AI agents to build software & automate content",
-      situation: "Building and running digital products and content by hand is slow, and un-governed AI output can be risky.",
-      action: "Set up a governed pipeline that directs AI agents to research, build, test and ship, plus a scheduled multi-agent content pipeline with a human approval gate and retry guardrails.",
-      result: "Helped produce owned products — StockSafe, SafeRent, Zetranova Finance Portal, SocialManager, Stitchbook, a School Management System — and a self-running weekly content operation.",
-      images: [],
+      title: "1 · Cyclistic Bike-Share Analysis",
+      sub: "Data analytics · Google capstone-style learning project (Power BI)",
+      situation: "A bike-share company wanted to understand how casual riders and annual members use the bikes differently.",
+      action: "Cleaned and merged trip data from two different schema versions in Power BI, added ride-length and date fields, and visualized the patterns.",
+      result: "Members mostly take short weekday trips (commuting) while casual riders take longer weekend/leisure trips — with three membership recommendations.",
+      images: ["Final_Output/Charts/03_rides_by_weekday.png","Final_Output/Charts/02_ridelength_by_type.png"],
       links: [
-        {label:"Read case study", href:"https://github.com/elyascareers/elyas-project/blob/main/ai-project/Final_Output/AI_Report.md", primary:true},
-        {label:"Methodology", href:"https://github.com/elyascareers/elyas-project/blob/main/ai-project/Documentation/AI_Methodology.md"},
-        {label:"GitHub", href:"https://github.com/elyascareers/elyas-project/tree/main/ai-project"}
+        {label:"View report", href:"https://github.com/elyascareers/elyas-project/blob/main/Final_Output/Cyclistic_Report.md", primary:true},
+        {label:"GitHub", href:"https://github.com/elyascareers/elyas-project"}
       ]
     },
     {
       title: "2 · Customer Segmentation (RFM)",
-      sub: "Digital marketing / e-commerce · learning project in Power BI",
+      sub: "Digital marketing / e-commerce · learning project (Power BI)",
       situation: "In a sample dataset, only ~15% of marketing campaigns got a response, so most budget reached people who don't buy.",
       action: "Cleaned ~2,200 customer records and built a basic RFM segmentation (Recency, Frequency, Monetary), grouping customers into five segments.",
       result: "Champions (24% of customers) responded at 30% vs 1% for the least-active group — pointing to focusing budget on top segments and a win-back offer.",
@@ -135,21 +135,22 @@ const DATA = {
       ]
     },
     {
-      title: "3 · Cyclistic Bike-Share Analysis",
-      sub: "Data analytics · Google capstone-style learning project in Power BI",
-      situation: "A bike-share company wanted to understand how casual riders and annual members use the bikes differently.",
-      action: "Cleaned and merged trip data from two different schema versions in Power BI, added ride-length and date fields, and visualized the patterns.",
-      result: "Members mostly take short weekday trips (commuting) while casual riders take longer weekend/leisure trips — with three membership recommendations.",
-      images: ["Final_Output/Charts/03_rides_by_weekday.png","Final_Output/Charts/02_ridelength_by_type.png"],
+      title: "3 · Working with AI",
+      sub: "Hands-on with AI tools & agents",
+      situation: "Doing digital work by hand is slow, and AI output needs a human check to be safe and accurate.",
+      action: "I set up AI-assisted workflows — using AI agents with a human approval step to help research, build, test, and publish — and created reusable AI skills and connectors.",
+      result: "Contributed to building owned products (StockSafe, SafeRent, Zetranova Finance Portal, SocialManager, Stitchbook, a School Management System) and a scheduled content workflow.",
+      images: [],
       links: [
-        {label:"View report", href:"https://github.com/elyascareers/elyas-project/blob/main/Final_Output/Cyclistic_Report.md", primary:true},
-        {label:"GitHub", href:"https://github.com/elyascareers/elyas-project"}
+        {label:"Read case study", href:"https://github.com/elyascareers/elyas-project/blob/main/ai-project/Final_Output/AI_Report.md", primary:true},
+        {label:"How I work with AI", href:"https://github.com/elyascareers/elyas-project/blob/main/ai-project/Documentation/AI_Methodology.md"},
+        {label:"GitHub", href:"https://github.com/elyascareers/elyas-project/tree/main/ai-project"}
       ]
     }
   ],
   about: [
-    "I'm Elyas Zulqarnain — an administrative and operations professional with 10+ years of experience (branch manager, school administrator, and more), a B.Sc. in Marketing, and Google's Data Analytics and Digital Marketing & E-commerce certificates.",
-    "My strongest area right now is applied AI: I'm comfortable directing AI agents to build and automate real work, at an upper-intermediate level. Alongside that I'm building foundational data-analytics skills through hands-on projects. Based in Abu Dhabi, UAE, and open to AI, data, and operations roles."
+    "I'm Elyas Zulqarnain, a marketing and general administrative professional with 10+ years of experience — including roles as a branch manager and school administrator — and a B.Sc. in Marketing.",
+    "More recently I've focused on building practical, hands-on fluency with AI, using AI tools and agents to help get real work done. I also hold Google certificates and have foundational, hands-on knowledge of digital marketing, e-commerce, and data analytics through the projects below. Based in Abu Dhabi, UAE, and open to marketing, operations/administration, and AI-related roles."
   ]
 };
 /* ================================================================= */
