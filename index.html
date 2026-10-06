@@ -118,21 +118,22 @@
 const DATA = {
   profile: {
     name: "Elyas Zulqarnain",
-    pitch: "I'm a marketing and general administrative professional with 10+ years of experience in operations, branch management, and school administration. More recently I've built practical, hands-on fluency with AI, and gained foundational knowledge of digital marketing, e-commerce, and data analytics.",
-    meta: "Abu Dhabi, UAE · B.Sc. Marketing · Google certificates in Data Analytics and Digital Marketing & E-commerce.",
+    pitch: "I'm a marketing and administrative professional with 10+ years of experience in operations, branch management, and school administration. I have foundational skills in digital marketing, e-commerce, and basic data analysis, and working AI fluency that supports each of them.",
+    meta: "Abu Dhabi, UAE · B.Sc. Marketing · Google certificates in Data Analytics, Digital Marketing & E-commerce, and Prompting Essentials · No-Code AI for Business Professionals (Sep 2026).",
     email: "elyas.careers@gmail.com",
     github: "https://github.com/elyascareers/elyas-project"
   },
   skills: [
     { group: "Marketing & Administration", level: "10+ years", items: ["Operations management","Branch & school administration","Team leadership","Workflow coordination","Stakeholder management","Customer service","Marketing fundamentals"] },
-    { group: "AI & Automation", level: "hands-on / working", items: ["Working with AI tools & agents","Prompt engineering","Custom Claude skills","Connectors (MCP)","AI-assisted workflows","AI safety awareness"] },
-    { group: "Foundational (learning)", level: "digital marketing, e-commerce & data", items: ["Power BI (basics)","Excel","SQL (basic)","RFM segmentation","Data cleaning","Digital marketing & e-commerce basics"] },
-    { group: "Tools", level: "working", items: ["Git & GitHub","Render","MS Office","Markdown"] }
+    { group: "Digital Marketing & E-commerce", level: "foundational, learning by doing", items: ["Content & newsletter marketing","SEO basics","GA4 & Search Console basics","Social scheduling (Metricool)","Ebook store (Payhip)","RACE framework"] },
+    { group: "Data Analytics", level: "basic, used to support business decisions", items: ["Excel & Google Sheets","SQL (basic)","Power BI (basics)","Data cleaning","Charts & reporting","Reading performance reports"] },
+    { group: "AI Fluency", level: "working / intermediate", items: ["Prompt design","Custom Claude skills & connectors","Knowledge base (RAG) setup","No-code AI automation (Notion AI, Zapier, Make)","Human-approval workflows","Checking AI output before use"] },
+    { group: "Tools", level: "working", items: ["GitHub & Render","MS Office","Google Workspace"] }
   ],
   projects: [
     {
       title: "1 · Cyclistic Bike-Share Analysis",
-      sub: "Data analytics · Google capstone-style learning project (Power BI)",
+      sub: "Data analytics · Google capstone, a learning project in Power BI",
       situation: "A bike-share company wanted to understand how casual riders and annual members use the bikes differently.",
       action: "Cleaned and merged trip data from two different schema versions in Power BI, added ride-length and date fields, and visualized the patterns.",
       result: "Members mostly take short weekday trips (commuting) while casual riders take longer weekend/leisure trips — with three membership recommendations.",
@@ -143,34 +144,34 @@ const DATA = {
       ]
     },
     {
-      title: "2 · Customer Segmentation (RFM)",
-      sub: "Digital marketing / e-commerce · learning project (Power BI)",
-      situation: "In a sample dataset, only ~15% of marketing campaigns got a response, so most budget reached people who don't buy.",
-      action: "Cleaned ~2,200 customer records and built a basic RFM segmentation (Recency, Frequency, Monetary), grouping customers into five segments.",
-      result: "Champions (24% of customers) responded at 30% vs 1% for the least-active group — pointing to focusing budget on top segments and a win-back offer.",
-      images: ["digital-marketing/Final_Output/Charts/02_response_by_segment.png","digital-marketing/Final_Output/Charts/01_segment_sizes.png"],
+      title: "2 · Simple Titbit (ongoing since July 2026)",
+      sub: "Digital marketing & e-commerce · a real project I run and learn from",
+      situation: "Build an audience and start selling digital products from nothing, as a solo creator with no budget.",
+      action: "I run a weekly content plan across a website, a Substack newsletter, and social media, with SEO basics on every post. I published three ebooks on a Payhip store and promoted them on four platforms. I track results with GA4, Search Console, and a private dashboard I had built, and review a weekly report to decide what to fix next. AI helps with drafting, and I approve everything before it goes out.",
+      result: "24+ website posts and a weekly newsletter so far, with three ebooks on sale. The audience is still small and early results are weak, which has taught me first-hand how traffic, search visibility, and sales connect. I paused social posting on purpose to build a reliable website, newsletter, and ebook pipeline first, and will restart it once those are stable.",
+      images: [],
       links: [
-        {label:"View report", href:"https://github.com/elyascareers/elyas-project/blob/main/digital-marketing/Final_Output/Marketing_Report.md", primary:true},
-        {label:"GitHub", href:"https://github.com/elyascareers/elyas-project/tree/main/digital-marketing"}
+        {label:"Website", href:"https://www.simpletitbit.com", primary:true},
+        {label:"Newsletter", href:"https://simpletitbit.substack.com"},
+        {label:"Ebook store", href:"https://payhip.com/simpletitbit"}
       ]
     },
     {
-      title: "3 · Working with AI",
-      sub: "Hands-on with AI tools & agents",
-      situation: "Doing digital work by hand is slow, and AI output needs a human check to be safe and accurate.",
-      action: "I set up AI-assisted workflows — using AI agents with a human approval step to help research, build, test, and publish — and created reusable AI skills and connectors.",
-      result: "Contributed to building owned products (StockSafe, SafeRent, Zetranova Finance Portal, SocialManager, Stitchbook, a School Management System) and a scheduled content workflow.",
+      title: "3 · Directing AI to build working web products",
+      sub: "AI fluency · built by directing AI tools, with no code written by me",
+      situation: "Small businesses and schools need simple digital tools, and I don't write code.",
+      action: "I described what was needed in plain language, directed AI tools (Claude, and Kimi for one app) to build it, tested each version in a browser and on a phone, and sent back fixes. I handled the GitHub and Render hosting decisions and kept written guides so any AI tool can continue the work.",
+      result: "Built and deployed: MyStore (an offline shop-records app with Google Drive backup), a finance and inventory portal, and the ZenPen and FalahTrust websites. Earlier prototypes include StockSafe, SafeRent, Stitchbook, and a school management system.",
       images: [],
       links: [
-        {label:"Read case study", href:"https://github.com/elyascareers/elyas-project/blob/main/ai-project/Final_Output/AI_Report.md", primary:true},
-        {label:"How I work with AI", href:"https://github.com/elyascareers/elyas-project/blob/main/ai-project/Documentation/AI_Methodology.md"},
-        {label:"GitHub", href:"https://github.com/elyascareers/elyas-project/tree/main/ai-project"}
+        {label:"MyStore (live app)", href:"https://mystore-kant.onrender.com", primary:true},
+        {label:"MyStore code", href:"https://github.com/datatitbit/MyStore"}
       ]
     }
   ],
   about: [
-    "I'm Elyas Zulqarnain, a marketing and general administrative professional with 10+ years of experience — including roles as a branch manager and school administrator — and a B.Sc. in Marketing.",
-    "More recently I've focused on building practical, hands-on fluency with AI, using AI tools and agents to help get real work done. I also hold Google certificates and have foundational, hands-on knowledge of digital marketing, e-commerce, and data analytics through the projects below. Based in Abu Dhabi, UAE, and open to marketing, operations/administration, and AI-related roles."
+    "I'm Elyas Zulqarnain, a marketing and administrative professional with 10+ years of experience, including roles as a branch manager and school administrator, and a B.Sc. in Marketing.",
+    "My recent focus is building foundational skills in digital marketing, e-commerce, and data analysis, and using AI tools to support that work. I learn by running real projects, such as Simple Titbit, and I'm open about what is still early or unfinished. Based in Abu Dhabi, UAE, and open to marketing, operations/administration, and AI-related roles."
   ]
 };
 /* ================================================================= */
