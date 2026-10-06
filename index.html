@@ -64,6 +64,7 @@
   .charts img{width:100%;aspect-ratio:16/9;object-fit:contain;border-radius:8px;background:#fff;padding:6px}
   .btns{display:flex;flex-wrap:wrap;gap:10px;margin-top:16px}
   .about p{margin:0 0 14px;max-width:72ch}
+  .built{margin:12px 0 0;padding-left:20px}.built li{margin-bottom:6px}
   footer{padding:32px 0 90px;color:var(--muted);font-size:.9rem}
   .sticky{position:fixed;right:18px;bottom:18px;z-index:50;background:var(--accent);color:#1a1206;font-weight:600;padding:12px 18px;border-radius:30px;box-shadow:0 6px 20px rgba(0,0,0,.35);font-size:.92rem;opacity:0;transform:translateY(12px);pointer-events:none;transition:opacity .2s,transform .2s}
   .sticky.show{opacity:1;transform:translateY(0);pointer-events:auto}
@@ -128,7 +129,8 @@ const DATA = {
     { group: "Digital Marketing & E-commerce", level: "foundational, learning by doing", items: ["Content & newsletter marketing","SEO basics","GA4 & Search Console basics","Social scheduling (Metricool)","Ebook store (Payhip)","RACE framework"] },
     { group: "Data Analytics", level: "basic, used to support business decisions", items: ["Excel & Google Sheets","SQL (basic)","Power BI (basics)","Data cleaning","Charts & reporting","Reading performance reports"] },
     { group: "AI Fluency", level: "working / intermediate", items: ["Prompt design","Custom Claude skills & connectors","Knowledge base (RAG) setup","No-code AI automation (Notion AI, Zapier, Make)","Human-approval workflows","Checking AI output before use"] },
-    { group: "Tools", level: "working", items: ["GitHub & Render","MS Office","Google Workspace"] }
+    { group: "No-Code AI Building & Deploying", level: "working", items: ["Building sites & apps by directing AI","Domain & DNS setup (Namecheap)","Hosting (Namecheap cPanel, Render)","GitHub: repos, commits & updates","Updating & redeploying live sites","Testing before launch"] },
+    { group: "Tools", level: "working", items: ["MS Office","Google Workspace"] }
   ],
   projects: [
     {
@@ -157,14 +159,21 @@ const DATA = {
       ]
     },
     {
-      title: "3 · Directing AI to build working web products",
-      sub: "AI fluency · built by directing AI tools, with no code written by me",
+      title: "3 · Building and running websites and apps with no-code AI",
+      sub: "No-code AI · built and deployed by directing AI tools, with no code written by me",
       situation: "Small businesses and schools need simple digital tools, and I don't write code.",
-      action: "I described what was needed in plain language, directed AI tools (Claude, and Kimi for one app) to build it, tested each version in a browser and on a phone, and sent back fixes. I handled the GitHub and Render hosting decisions and kept written guides so any AI tool can continue the work.",
-      result: "Built and deployed: MyStore (an offline shop-records app with Google Drive backup), a finance and inventory portal, and the ZenPen and FalahTrust websites. Earlier prototypes include StockSafe, SafeRent, Stitchbook, and a school management system.",
+      action: "I described what was needed in plain language and directed AI tools (Claude, and Kimi for one app) to build it. I tested each version in a browser and on a phone, sent back fixes, and handled the domain, hosting, GitHub and redeploy steps with AI guidance, keeping written guides so any AI tool can continue the work.",
+      result: "Four examples are below. Earlier prototypes (StockSafe, SafeRent, Stitchbook, and a school management system) are not listed.",
+      built: [
+        "Simple Titbit website: a static blog on its own domain (simpletitbit.com), with domain and hosting on Namecheap, code on GitHub, and a weekly update routine.",
+        "ZenPen website: an online store site for electronics, fashion and beauty, live on its own domain (zenpengh.com), with code on GitHub.",
+        "MyStore: an offline-first shop-records app with Google Drive backup, deployed on Render from GitHub, with updates tested on a branch before going live.",
+        "Zetranova Finance Portal: a finance, inventory and payroll prototype, deployed on Render from GitHub."
+      ],
       images: [],
       links: [
         {label:"MyStore (live app)", href:"https://mystore-kant.onrender.com", primary:true},
+        {label:"ZenPen site", href:"https://zenpengh.com"},
         {label:"MyStore code", href:"https://github.com/datatitbit/MyStore"}
       ]
     }
@@ -191,6 +200,7 @@ document.getElementById('projects-root').innerHTML = DATA.projects.map(p => `
     <p class="star"><b>Problem</b><span>${esc(p.situation)}</span></p>
     <p class="star"><b>Action</b><span>${esc(p.action)}</span></p>
     <p class="star"><b>Result</b><span>${esc(p.result)}</span></p>
+    ${p.built&&p.built.length?`<ul class="built">${p.built.map(b=>`<li>${esc(b)}</li>`).join('')}</ul>`:''}
     ${p.images&&p.images.length?`<div class="charts">${p.images.map(s=>`<img loading="lazy" src="${esc(s)}" alt="${esc(p.title)} chart">`).join('')}</div>`:''}
     <div class="btns">${p.links.map(l=>`<a class="btn ${l.primary?'primary':''}" href="${esc(l.href)}"${isExternal(l.href)?' target="_blank" rel="noopener noreferrer"':''}>${esc(l.label)}${isExternal(l.href)?' <span aria-hidden="true">&#8599;</span>':''}</a>`).join('')}</div>
   </div>`).join('');
