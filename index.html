@@ -13,42 +13,45 @@
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Elyas Zulqarnain — Portfolio">
 <meta name="twitter:description" content="Entry-level digital marketing and e-commerce professional with a B.Sc. in Marketing, foundational data analytics skills, working AI fluency, and 10+ years of operations experience.">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%230f1720'/%3E%3Ctext x='32' y='44' font-family='system-ui,Segoe UI,Arial,sans-serif' font-size='34' font-weight='700' fill='%23e1812c' text-anchor='middle'%3EE%3C/text%3E%3C/svg%3E">
+<meta name="color-scheme" content="light">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%231d4ed8'/%3E%3Ctext x='32' y='44' font-family='system-ui,Segoe UI,Arial,sans-serif' font-size='34' font-weight='700' fill='%23ffffff' text-anchor='middle'%3EE%3C/text%3E%3C/svg%3E">
 <style>
-  /* Colour roles (60-30-10): background = 60%, text/cards/borders = 30%, orange accent = 10% and ONLY for buttons and links. */
-  :root{--bg:#0f1720;--card:#172431;--ink:#eef3f8;--muted:#a9b8c6;--line:#2d3b49;--chip:#1e2d3b;--accent:#e1812c;--accent-hover:#eb9344;--on-accent:#1a1206;--r:10px;--r-sm:8px}
+  /* Light, high-contrast theme. White/soft-grey surfaces, near-black text, one blue accent (links and buttons only).
+     Contrast: text #1a2230 on #fff = 16:1; muted #4a5568 on #fff = 7.5:1; accent #1d4ed8 on #fff = 6.7:1. */
+  :root{--bg:#ffffff;--soft:#f5f7fa;--card:#ffffff;--ink:#1a2230;--muted:#4a5568;--line:#d9dee6;--chip:#eef2f7;--accent:#1d4ed8;--accent-hover:#1e40af;--on-accent:#ffffff;--r:12px;--r-sm:8px}
   *{box-sizing:border-box}
   html{scroll-behavior:smooth}
   body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:1.0625rem;line-height:1.65;background:var(--bg);color:var(--ink)}
-  a{color:var(--accent);text-decoration:none;text-underline-offset:3px}
-  a:hover{text-decoration:underline}
-  a:active{opacity:.8}
-  :focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:4px}
+  a{color:var(--accent);text-underline-offset:3px}
+  a:hover{color:var(--accent-hover)}
+  :focus-visible{outline:3px solid var(--accent);outline-offset:3px;border-radius:4px}
   .wrap{max-width:1040px;margin:0 auto;padding:0 24px}
+  .sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
   .skip-link{position:absolute;left:-9999px;top:0;background:var(--accent);color:var(--on-accent);font-weight:600;padding:10px 16px;border-radius:0 0 var(--r-sm) 0;z-index:100}
   .skip-link:focus{left:0}
   /* nav */
-  nav{position:sticky;top:0;z-index:40;background:rgba(15,23,32,.94);backdrop-filter:blur(6px);border-bottom:1px solid var(--line)}
+  nav{position:sticky;top:0;z-index:40;background:rgba(255,255,255,.96);backdrop-filter:blur(6px);border-bottom:1px solid var(--line)}
   nav .wrap{display:flex;align-items:center;justify-content:space-between;min-height:60px}
   nav .name{font-weight:700}
   nav .links{display:flex;gap:4px}
-  nav .links a{color:var(--muted);font-size:.95rem;padding:10px 12px;border-radius:var(--r-sm)}
-  nav .links a:hover{color:var(--accent);text-decoration:none}
-  /* hero (Z pattern: name top-left, links top-right, pitch, then actions bottom-left) */
-  header{padding:96px 0 72px;border-bottom:1px solid var(--line)}
-  .eyebrow{color:var(--muted);font-weight:600;letter-spacing:.08em;text-transform:uppercase;font-size:.8rem;margin:0 0 14px}
+  nav .links a{display:inline-flex;align-items:center;min-height:44px;color:var(--muted);font-size:.95rem;padding:10px 12px;border-radius:var(--r-sm);text-decoration:none}
+  nav .links a:hover{color:var(--accent);background:var(--chip)}
+  /* hero */
+  header{padding:96px 0 72px;background:var(--soft);border-bottom:1px solid var(--line)}
+  .eyebrow{color:var(--accent);font-weight:700;letter-spacing:.08em;text-transform:uppercase;font-size:.8rem;margin:0 0 14px}
   header h1{margin:0 0 20px;font-size:clamp(2.2rem,5.5vw,3.4rem);line-height:1.08;font-weight:800;letter-spacing:-.02em}
-  .pitch{margin:0;color:var(--muted);font-size:1.2rem;line-height:1.6;max-width:60ch}
+  .pitch{margin:0;color:var(--ink);font-size:1.2rem;line-height:1.6;max-width:60ch}
   .meta{margin:20px 0 0;color:var(--muted);font-size:.95rem;max-width:70ch}
   .cta{margin-top:32px;display:flex;gap:12px;flex-wrap:wrap}
-  /* buttons: one style for every button */
-  .btn{display:inline-flex;align-items:center;justify-content:center;gap:6px;min-height:44px;padding:10px 20px;border-radius:var(--r);border:1px solid var(--line);background:var(--chip);color:var(--ink);font:inherit;font-size:.95rem;font-weight:600;cursor:pointer;transition:background .15s,border-color .15s,transform .15s}
-  .btn:hover{border-color:var(--accent);text-decoration:none}
+  /* buttons */
+  .btn{display:inline-flex;align-items:center;justify-content:center;gap:6px;min-height:44px;padding:10px 20px;border-radius:var(--r);border:1px solid var(--line);background:var(--bg);color:var(--ink);font:inherit;font-size:.95rem;font-weight:600;cursor:pointer;text-decoration:none;transition:background .15s,border-color .15s,transform .15s}
+  .btn:hover{border-color:var(--accent);color:var(--accent)}
   .btn:active{transform:translateY(1px)}
   .btn.primary{background:var(--accent);border-color:var(--accent);color:var(--on-accent)}
-  .btn.primary:hover{background:var(--accent-hover);border-color:var(--accent-hover)}
+  .btn.primary:hover{background:var(--accent-hover);border-color:var(--accent-hover);color:var(--on-accent)}
   /* sections */
   section{padding:72px 0;border-bottom:1px solid var(--line);scroll-margin-top:60px}
+  section.alt{background:var(--soft)}
   h2{font-size:1.85rem;line-height:1.2;font-weight:700;margin:0 0 8px;letter-spacing:-.01em}
   .lead{color:var(--muted);font-size:1.05rem;margin:0 0 36px}
   #skills-root{display:grid;grid-template-columns:repeat(2,1fr);gap:32px 48px}
@@ -57,7 +60,7 @@
   .badges{display:flex;flex-wrap:wrap;gap:8px}
   .badge{background:var(--chip);border:1px solid var(--line);border-radius:var(--r-sm);padding:6px 12px;font-size:.9rem;color:var(--ink)}
   /* project cards */
-  .card{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:32px;margin-bottom:28px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:32px;margin-bottom:28px;box-shadow:0 1px 2px rgba(26,34,48,.04)}
   .card h3{margin:0 0 6px;font-size:1.35rem;line-height:1.3;font-weight:700}
   .card .sub{color:var(--muted);font-size:.95rem;margin:0 0 6px}
   .card .role{color:var(--muted);font-size:.95rem;margin:0 0 22px}
@@ -70,13 +73,13 @@
   .points li:last-child{margin-bottom:0}
   .star .points+.points,.star p+.points{margin-top:12px}
   .charts{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:8px 0 4px}
-  .charts img{width:100%;height:auto;aspect-ratio:16/9;object-fit:contain;border-radius:var(--r-sm);background:#fff;padding:6px}
+  .charts img{width:100%;height:auto;aspect-ratio:16/9;object-fit:contain;border-radius:var(--r-sm);background:#fff;border:1px solid var(--line);padding:6px}
   .btns{display:flex;flex-wrap:wrap;gap:12px;margin-top:20px;padding-top:20px;border-top:1px solid var(--line)}
   .about p{margin:0 0 16px;max-width:68ch;font-size:1.05rem}
-  footer{padding:40px 0 100px;color:var(--muted);font-size:.95rem}
+  footer{padding:40px 0 100px;color:var(--muted);font-size:.95rem;background:var(--soft)}
   footer .wrap{display:flex;flex-wrap:wrap;align-items:center;gap:12px 24px}
   #copy-status{color:var(--ink);font-size:.9rem;min-height:1.2em}
-  .sticky{position:fixed;right:18px;bottom:18px;z-index:50;box-shadow:0 6px 20px rgba(0,0,0,.35);opacity:0;transform:translateY(12px);pointer-events:none;transition:opacity .2s,transform .2s}
+  .sticky{position:fixed;right:18px;bottom:18px;z-index:50;box-shadow:0 6px 20px rgba(26,34,48,.25);opacity:0;transform:translateY(12px);pointer-events:none;transition:opacity .2s,transform .2s}
   .sticky.show{opacity:1;transform:translateY(0);pointer-events:auto}
   @media(max-width:760px){#skills-root{grid-template-columns:1fr;gap:28px}.star{grid-template-columns:1fr;gap:6px}.card{padding:24px 20px}}
   @media(max-width:640px){section{padding:52px 0}header{padding:64px 0 48px}.charts{grid-template-columns:1fr}.wrap{padding:0 18px}}
@@ -111,7 +114,7 @@
   <noscript><p>This page needs JavaScript to show its content. You can reach me at elyas.careers@gmail.com.</p></noscript>
 </div></section>
 
-<section id="projects"><div class="wrap">
+<section id="projects" class="alt"><div class="wrap">
   <h2>Projects</h2>
   <p class="lead">Each project: my role, the problem, what I did, and the result.</p>
   <div id="projects-root"></div>
@@ -138,8 +141,8 @@ const DATA = {
   },
   skills: [
     { group: "Marketing & Administration", level: "10+ years", items: ["Operations management","Branch & school administration","Team leadership","Workflow coordination","Stakeholder management","Customer service","Marketing fundamentals"] },
-    { group: "Digital Marketing & E-commerce", level: "foundational, learning by doing", items: ["Content & newsletter marketing","SEO basics","GA4 & Search Console basics","Social scheduling (Metricool)","Ebook store (Payhip)","RACE framework"] },
-    { group: "Data Analytics", level: "basic, used to support business decisions", items: ["Excel & Google Sheets","SQL (basic)","Power BI (basics)","Data cleaning","Charts & reporting","Reading performance reports"] },
+    { group: "Digital Marketing & E-commerce", level: "foundational, learning by doing", items: ["Content & newsletter marketing","SEO basics","GA4 & Search Console basics","Social scheduling (Metricool)","Ebook store (Payhip)","RACE framework","Customer segmentation (RFM)"] },
+    { group: "Data Analytics", level: "basic, used to support business decisions", items: ["Excel & Google Sheets","SQL (basic)","Power BI & Power Query (basics)","DAX measures (basic)","Data cleaning","Charts & reporting","Reading performance reports"] },
     { group: "AI Fluency", level: "working / intermediate", items: ["Prompt design","Custom Claude skills I set up with AI","Connectors (MCP) to Gmail, Drive, GitHub & Render","Company knowledge base (RAG), set up & maintained","No-code AI automation (Notion AI, Zapier, Make)","Human-approval workflows","Checking AI output before use"] },
     { group: "No-Code AI Building & Deploying", level: "working", items: ["Building sites & apps by directing AI","Domain & DNS setup (Namecheap)","Hosting (Namecheap cPanel, Render)","GitHub: repos, commits & updates","Updating & redeploying live sites","Testing before launch"] },
     { group: "Tools", level: "working", items: ["MS Office","Google Workspace"] }
@@ -191,19 +194,36 @@ const DATA = {
     },
     {
       title: "3 · Cyclistic Bike-Share Analysis",
-      sub: "Data analytics · Google capstone, a learning project in Power BI",
-      role: "Analyst (learning project)",
-      situation: "A bike-share company wanted to understand how casual riders and annual members use the bikes differently.",
+      sub: "Data analytics · Google Data Analytics capstone, Power BI",
+      role: "Analyst (course capstone, completed with guidance)",
+      situation: "A bike-share company wanted to understand how casual riders and annual members use its bikes differently, so marketing could convert casual riders into members.",
       action: [
-        "Cleaned and merged trip data from two different schema versions in Power BI.",
-        "Added ride-length and date fields.",
-        "Built charts comparing member and casual riders."
+        "Imported Q1 2019 and Q1 2020 trip files into Power Query as separate queries, because their column names differed.",
+        "Renamed and standardised columns, removed fields not found in both files, and combined the tables with Append Queries.",
+        "Created a ride-length column and removed zero and negative rides, leaving about 791,746 rides.",
+        "Wrote two DAX measures (total rides and average ride length) and built a Power BI page comparing riders by ride length, start hour, station and day of week."
       ],
-      result: "Members mostly take short weekday trips (commuting) while casual riders take longer weekend and leisure trips, with three membership recommendations.",
-      images: ["Final_Output/Charts/03_rides_by_weekday.png","Final_Output/Charts/02_ridelength_by_type.png"],
+      result: "Casual riders take longer rides and ride more on weekends. Members ride mostly in the morning and evening, which suggests commuting. I wrote four recommendations, including weekend promotions and campaigns at stations popular with casual riders.",
+      images: [],
       links: [
-        {label:"View report", href:"https://github.com/elyascareers/elyas-project/blob/main/Final_Output/Cyclistic_Report.md", primary:true},
-        {label:"GitHub", href:"https://github.com/elyascareers/elyas-project"}
+        {label:"Read the report", href:"https://github.com/elyascareers/elyas-project/blob/main/data-analytics/05_Share/Cyclistic_Analysis_Report.md", primary:true},
+        {label:"Project folder", href:"https://github.com/elyascareers/elyas-project/tree/main/data-analytics"}
+      ]
+    },
+    {
+      title: "4 · Customer Segmentation (RFM)",
+      sub: "Digital marketing & e-commerce · learning project, Power BI",
+      role: "Analyst (learning project)",
+      situation: "In a sample marketing dataset, only about 15% of campaign offers got a response, so most of the budget reached people who did not buy.",
+      action: [
+        "Cleaned about 2,200 customer records.",
+        "Built a basic RFM segmentation (Recency, Frequency, Monetary) and grouped customers into five segments."
+      ],
+      result: "The most active segment (24% of customers) responded at about 30%, compared with about 1% for the least active group. This points to focusing budget on top segments and testing a win-back offer for lapsed customers.",
+      images: ["digital-marketing/Final_Output/Charts/02_response_by_segment.png","digital-marketing/Final_Output/Charts/01_segment_sizes.png"],
+      links: [
+        {label:"Read the report", href:"https://github.com/elyascareers/elyas-project/blob/main/digital-marketing/Final_Output/Marketing_Report.md", primary:true},
+        {label:"Project folder", href:"https://github.com/elyascareers/elyas-project/tree/main/digital-marketing"}
       ]
     }
   ],
@@ -233,7 +253,7 @@ document.getElementById('projects-root').innerHTML = DATA.projects.map(p => `
     <div class="star"><b>What I did</b><div>${block(p.action)}</div></div>
     <div class="star"><b>Result</b><div>${block(p.result)}${p.built&&p.built.length?block(p.built):''}</div></div>
     ${p.images&&p.images.length?`<div class="charts">${p.images.map(s=>`<img loading="lazy" decoding="async" width="640" height="360" src="${esc(s)}" alt="${esc(p.title)} chart">`).join('')}</div>`:''}
-    <div class="btns">${p.links.map(l=>`<a class="btn ${l.primary?'primary':''}" href="${esc(l.href)}"${isExternal(l.href)?' target="_blank" rel="noopener noreferrer"':''}>${esc(l.label)}${isExternal(l.href)?' <span aria-hidden="true">&#8599;</span>':''}</a>`).join('')}</div>
+    <div class="btns">${p.links.map(l=>`<a class="btn ${l.primary?'primary':''}" href="${esc(l.href)}"${isExternal(l.href)?' target="_blank" rel="noopener noreferrer"':''}>${esc(l.label)}${isExternal(l.href)?' <span aria-hidden="true">&#8599;</span><span class="sr-only"> (opens in a new tab)</span>':''}</a>`).join('')}</div>
   </article>`).join('');
 document.getElementById('about-root').innerHTML = DATA.about.map(t=>`<p>${esc(t)}</p>`).join('');
 document.getElementById('footer-root').innerHTML =
