@@ -16,75 +16,80 @@
 <meta name="color-scheme" content="light">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%231d4ed8'/%3E%3Ctext x='32' y='44' font-family='system-ui,Segoe UI,Arial,sans-serif' font-size='34' font-weight='700' fill='%23ffffff' text-anchor='middle'%3EE%3C/text%3E%3C/svg%3E">
 <style>
-  /* Light, high-contrast theme. White/soft-grey surfaces, near-black text, one blue accent (links and buttons only).
-     Contrast: text #1a2230 on #fff = 16:1; muted #4a5568 on #fff = 7.5:1; accent #1d4ed8 on #fff = 6.7:1. */
-  :root{--bg:#ffffff;--soft:#f5f7fa;--card:#ffffff;--ink:#1a2230;--muted:#4a5568;--line:#d9dee6;--chip:#eef2f7;--accent:#1d4ed8;--accent-hover:#1e40af;--on-accent:#ffffff;--r:12px;--r-sm:8px}
+  /* Minimalist editorial theme: one surface color, near-black ink, a single accent used sparingly,
+     a strict type/spacing scale, and whitespace doing most of the layout work.
+     Contrast: ink #16181d on #fff = 17.9:1; muted #5b6370 on #fff = 5.9:1; accent #1d4ed8 on #fff = 6.7:1. */
+  :root{--bg:#ffffff;--ink:#16181d;--muted:#5b6370;--faint:#8b93a1;--line:#e6e8ec;--line-soft:#f0f1f4;--accent:#1d4ed8;--accent-hover:#1534a6;--on-accent:#ffffff;--r:10px;--r-sm:6px;
+    --sp-1:8px;--sp-2:16px;--sp-3:24px;--sp-4:40px;--sp-5:64px;--sp-6:96px}
   *{box-sizing:border-box}
   html{scroll-behavior:smooth}
-  body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:1.0625rem;line-height:1.65;background:var(--bg);color:var(--ink)}
-  a{color:var(--accent);text-underline-offset:3px}
+  body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",system-ui,Roboto,Helvetica,Arial,sans-serif;font-size:1.0625rem;line-height:1.6;background:var(--bg);color:var(--ink);-webkit-font-smoothing:antialiased}
+  a{color:var(--accent);text-underline-offset:3px;text-decoration-thickness:1px}
   a:hover{color:var(--accent-hover)}
-  :focus-visible{outline:3px solid var(--accent);outline-offset:3px;border-radius:4px}
-  .wrap{max-width:1040px;margin:0 auto;padding:0 24px}
+  :focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:4px}
+  .wrap{max-width:720px;margin:0 auto;padding:0 24px}
   .sr-only{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
   .skip-link{position:absolute;left:-9999px;top:0;background:var(--accent);color:var(--on-accent);font-weight:600;padding:10px 16px;border-radius:0 0 var(--r-sm) 0;z-index:100}
   .skip-link:focus{left:0}
-  /* nav */
-  nav{position:sticky;top:0;z-index:40;background:rgba(255,255,255,.96);backdrop-filter:blur(6px);border-bottom:1px solid var(--line)}
-  nav .wrap{display:flex;align-items:center;justify-content:space-between;min-height:60px}
-  nav .name{font-weight:700}
+  /* nav: quiet, text-only, no chrome until you scroll */
+  nav{position:sticky;top:0;z-index:40;background:rgba(255,255,255,.88);backdrop-filter:blur(10px);border-bottom:1px solid transparent;transition:border-color .2s}
+  body.scrolled nav{border-bottom-color:var(--line)}
+  nav .wrap{display:flex;align-items:center;justify-content:space-between;min-height:56px}
+  nav .name{font-weight:600;font-size:.95rem;color:var(--ink);text-decoration:none}
   nav .links{display:flex;gap:4px}
-  nav .links a{display:inline-flex;align-items:center;min-height:44px;color:var(--muted);font-size:.95rem;padding:10px 12px;border-radius:var(--r-sm);text-decoration:none}
-  nav .links a:hover{color:var(--accent);background:var(--chip)}
-  /* hero */
-  header{padding:96px 0 72px;background:var(--soft);border-bottom:1px solid var(--line)}
-  .eyebrow{color:var(--accent);font-weight:700;letter-spacing:.08em;text-transform:uppercase;font-size:.8rem;margin:0 0 14px}
-  header h1{margin:0 0 20px;font-size:clamp(2.2rem,5.5vw,3.4rem);line-height:1.08;font-weight:800;letter-spacing:-.02em}
-  .pitch{margin:0;color:var(--ink);font-size:1.2rem;line-height:1.6;max-width:60ch}
-  .meta{margin:20px 0 0;color:var(--muted);font-size:.95rem;max-width:70ch}
-  .cta{margin-top:32px;display:flex;gap:12px;flex-wrap:wrap}
-  /* buttons */
-  .btn{display:inline-flex;align-items:center;justify-content:center;gap:6px;min-height:44px;padding:10px 20px;border-radius:var(--r);border:1px solid var(--line);background:var(--bg);color:var(--ink);font:inherit;font-size:.95rem;font-weight:600;cursor:pointer;text-decoration:none;transition:background .15s,border-color .15s,transform .15s}
-  .btn:hover{border-color:var(--accent);color:var(--accent)}
-  .btn:active{transform:translateY(1px)}
+  nav .links a{display:inline-flex;align-items:center;min-height:40px;color:var(--muted);font-size:.9rem;padding:8px 12px;border-radius:var(--r-sm);text-decoration:none;transition:color .15s}
+  nav .links a:hover{color:var(--ink)}
+  /* hero: generous air, one clear statement, modest type scale (no oversized display type) */
+  header{padding:var(--sp-6) 0 var(--sp-5)}
+  .eyebrow{color:var(--accent);font-weight:600;letter-spacing:.04em;text-transform:uppercase;font-size:.78rem;margin:0 0 var(--sp-2)}
+  header h1{margin:0 0 var(--sp-2);font-size:clamp(1.9rem,4.2vw,2.5rem);line-height:1.18;font-weight:700;letter-spacing:-.015em}
+  .pitch{margin:0;color:var(--muted);font-size:1.1rem;line-height:1.6;max-width:58ch}
+  .meta{margin:var(--sp-3) 0 0;color:var(--faint);font-size:.88rem;line-height:1.6;max-width:62ch}
+  .cta{margin-top:var(--sp-4);display:flex;gap:12px;flex-wrap:wrap}
+  /* buttons: one filled, one quiet */
+  .btn{display:inline-flex;align-items:center;justify-content:center;gap:6px;min-height:42px;padding:9px 18px;border-radius:var(--r-sm);border:1px solid var(--line);background:var(--bg);color:var(--ink);font:inherit;font-size:.92rem;font-weight:600;cursor:pointer;text-decoration:none;transition:border-color .15s,background .15s,color .15s}
+  .btn:hover{border-color:var(--ink);color:var(--ink);background:var(--line-soft)}
   .btn.primary{background:var(--accent);border-color:var(--accent);color:var(--on-accent)}
   .btn.primary:hover{background:var(--accent-hover);border-color:var(--accent-hover);color:var(--on-accent)}
-  /* sections */
-  section{padding:72px 0;border-bottom:1px solid var(--line);scroll-margin-top:60px}
-  section.alt{background:var(--soft)}
-  h2{font-size:1.85rem;line-height:1.2;font-weight:700;margin:0 0 8px;letter-spacing:-.01em}
-  .lead{color:var(--muted);font-size:1.05rem;margin:0 0 36px}
-  #skills-root{display:grid;grid-template-columns:repeat(2,1fr);gap:24px 40px}
-  .skillgroup h3{font-size:.98rem;font-weight:600;margin:0 0 8px}
-  .skillgroup h3 small{color:var(--muted);font-weight:400;font-size:.85rem}
+  /* sections: rhythm comes from spacing + a single hairline, not boxes or alternating fills */
+  section{padding:var(--sp-5) 0;scroll-margin-top:56px}
+  section + section{border-top:1px solid var(--line)}
+  h2{font-size:1.3rem;line-height:1.3;font-weight:700;margin:0 0 4px;letter-spacing:-.01em}
+  .lead{color:var(--muted);font-size:.95rem;margin:0 0 var(--sp-4)}
+  #skills-root{display:grid;grid-template-columns:1fr 1fr;gap:var(--sp-4) var(--sp-4)}
+  .skillgroup h3{font-size:.88rem;font-weight:600;margin:0 0 10px;color:var(--ink)}
+  .skillgroup h3 small{color:var(--faint);font-weight:400;font-size:.82rem}
   .badges{display:flex;flex-wrap:wrap;gap:6px}
-  .badge{background:var(--chip);border:1px solid var(--line);border-radius:var(--r-sm);padding:4px 10px;font-size:.82rem;line-height:1.4;color:var(--ink)}
-  /* project cards */
-  .card{background:var(--card);border:1px solid var(--line);border-radius:var(--r);padding:32px;margin-bottom:28px;box-shadow:0 1px 2px rgba(26,34,48,.04)}
-  .card h3{margin:0 0 6px;font-size:1.35rem;line-height:1.3;font-weight:700}
-  .card .sub{color:var(--muted);font-size:.95rem;margin:0 0 6px}
-  .card .role{color:var(--muted);font-size:.95rem;margin:0 0 22px}
-  .card .role b{color:var(--ink)}
-  .star{display:grid;grid-template-columns:120px 1fr;gap:4px 20px;padding:16px 0;border-top:1px solid var(--line)}
-  .star>b{color:var(--muted);font-size:.78rem;text-transform:uppercase;letter-spacing:.06em;padding-top:5px}
-  .star p{margin:0}
-  .points{margin:0;padding-left:20px}
+  .badge{background:var(--bg);border:1px solid var(--line);border-radius:999px;padding:5px 12px;font-size:.8rem;line-height:1.3;color:var(--muted)}
+  /* project list: editorial rows, not heavy cards */
+  .card{padding:var(--sp-4) 0;border-top:1px solid var(--line)}
+  .card:first-child{border-top:0;padding-top:0}
+  .card h3{margin:0 0 4px;font-size:1.1rem;line-height:1.35;font-weight:700;color:var(--ink)}
+  .card .sub{color:var(--accent);font-size:.82rem;font-weight:600;margin:0 0 14px}
+  .card .role{color:var(--faint);font-size:.85rem;margin:0 0 18px}
+  .card .role b{color:var(--muted);font-weight:600}
+  .star{padding:14px 0}
+  .star+.star{border-top:1px solid var(--line-soft)}
+  .star>b{display:block;color:var(--faint);font-size:.72rem;text-transform:uppercase;letter-spacing:.06em;margin-bottom:6px}
+  .star p{margin:0;color:var(--muted)}
+  .points{margin:0;padding-left:18px;color:var(--muted)}
   .points li{margin-bottom:6px}
   .points li:last-child{margin-bottom:0}
-  .star .points+.points,.star p+.points{margin-top:12px}
-  .charts{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:8px 0 4px}
+  .star .points+.points,.star p+.points{margin-top:10px}
+  .charts{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:14px 0 4px}
   .charts img{width:100%;height:auto;aspect-ratio:16/9;object-fit:contain;border-radius:var(--r-sm);background:#fff;border:1px solid var(--line);padding:6px}
-  .btns{display:flex;flex-wrap:wrap;gap:12px;margin-top:20px;padding-top:20px;border-top:1px solid var(--line)}
-  .about p{margin:0 0 16px;max-width:68ch;font-size:1.05rem}
-  footer{padding:40px 0 100px;color:var(--muted);font-size:.95rem;background:var(--soft)}
-  footer .wrap{display:flex;flex-wrap:wrap;align-items:center;gap:12px 24px}
-  #copy-status{color:var(--ink);font-size:.9rem;min-height:1.2em}
-  .sticky{position:fixed;right:18px;bottom:18px;z-index:50;box-shadow:0 6px 20px rgba(26,34,48,.25);opacity:0;transform:translateY(12px);pointer-events:none;transition:opacity .2s,transform .2s}
+  .btns{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}
+  .about p{margin:0 0 16px;max-width:64ch;font-size:1rem;color:var(--muted)}
+  footer{padding:var(--sp-4) 0 var(--sp-6);color:var(--faint);font-size:.85rem;border-top:1px solid var(--line)}
+  footer .wrap{display:flex;flex-wrap:wrap;align-items:center;gap:10px 20px}
+  footer a{color:var(--muted)}
+  #copy-status{color:var(--muted);font-size:.85rem;min-height:1.2em}
+  .sticky{position:fixed;right:20px;bottom:20px;z-index:50;box-shadow:0 8px 24px rgba(22,24,29,.18);opacity:0;transform:translateY(8px);pointer-events:none;transition:opacity .2s,transform .2s}
   .sticky.show{opacity:1;transform:translateY(0);pointer-events:auto}
-  @media(max-width:760px){#skills-root{grid-template-columns:1fr;gap:28px}.star{grid-template-columns:1fr;gap:6px}.card{padding:24px 20px}}
-  @media(max-width:640px){section{padding:52px 0}header{padding:64px 0 48px}.charts{grid-template-columns:1fr}.wrap{padding:0 18px}}
-  @media(max-width:420px){nav .links a{padding:10px 8px;font-size:.88rem}nav .name{font-size:.95rem}}
-  @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.btn,.sticky{transition:none}}
+  @media(max-width:760px){#skills-root{grid-template-columns:1fr;gap:var(--sp-4)}}
+  @media(max-width:640px){section{padding:var(--sp-4) 0}header{padding:var(--sp-5) 0 var(--sp-4)}.charts{grid-template-columns:1fr}.wrap{padding:0 18px}}
+  @media(max-width:420px){nav .links a{padding:8px 8px;font-size:.85rem}nav .name{font-size:.9rem}}
+  @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.btn,.sticky,nav{transition:none}}
 </style>
 </head>
 <body>
@@ -260,7 +265,11 @@ copyBtn.addEventListener('click', async () => {
 /* show the sticky Contact button only after scrolling past the hero */
 const stickyBtn = document.getElementById('sticky-contact');
 const heroEl = document.querySelector('header');
-const toggleSticky = () => stickyBtn.classList.toggle('show', heroEl.getBoundingClientRect().bottom < 0);
+const toggleSticky = () => {
+  const pastHero = heroEl.getBoundingClientRect().bottom < 0;
+  stickyBtn.classList.toggle('show', pastHero);
+  document.body.classList.toggle('scrolled', window.scrollY > 4);
+};
 window.addEventListener('scroll', toggleSticky, {passive:true});
 toggleSticky();
 </script>
