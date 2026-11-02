@@ -4,15 +4,15 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Elyas Zulqarnain — Portfolio</title>
-<meta name="description" content="Elyas Zulqarnain — entry-level digital marketing and e-commerce professional with a B.Sc. in Marketing, foundational data analytics skills, working AI fluency, and 10+ years of operations experience.">
+<meta name="description" content="Elyas Zulqarnain — administrative and operations professional with 10+ years of experience, a B.Sc. in Marketing, foundational digital marketing and data analytics skills, and working AI fluency.">
 <link rel="canonical" href="https://elyasportfolio.onrender.com/">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Elyas Zulqarnain — Portfolio">
-<meta property="og:description" content="Entry-level digital marketing and e-commerce professional with a B.Sc. in Marketing, foundational data analytics skills, working AI fluency, and 10+ years of operations experience.">
+<meta property="og:description" content="Administrative and operations professional with 10+ years of experience, a B.Sc. in Marketing, foundational digital marketing and data analytics skills, and working AI fluency.">
 <meta property="og:url" content="https://elyasportfolio.onrender.com/">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Elyas Zulqarnain — Portfolio">
-<meta name="twitter:description" content="Entry-level digital marketing and e-commerce professional with a B.Sc. in Marketing, foundational data analytics skills, working AI fluency, and 10+ years of operations experience.">
+<meta name="twitter:description" content="Administrative and operations professional with 10+ years of experience, a B.Sc. in Marketing, foundational digital marketing and data analytics skills, and working AI fluency.">
 <meta name="color-scheme" content="light">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%231d4ed8'/%3E%3Ctext x='32' y='44' font-family='system-ui,Segoe UI,Arial,sans-serif' font-size='34' font-weight='700' fill='%23ffffff' text-anchor='middle'%3EE%3C/text%3E%3C/svg%3E">
 <style>
@@ -20,7 +20,8 @@
      a strict type/spacing scale, and whitespace doing most of the layout work.
      Contrast: ink #16181d on #fff = 17.9:1; muted #5b6370 on #fff = 5.9:1; accent #1d4ed8 on #fff = 6.7:1. */
   :root{--bg:#ffffff;--ink:#16181d;--muted:#5b6370;--faint:#8b93a1;--line:#e6e8ec;--line-soft:#f0f1f4;--accent:#1d4ed8;--accent-hover:#1534a6;--on-accent:#ffffff;--r:10px;--r-sm:6px;
-    --sp-1:8px;--sp-2:16px;--sp-3:24px;--sp-4:40px;--sp-5:64px;--sp-6:96px}
+    --sp-1:8px;--sp-2:16px;--sp-3:24px;--sp-4:40px;--sp-5:64px;--sp-6:96px;
+    --c1:#1d4ed8;--c1-soft:#e8eefd;--c2:#0d9488;--c2-soft:#e4f5f3;--c3:#b45309;--c3-soft:#fbead2;--c4:#7c3aed;--c4-soft:#f0e9fd;--c5:#be123c;--c5-soft:#fce4e9;--c6:#0369a1;--c6-soft:#e0f0fa}
   *{box-sizing:border-box}
   html{scroll-behavior:smooth}
   body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",system-ui,Roboto,Helvetica,Arial,sans-serif;font-size:1.0625rem;line-height:1.6;background:var(--bg);color:var(--ink);-webkit-font-smoothing:antialiased}
@@ -40,7 +41,7 @@
   nav .links a{display:inline-flex;align-items:center;min-height:40px;color:var(--muted);font-size:.9rem;padding:8px 12px;border-radius:var(--r-sm);text-decoration:none;transition:color .15s}
   nav .links a:hover{color:var(--ink)}
   /* hero: generous air, one clear statement, modest type scale (no oversized display type) */
-  header{padding:var(--sp-6) 0 var(--sp-5)}
+  header{padding:var(--sp-6) 0 var(--sp-5);background:linear-gradient(180deg,var(--c1-soft) 0%,rgba(232,238,253,0) 100%)}
   .eyebrow{color:var(--accent);font-weight:600;letter-spacing:.04em;text-transform:uppercase;font-size:.78rem;margin:0 0 var(--sp-2)}
   header h1{margin:0 0 var(--sp-2);font-size:clamp(1.9rem,4.2vw,2.5rem);line-height:1.18;font-weight:700;letter-spacing:-.015em}
   .pitch{margin:0;color:var(--muted);font-size:1.1rem;line-height:1.6;max-width:58ch}
@@ -57,15 +58,16 @@
   h2{font-size:1.3rem;line-height:1.3;font-weight:700;margin:0 0 4px;letter-spacing:-.01em}
   .lead{color:var(--muted);font-size:.95rem;margin:0 0 var(--sp-4)}
   #skills-root{display:grid;grid-template-columns:1fr 1fr;gap:var(--sp-4) var(--sp-4)}
-  .skillgroup h3{font-size:.88rem;font-weight:600;margin:0 0 10px;color:var(--ink)}
+  .skillgroup h3{font-size:.88rem;font-weight:600;margin:0 0 10px;color:var(--ink);display:flex;align-items:center;gap:8px}
+  .skillgroup h3::before{content:"";width:9px;height:9px;border-radius:50%;background:var(--group-c,var(--c1));flex:none}
   .skillgroup h3 small{color:var(--faint);font-weight:400;font-size:.82rem}
   .badges{display:flex;flex-wrap:wrap;gap:6px}
-  .badge{background:var(--bg);border:1px solid var(--line);border-radius:999px;padding:5px 12px;font-size:.8rem;line-height:1.3;color:var(--muted)}
+  .badge{background:var(--group-soft,var(--c1-soft));border:1px solid var(--line);border-radius:999px;padding:5px 12px;font-size:.8rem;line-height:1.3;color:var(--ink)}
   /* project list: editorial rows, not heavy cards */
-  .card{padding:var(--sp-4) 0;border-top:1px solid var(--line)}
+  .card{padding:var(--sp-4) 0;border-top:3px solid var(--card-c,var(--line))}
   .card:first-child{border-top:0;padding-top:0}
   .card h3{margin:0 0 4px;font-size:1.1rem;line-height:1.35;font-weight:700;color:var(--ink)}
-  .card .sub{color:var(--accent);font-size:.82rem;font-weight:600;margin:0 0 14px}
+  .card .sub{color:var(--card-c,var(--accent));font-size:.82rem;font-weight:600;margin:0 0 14px}
   .card .role{color:var(--faint);font-size:.85rem;margin:0 0 18px}
   .card .role b{color:var(--muted);font-weight:600}
   .star{padding:14px 0}
@@ -218,7 +220,7 @@ const DATA = {
     }
   ],
   about: [
-    "I'm Elyas Zulqarnain, an entry-level digital marketing and e-commerce professional with a B.Sc. in Marketing and 10+ years of experience in operations and administration, including roles as a branch manager and school administrator.",
+    "I'm Elyas Zulqarnain, an administrative and operations professional with a B.Sc. in Marketing and 10+ years of experience in operations and administration, including roles as a branch manager and school administrator.",
     "My recent focus is building foundational skills in digital marketing, e-commerce, and data analysis, and using AI tools to support that work. I learn by working on real projects, such as Simple Titbit, and I'm open about what is still early or unfinished. Based in the UAE, and open to office administration and generalist roles, with digital marketing and e-commerce roles also welcome for someone building that experience."
   ]
 };
@@ -231,11 +233,14 @@ document.getElementById('pitch-text').textContent = DATA.profile.pitch;
 document.getElementById('pitch-meta').textContent = DATA.profile.meta;
 const mail = "mailto:" + DATA.profile.email;
 ["pitch-email","sticky-contact","nav-contact"].forEach(id=>document.getElementById(id).href = mail);
-document.getElementById('skills-root').innerHTML = DATA.skills.map(g =>
-  `<div class="skillgroup"><h3>${esc(g.group)} <small>&mdash; ${esc(g.level)}</small></h3><div class="badges">${
-    g.items.map(i=>`<span class="badge">${esc(i)}</span>`).join('')}</div></div>`).join('');
-document.getElementById('projects-root').innerHTML = DATA.projects.map(p => `
-  <article class="card">
+const PALETTE = ['c1','c2','c3','c4','c5','c6'];
+document.getElementById('skills-root').innerHTML = DATA.skills.map((g,i) => {
+  const c = PALETTE[i % PALETTE.length];
+  return `<div class="skillgroup" style="--group-c:var(--${c});--group-soft:var(--${c}-soft)"><h3>${esc(g.group)} <small>&mdash; ${esc(g.level)}</small></h3><div class="badges">${
+    g.items.map(it=>`<span class="badge">${esc(it)}</span>`).join('')}</div></div>`;
+}).join('');
+document.getElementById('projects-root').innerHTML = DATA.projects.map((p,i) => { const c = PALETTE[i % PALETTE.length]; return `
+  <article class="card" style="--card-c:var(--${c})">
     <h3>${esc(p.title)}</h3>
     <p class="sub">${esc(p.sub)}</p>
     <p class="role"><b>My role:</b> ${esc(p.role)}</p>
@@ -244,7 +249,7 @@ document.getElementById('projects-root').innerHTML = DATA.projects.map(p => `
     <div class="star"><b>Result</b><div>${block(p.result)}${p.built&&p.built.length?block(p.built):''}</div></div>
     ${p.images&&p.images.length?`<div class="charts">${p.images.map(s=>`<img loading="lazy" decoding="async" width="640" height="360" src="${esc(s)}" alt="${esc(p.title)} chart">`).join('')}</div>`:''}
     <div class="btns">${p.links.map(l=>`<a class="btn ${l.primary?'primary':''}" href="${esc(l.href)}"${isExternal(l.href)?' target="_blank" rel="noopener noreferrer"':''}>${esc(l.label)}${isExternal(l.href)?' <span aria-hidden="true">&#8599;</span><span class="sr-only"> (opens in a new tab)</span>':''}</a>`).join('')}</div>
-  </article>`).join('');
+  </article>`;}).join('');
 document.getElementById('about-root').innerHTML = DATA.about.map(t=>`<p>${esc(t)}</p>`).join('');
 document.getElementById('footer-root').innerHTML =
   `<span>Email: <a href="${mail}">${esc(DATA.profile.email)}</a></span><span>GitHub: <a href="${esc(DATA.profile.github)}" target="_blank" rel="noopener noreferrer">github.com/elyascareers</a></span><button class="btn" id="copy-email" type="button">Copy email</button><span id="copy-status" role="status" aria-live="polite"></span>`;
