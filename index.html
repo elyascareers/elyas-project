@@ -32,52 +32,69 @@
   nav .links a:hover{color:var(--ink);text-decoration:none}
   @media(max-width:560px){nav .links{gap:10px}nav .links a{font-size:.82rem}}
   @media(max-width:400px){nav .links a:nth-child(3){display:none}}
-  header{padding:64px 0 44px;border-bottom:1px solid var(--line)}
+  header{padding:64px 0 40px;border-bottom:1px solid var(--line)}
   .eyebrow{color:var(--accent);font-weight:600;letter-spacing:.04em;text-transform:uppercase;font-size:.8rem;margin:0 0 10px}
-  header h1{margin:0 0 14px;font-size:2.3rem;line-height:1.15}
+  header h1{margin:0 0 14px;font-size:clamp(2rem,5vw,3rem);line-height:1.1}
   header h1 .grad{color:var(--accent)}
-  .pitch{margin:0;color:var(--muted);font-size:1.12rem;max-width:62ch}
-  .meta{margin-top:16px;color:var(--muted);font-size:.92rem}
-  .cta{margin-top:22px;display:flex;gap:10px;flex-wrap:wrap}
+  .pitch{margin:0;color:var(--muted);font-size:1.15rem;max-width:62ch}
+  .meta{margin-top:14px;color:var(--muted);font-size:.9rem}
+  .highlights{list-style:none;margin:20px 0 0;padding:0;display:flex;flex-direction:column;gap:8px}
+  .highlights li{display:flex;gap:10px;align-items:flex-start;font-size:.96rem;color:var(--ink)}
+  .highlights li .ico{flex:0 0 auto}
+  .cta{margin-top:24px;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
   .btn{display:inline-block;padding:10px 18px;border-radius:8px;border:1px solid var(--line);background:var(--chip);color:var(--ink);font-size:.92rem;transition:opacity .15s,transform .15s}
   .btn.primary{background:var(--accent);border-color:var(--accent);color:#1a1206;font-weight:600}
   .btn:hover{text-decoration:none;opacity:.92;transform:translateY(-1px)}
+  .cta .textlink{font-size:.92rem;color:var(--muted)}
   section{padding:46px 0;border-bottom:1px solid var(--line)}
   section:nth-of-type(even){background:rgba(255,255,255,.015)}
   h2{font-size:1.4rem;margin:0 0 6px}
   .lead{color:var(--muted);margin:0 0 22px}
-  .skillgroup{margin-bottom:18px}
+  .tier-label{font-size:.78rem;text-transform:uppercase;letter-spacing:.06em;color:var(--accent);font-weight:700;margin:26px 0 14px}
+  .tier-label:first-of-type{margin-top:0}
+  .skillgroup{margin-bottom:16px;padding-left:12px;border-left:2px solid var(--line)}
+  .skillgroup.tier-1{border-left-color:var(--accent)}
   .skillgroup h3{font-size:.95rem;margin:0 0 8px}
   .skillgroup h3 small{color:var(--muted);font-weight:400}
   .badges{display:flex;flex-wrap:wrap;gap:8px}
   .badge{background:var(--chip);border:1px solid var(--line);border-radius:20px;padding:5px 13px;font-size:.85rem;color:var(--muted)}
+  .skillgroup.tier-1 .badge{color:var(--ink);border-color:#3a4a5a}
+  .skills-grid{display:grid;grid-template-columns:1fr 1fr;gap:0 28px}
+  @media(max-width:700px){.skills-grid{grid-template-columns:1fr}}
   .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:24px;margin-bottom:22px}
-  .card h3{margin:0 0 4px;font-size:1.2rem}
-  .card .sub{color:var(--muted);font-size:.9rem;margin-bottom:16px}
+  .card h3{margin:0 0 4px;font-size:1.25rem}
+  .card .outcome{color:var(--ink);font-size:.98rem;margin:0 0 4px;font-weight:600}
+  .card .sub{color:var(--muted);font-size:.86rem;margin-bottom:14px}
+  .chips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:16px}
+  .chip{background:var(--bg);border:1px solid var(--line);border-radius:6px;padding:3px 10px;font-size:.78rem;color:var(--muted)}
   .star{margin:0 0 10px}
   .star b{display:block;color:var(--accent);font-size:.75rem;text-transform:uppercase;letter-spacing:.06em;margin-bottom:4px}
   .star div,.star p{margin:0;color:var(--ink)}
   .points{margin:0;padding-left:18px;color:var(--ink)}
   .points li{margin-bottom:6px}
   .points li:last-child{margin-bottom:0}
+  .result-head{font-weight:700;color:var(--ink)}
   .charts{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:16px 0 4px}
   .charts img{width:100%;aspect-ratio:16/9;object-fit:contain;border-radius:8px;background:#fff;padding:6px}
   .btns{display:flex;flex-wrap:wrap;gap:10px;margin-top:16px}
   .about p{margin:0 0 14px;max-width:72ch}
+  .status-line{display:inline-flex;align-items:center;gap:8px;background:var(--chip);border:1px solid var(--line);border-radius:20px;padding:6px 14px;font-size:.85rem;color:var(--muted);margin-bottom:16px}
+  .status-dot{width:8px;height:8px;border-radius:50%;background:#5fc88f;flex:0 0 auto}
   footer{padding:32px 0 90px;color:var(--muted);font-size:.9rem}
-  footer .wrap{display:flex;flex-wrap:wrap;align-items:center;gap:10px 20px}
+  footer .wrap{display:flex;flex-direction:column;gap:14px}
+  footer .row{display:flex;flex-wrap:wrap;align-items:center;gap:10px 20px}
   #copy-status{color:var(--muted);font-size:.85rem;min-height:1.2em}
   .sticky{position:fixed;right:18px;bottom:18px;z-index:50;background:var(--accent);color:#1a1206;font-weight:600;padding:12px 18px;border-radius:30px;box-shadow:0 6px 20px rgba(0,0,0,.35);font-size:.92rem;opacity:0;transform:translateY(12px);pointer-events:none;transition:opacity .2s,transform .2s}
   .sticky.show{opacity:1;transform:translateY(0);pointer-events:auto}
   .sticky:hover{text-decoration:none;opacity:.95}
-  @media(max-width:640px){header h1{font-size:1.85rem}.charts{grid-template-columns:1fr}}
+  @media(max-width:640px){.charts{grid-template-columns:1fr}}
   @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.btn,.sticky{transition:none}}
 </style>
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
 <nav><div class="wrap"><span class="name">Elyas Zulqarnain</span>
-  <span class="links"><a href="#skills">Skills</a><a href="#projects">Projects</a><a href="#about">About</a><a id="nav-contact" href="#">Contact</a></span>
+  <span class="links"><a href="#projects">Projects</a><a href="#skills">Skills</a><a href="#about">About</a><a id="nav-contact" href="#">Contact</a></span>
 </div></nav>
 
 <header>
@@ -86,25 +103,26 @@
     <h1 id="pitch-name"></h1>
     <p class="pitch" id="pitch-text"></p>
     <p class="meta" id="pitch-meta"></p>
+    <ul class="highlights" id="highlights-root"></ul>
     <div class="cta">
       <a class="btn primary" href="#projects">View projects</a>
-      <a class="btn" id="pitch-email" href="#">Email me</a>
+      <a class="textlink" id="pitch-email" href="#">Email me</a>
     </div>
   </div>
 </header>
 
 <main id="main">
-<section id="skills"><div class="wrap">
-  <h2>Skills</h2>
-  <p class="lead">An honest view, by area and level.</p>
-  <div id="skills-root"></div>
-  <noscript><p>This page needs JavaScript to show its content. You can reach me at elyas.careers@gmail.com.</p></noscript>
-</div></section>
-
 <section id="projects"><div class="wrap">
   <h2>Projects</h2>
-  <p class="lead">Each project: my role, the problem, what I did, and the result.</p>
+  <p class="lead">Each project: the outcome, my role, the tools, what I did, and the result.</p>
   <div id="projects-root"></div>
+</div></section>
+
+<section id="skills"><div class="wrap">
+  <h2>Skills</h2>
+  <p class="lead" id="skills-intro"></p>
+  <div id="skills-root"></div>
+  <noscript><p>This page needs JavaScript to show its content. You can reach me at elyas.careers@gmail.com.</p></noscript>
 </div></section>
 
 <section id="about"><div class="wrap about">
@@ -121,32 +139,39 @@
 const DATA = {
   profile: {
     name: "Elyas Zulqarnain",
-    pitch: "Administrative and operations professional with 10+ years in office administration, branch management, and school administration. B.Sc. in Marketing graduate with foundational digital marketing, e-commerce, and data analysis skills, plus working AI fluency that supports day-to-day productivity and reporting.",
-    meta: "Fujairah, UAE · B.Sc. Marketing · Google certificates in Data Analytics, Digital Marketing & E-commerce, and Prompting Essentials · No-Code AI for Business Professionals (Sep 2026).",
+    pitch: "10+ years running operations, branches, and school administration — now building digital marketing, data, and AI-supported workflow skills through real, shipped projects.",
+    meta: "Fujairah, UAE · B.Sc. Marketing · Google certified: Data Analytics, Digital Marketing & E-commerce, Prompting Essentials",
     email: "elyas.careers@gmail.com",
-    github: "https://github.com/elyascareers/elyas-project"
+    github: "https://github.com/elyascareers/elyas-project",
+    status: "Open to office administration, operations & generalist roles in the UAE — also open to digital marketing or e-commerce roles.",
+    highlights: [
+      { icon: "📊", text: "Analyzed 790K+ bike-share rides into a stakeholder-ready report (Cyclistic)" },
+      { icon: "🚀", text: "Directed AI tools to build and ship 5 live sites/apps, with no code written by hand" }
+    ]
   },
   skills: [
-    { group: "Marketing & Administration", level: "10+ years", items: ["Operations management","Branch & school administration","Team leadership","Workflow coordination","Stakeholder management","Customer service","Marketing fundamentals"] },
-    { group: "Digital Marketing & E-commerce", level: "foundational, learning by doing", items: ["Content & newsletter marketing","SEO basics","GA4 & Search Console basics","Social scheduling (Metricool)","Ebook store (Payhip)"] },
-    { group: "Data Analytics", level: "basic, used to support business decisions", items: ["Excel & Google Sheets","SQL (basic)","Power BI & Power Query (basics)","DAX measures (basic)","Data cleaning","Charts & reporting","Reading performance reports"] },
-    { group: "AI Fluency", level: "working / intermediate", items: ["Prompt design","Custom Claude skills I set up with AI","Connectors (MCP) to Gmail, Drive, GitHub & Render","Company knowledge base (RAG), set up & maintained","No-code AI automation (Notion AI, Zapier, Make)","Human-approval workflows","Checking AI output before use"] },
-    { group: "No-Code AI Building & Deploying", level: "working", items: ["Building sites & apps by directing AI","Domain & DNS setup (Namecheap)","Hosting (Namecheap cPanel, Render)","GitHub: repos, commits & updates","Updating & redeploying live sites","Testing before launch"] },
-    { group: "Tools", level: "working", items: ["MS Office","Google Workspace"] }
+    { tier: 1, group: "Marketing & Administration", level: "10+ years", items: ["Operations management","Branch & school administration","Team leadership","Workflow coordination","Stakeholder management","Customer service","Marketing fundamentals"] },
+    { tier: 2, group: "AI Fluency", level: "working / intermediate", items: ["Prompt design","Custom Claude skills I set up with AI","Connectors (MCP) to Gmail, Drive, GitHub & Render","Company knowledge base (RAG), set up & maintained","No-code AI automation (Notion AI, Zapier, Make)","Human-approval workflows","Checking AI output before use"] },
+    { tier: 2, group: "No-Code AI Building & Deploying", level: "working", items: ["Building sites & apps by directing AI","Domain & DNS setup (Namecheap)","Hosting (Namecheap cPanel, Render)","GitHub: repos, commits & updates","Updating & redeploying live sites","Testing before launch"] },
+    { tier: 2, group: "Tools", level: "working", items: ["MS Office","Google Workspace"] },
+    { tier: 3, group: "Digital Marketing & E-commerce", level: "foundational, learning by doing", items: ["Content & newsletter marketing","SEO basics","GA4 & Search Console basics","Social scheduling (Metricool)","Ebook store (Payhip)"] },
+    { tier: 3, group: "Data Analytics", level: "basic, used to support business decisions", items: ["Excel & Google Sheets","SQL (basic)","Power BI & Power Query (basics)","DAX measures (basic)","Data cleaning","Charts & reporting","Reading performance reports"] }
   ],
   projects: [
     {
-      title: "1 · Cyclistic Bike-Share Analysis",
-      sub: "Data analytics · Google Data Analytics capstone, Power BI",
-      role: "Analyst (course capstone, completed with guidance)",
-      situation: "A bike-share company wanted to understand how casual riders and annual members use its bikes differently, so marketing could convert casual riders into members.",
+      title: "Cyclistic Bike-Share Analysis",
+      outcome: "Turned 790K+ raw ride records into 4 data-backed recommendations for converting casual riders to members.",
+      sub: "Data analytics · Google Data Analytics capstone, completed with guidance",
+      role: "Analyst (course capstone)",
+      tools: ["Power BI","Power Query","DAX","Excel"],
       action: [
         "Imported Q1 2019 and Q1 2020 trip files into Power Query as separate queries, because their column names differed.",
         "Renamed and standardised columns, removed fields not found in both files, and combined the tables with Append Queries.",
         "Created a ride-length column and removed zero and negative rides, leaving about 791,746 rides.",
         "Wrote two DAX measures (total rides and average ride length) and built a Power BI page comparing riders by ride length, start hour, station and day of week."
       ],
-      result: "Casual riders take longer rides and ride more on weekends. Members ride mostly in the morning and evening, which suggests commuting. I wrote four recommendations, including weekend promotions and campaigns at stations popular with casual riders.",
+      resultHead: "Casual riders ride longer and mostly on weekends; members ride during commute hours.",
+      resultDetail: "That split led to 4 concrete recommendations, including weekend promotions and campaigns at stations popular with casual riders.",
       images: [],
       links: [
         {label:"Read the report", href:"https://github.com/elyascareers/elyas-project/blob/main/data-analytics/05_Share/Cyclistic_Analysis_Report.md", primary:true},
@@ -154,17 +179,20 @@ const DATA = {
       ]
     },
     {
-      title: "2 · Simple Titbit (ongoing since July 2026)",
-      sub: "Digital marketing & e-commerce · a real project I work on and learn from",
-      role: "Hands-on practitioner (learning by doing)",
-      situation: "Build an audience and start selling digital products from nothing, with no budget.",
+      title: "Simple Titbit",
+      outcome: "Building a content + ebook business from zero audience and zero budget — and tracking honestly what is and isn't working.",
+      sub: "Digital marketing & e-commerce · ongoing since July 2026",
+      role: "Founder / hands-on practitioner",
+      tools: ["GA4","Search Console","Substack","Payhip","Metricool"],
       action: [
-        "Run a weekly content plan across a website, a Substack newsletter, and social media, with SEO basics on every post.",
+        "Run a weekly content plan across a website, a Substack newsletter, and (paused) social, with SEO basics on every post.",
         "Published three ebooks on a Payhip store and promoted them on four platforms.",
-        "Track results with GA4, Search Console, and a private dashboard I had built, and review a weekly report to decide what to fix next.",
-        "Use AI for drafting; I approve everything before it goes out."
+        "Built a private dashboard to track GA4 and Search Console data, reviewed weekly to decide what to fix next.",
+        "Use AI for drafting; I approve everything before it goes out.",
+        "Deliberately paused social posting to stabilize the website, newsletter, and ebook pipeline first."
       ],
-      result: "24+ website posts and a weekly newsletter so far, with three ebooks on sale. The audience is still small and early results are weak, which has taught me first-hand how traffic, search visibility, and sales connect. I paused social posting on purpose to build a reliable website, newsletter, and ebook pipeline first, and will restart it once those are stable.",
+      resultHead: "24+ posts published, weekly newsletter running, 3 ebooks live.",
+      resultDetail: "Traffic and sales are still early — which has been a direct, first-hand lesson in how search visibility and conversion actually connect, not a vanity-metric exercise.",
       images: [],
       links: [
         {label:"Website", href:"https://www.simpletitbit.com", primary:true},
@@ -173,17 +201,19 @@ const DATA = {
       ]
     },
     {
-      title: "3 · Building and running websites and apps with no-code AI",
-      sub: "No-code AI · built and deployed by directing AI tools, with no code written by me",
-      role: "Product owner and tester; AI tools wrote the code",
-      situation: "Small businesses and schools need simple digital tools, and I don't write code.",
+      title: "Shipping Products with No-Code AI",
+      outcome: "Directed AI tools to design, build, and deploy 5 live products — without writing the code myself.",
+      sub: "No-code AI · built and deployed by directing AI tools",
+      role: "Product owner & tester (AI wrote the code, under my direction and QA)",
+      tools: ["Claude","GitHub","Render","Namecheap"],
       action: [
         "Described what was needed in plain language and directed AI tools (Claude, and Kimi for one app) to build it.",
         "Tested each version in a browser and on a phone, then sent back fixes.",
         "Handled the domain, hosting, GitHub, and redeploy steps with AI guidance.",
         "Kept written guides so any AI tool can continue the work."
       ],
-      result: "Five products built and deployed with no code written by me. Earlier prototypes (StockSafe, SafeRent, Stitchbook) are not listed.",
+      resultHead: "5 live products shipped, with no code written by hand.",
+      resultDetail: "A blog, a nonprofit site, an e-commerce storefront, and two internal-tool prototypes (finance/payroll, school admin). Earlier prototypes (StockSafe, SafeRent, Stitchbook) are not listed here.",
       built: [
         "Simple Titbit website: a static blog on its own domain (simpletitbit.com), with domain and hosting on Namecheap, code on GitHub, and a weekly update routine.",
         "FalahTrust website: a nonprofit website live on Render, with code on GitHub.",
@@ -200,35 +230,57 @@ const DATA = {
     }
   ],
   about: [
-    "I'm Elyas Zulqarnain, an administrative and operations professional with a B.Sc. in Marketing and 10+ years of experience in operations and administration, including roles as a branch manager and school administrator.",
-    "My recent focus is building foundational skills in digital marketing, e-commerce, and data analysis, and using AI tools to support that work. I learn by working on real projects, such as Simple Titbit, and I'm open about what is still early or unfinished. Based in the UAE, and open to office administration and generalist roles, with digital marketing and e-commerce roles also welcome for someone building that experience."
+    "I'm an administrative and operations professional with a B.Sc. in Marketing and 10+ years running operations, branches, and school administration. Over the past year I've added hands-on digital marketing, e-commerce, and data analysis skills, plus working AI fluency — built through real projects like the ones above, not just courses.",
+    "I'm open about what's early or unfinished — that's the honest state of a career transition. I'm actively looking for office administration, operations, or generalist roles in the UAE, and equally open to digital marketing or e-commerce roles where someone building that experience adds value."
   ]
 };
 /* ================================================================= */
 const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const isExternal = href => /^https?:\/\//.test(href);
 const block = v => Array.isArray(v) ? `<ul class="points">${v.map(i=>`<li>${esc(i)}</li>`).join('')}</ul>` : `<p>${esc(v)}</p>`;
+
 document.getElementById('pitch-name').innerHTML = esc(DATA.profile.name).replace(/(\S+)$/, '<span class="grad">$1</span>');
 document.getElementById('pitch-text').textContent = DATA.profile.pitch;
 document.getElementById('pitch-meta').textContent = DATA.profile.meta;
+document.getElementById('highlights-root').innerHTML = DATA.profile.highlights.map(h =>
+  `<li><span class="ico" aria-hidden="true">${h.icon}</span><span>${esc(h.text)}</span></li>`).join('');
 const mail = "mailto:" + DATA.profile.email;
 ["pitch-email","sticky-contact","nav-contact"].forEach(id=>document.getElementById(id).href = mail);
-document.getElementById('skills-root').innerHTML = DATA.skills.map(g =>
-  `<div class="skillgroup"><h3>${esc(g.group)} <small>&mdash; ${esc(g.level)}</small></h3><div class="badges">${
-    g.items.map(i=>`<span class="badge">${esc(i)}</span>`).join('')}</div></div>`).join('');
+
+document.getElementById('skills-intro').textContent = "An honest breakdown — what I've done for 10+ years, and what I'm actively building now.";
+
+const tierLabels = {1:"Core strength — 10+ years", 2:"Working proficiency", 3:"Foundational — actively building"};
+let skillsHtml = '';
+let lastTier = null;
+DATA.skills.forEach(g => {
+  if (g.tier !== lastTier) { skillsHtml += `<p class="tier-label">${esc(tierLabels[g.tier])}</p>`; lastTier = g.tier; }
+  skillsHtml += `<div class="skillgroup tier-${g.tier}"><h3>${esc(g.group)} <small>&mdash; ${esc(g.level)}</small></h3><div class="badges">${
+    g.items.map(i=>`<span class="badge">${esc(i)}</span>`).join('')}</div></div>`;
+});
+document.getElementById('skills-root').innerHTML = skillsHtml;
+
 document.getElementById('projects-root').innerHTML = DATA.projects.map(p => `
   <div class="card">
-    <h3>${esc(p.title)}</h3><div class="sub">${esc(p.sub)}</div>
-    <p class="star"><b>My role</b><span>${esc(p.role)}</span></p>
-    <div class="star"><b>Problem</b>${block(p.situation)}</div>
+    <h3>${esc(p.title)}</h3>
+    <p class="outcome">${esc(p.outcome)}</p>
+    <div class="sub">${esc(p.role)} &middot; ${esc(p.sub)}</div>
+    <div class="chips">${p.tools.map(t=>`<span class="chip">${esc(t)}</span>`).join('')}</div>
     <div class="star"><b>What I did</b>${block(p.action)}</div>
-    <div class="star"><b>Result</b>${block(p.result)}${p.built&&p.built.length?block(p.built):''}</div>
-    ${p.images&&p.images.length?`<div class="charts">${p.images.map(s=>`<img loading="lazy" src="${esc(s)}" alt="${esc(p.title)} chart">`).join('')}</div>`:''}
+    <div class="star"><b>Result</b><p><span class="result-head">${esc(p.resultHead)}</span> ${esc(p.resultDetail)}</p>${p.built&&p.built.length?block(p.built):''}</div>
+    ${p.images&&p.images.length?`<div class="charts">${p.images.map(s=>`<img loading="lazy" src="${esc(s)}" alt="${esc(p.title)} screenshot">`).join('')}</div>`:''}
     <div class="btns">${p.links.map(l=>`<a class="btn ${l.primary?'primary':''}" href="${esc(l.href)}"${isExternal(l.href)?' target="_blank" rel="noopener noreferrer"':''}>${esc(l.label)}${isExternal(l.href)?' <span aria-hidden="true">&#8599;</span>':''}</a>`).join('')}</div>
   </div>`).join('');
+
 document.getElementById('about-root').innerHTML = DATA.about.map(t=>`<p>${esc(t)}</p>`).join('');
-document.getElementById('footer-root').innerHTML =
-  `<span>Email: <a href="${mail}">${esc(DATA.profile.email)}</a></span><span>GitHub: <a href="${esc(DATA.profile.github)}" target="_blank" rel="noopener noreferrer">github.com/elyascareers</a></span><button class="btn" id="copy-email" type="button">Copy email</button><span id="copy-status" role="status" aria-live="polite"></span>`;
+
+document.getElementById('footer-root').innerHTML = `
+  <span class="status-line"><span class="status-dot" aria-hidden="true"></span>${esc(DATA.profile.status)}</span>
+  <div class="row">
+    <span>Email: <a href="${mail}">${esc(DATA.profile.email)}</a></span>
+    <span>GitHub: <a href="${esc(DATA.profile.github)}" target="_blank" rel="noopener noreferrer">github.com/elyascareers</a></span>
+    <button class="btn" id="copy-email" type="button">Copy email</button>
+    <span id="copy-status" role="status" aria-live="polite"></span>
+  </div>`;
 
 /* instant confirmation when the email address is copied */
 const copyBtn = document.getElementById('copy-email');
